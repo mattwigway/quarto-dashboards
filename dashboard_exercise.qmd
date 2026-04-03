@@ -8,6 +8,7 @@ fig-width: 7
 fig-height: 3
 # this will render plots as "vector", meaning they will be sharper
 fig-format: svg
+fig-dpi: 300
 ---
 
 ```{r}
@@ -113,7 +114,7 @@ list(
     # the title will include the year, so if we update the data
     # the dashboard will stay correct
     title = paste("% of children under 5,", under5$year),
-    # scales::comma adds commas after the thousands, millions, etc.
+    # scales::percent formats a proportion as a percentage
     value = scales::percent(under5$count / children$count)
 )
 ```
@@ -249,4 +250,5 @@ ggplot() +
 
 _Source: NC Child/NC Department of Health and Human Services (DHHS) in partnership with the UNC Jordan Institute for Families_
 
-<!-- Exercise: add a final tab "Permanency" here showing trends, a table, and a map of permanent placements after one year (data/permanency_rate.csv) -->
+<!-- Exercise: add a final tab "Permanency" here showing trends, a table, and a map of permanent placements after one year (data/permanency_rate.csv).
+    The data for the other sections on the NC Child Dashboard are also in the data/ folder is you want to do more. -->

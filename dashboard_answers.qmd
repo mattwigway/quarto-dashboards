@@ -8,6 +8,7 @@ fig-width: 7
 fig-height: 3
 # this will render plots as "vector", meaning they will be sharper
 fig-format: svg
+fig-dpi: 300
 ---
 
 ```{r}
