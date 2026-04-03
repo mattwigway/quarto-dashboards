@@ -1,0 +1,2425 @@
+Location,LocationID,FilterCategory,DataGroup,TimeFrame,DataFormat,Data,Unit
+North Carolina,37000,Total,Investigated,2018,"Rate per 1,000",49.5,"per 1,000 children"
+North Carolina,37000,Total,Substantiated,2018,"Rate per 1,000",8.5,"per 1,000 children"
+North Carolina,37000,Total,Investigated,2019,"Rate per 1,000",47.8,"per 1,000 children"
+North Carolina,37000,Total,Substantiated,2019,"Rate per 1,000",8.1,"per 1,000 children"
+North Carolina,37000,Total,Investigated,2020,"Rate per 1,000",44.9,"per 1,000 children"
+North Carolina,37000,Total,Substantiated,2020,"Rate per 1,000",8,"per 1,000 children"
+North Carolina,37000,Total,Investigated,2021,"Rate per 1,000",44.1,"per 1,000 children"
+North Carolina,37000,Total,Substantiated,2021,"Rate per 1,000",7.8,"per 1,000 children"
+North Carolina,37000,Total,Investigated,2022,"Rate per 1,000",46,"per 1,000 children"
+North Carolina,37000,Total,Substantiated,2022,"Rate per 1,000",7.7,"per 1,000 children"
+North Carolina,37000,Total,Investigated,2023,"Rate per 1,000",44.6,"per 1,000 children"
+North Carolina,37000,Total,Substantiated,2023,"Rate per 1,000",7.4,"per 1,000 children"
+North Carolina,37000,Total,Investigated,2018,Number,127843,
+North Carolina,37000,Total,Substantiated,2018,Number,22017,
+North Carolina,37000,Total,Investigated,2019,Number,123822,
+North Carolina,37000,Total,Substantiated,2019,Number,21105,
+North Carolina,37000,Total,Investigated,2020,Number,116610,
+North Carolina,37000,Total,Substantiated,2020,Number,20703,
+North Carolina,37000,Total,Investigated,2021,Number,113691,
+North Carolina,37000,Total,Substantiated,2021,Number,20078,
+North Carolina,37000,Total,Investigated,2022,Number,118485,
+North Carolina,37000,Total,Substantiated,2022,Number,19724,
+North Carolina,37000,Total,Investigated,2023,Number,115393,
+North Carolina,37000,Total,Substantiated,2023,Number,19017,
+Alamance,37001,Total,Investigated,2018,"Rate per 1,000",49.6,"per 1,000 children"
+Alamance,37001,Total,Substantiated,2018,"Rate per 1,000",6.7,"per 1,000 children"
+Alamance,37001,Total,Investigated,2019,"Rate per 1,000",49.5,"per 1,000 children"
+Alamance,37001,Total,Substantiated,2019,"Rate per 1,000",5.9,"per 1,000 children"
+Alamance,37001,Total,Investigated,2020,"Rate per 1,000",49,"per 1,000 children"
+Alamance,37001,Total,Substantiated,2020,"Rate per 1,000",5.5,"per 1,000 children"
+Alamance,37001,Total,Investigated,2021,"Rate per 1,000",44.9,"per 1,000 children"
+Alamance,37001,Total,Substantiated,2021,"Rate per 1,000",6.2,"per 1,000 children"
+Alamance,37001,Total,Investigated,2022,"Rate per 1,000",46.5,"per 1,000 children"
+Alamance,37001,Total,Substantiated,2022,"Rate per 1,000",5.3,"per 1,000 children"
+Alamance,37001,Total,Investigated,2023,"Rate per 1,000",39.8,"per 1,000 children"
+Alamance,37001,Total,Substantiated,2023,"Rate per 1,000",5.2,"per 1,000 children"
+Alamance,37001,Total,Investigated,2018,Number,2122,
+Alamance,37001,Total,Substantiated,2018,Number,285,
+Alamance,37001,Total,Investigated,2019,Number,2157,
+Alamance,37001,Total,Substantiated,2019,Number,255,
+Alamance,37001,Total,Investigated,2020,Number,2155,
+Alamance,37001,Total,Substantiated,2020,Number,243,
+Alamance,37001,Total,Investigated,2021,Number,1998,
+Alamance,37001,Total,Substantiated,2021,Number,275,
+Alamance,37001,Total,Investigated,2022,Number,2069,
+Alamance,37001,Total,Substantiated,2022,Number,236,
+Alamance,37001,Total,Investigated,2023,Number,1781,
+Alamance,37001,Total,Substantiated,2023,Number,233,
+Alexander,37003,Total,Investigated,2018,"Rate per 1,000",75.4,"per 1,000 children"
+Alexander,37003,Total,Substantiated,2018,"Rate per 1,000",10.4,"per 1,000 children"
+Alexander,37003,Total,Investigated,2019,"Rate per 1,000",63.4,"per 1,000 children"
+Alexander,37003,Total,Substantiated,2019,"Rate per 1,000",9.6,"per 1,000 children"
+Alexander,37003,Total,Investigated,2020,"Rate per 1,000",57.8,"per 1,000 children"
+Alexander,37003,Total,Substantiated,2020,"Rate per 1,000",9.5,"per 1,000 children"
+Alexander,37003,Total,Investigated,2021,"Rate per 1,000",65.6,"per 1,000 children"
+Alexander,37003,Total,Substantiated,2021,"Rate per 1,000",9.3,"per 1,000 children"
+Alexander,37003,Total,Investigated,2022,"Rate per 1,000",63.4,"per 1,000 children"
+Alexander,37003,Total,Substantiated,2022,"Rate per 1,000",7.6,"per 1,000 children"
+Alexander,37003,Total,Investigated,2023,"Rate per 1,000",77.8,"per 1,000 children"
+Alexander,37003,Total,Substantiated,2023,"Rate per 1,000",6.1,"per 1,000 children"
+Alexander,37003,Total,Investigated,2018,Number,625,
+Alexander,37003,Total,Substantiated,2018,Number,86,
+Alexander,37003,Total,Investigated,2019,Number,522,
+Alexander,37003,Total,Substantiated,2019,Number,79,
+Alexander,37003,Total,Investigated,2020,Number,472,
+Alexander,37003,Total,Substantiated,2020,Number,78,
+Alexander,37003,Total,Investigated,2021,Number,520,
+Alexander,37003,Total,Substantiated,2021,Number,74,
+Alexander,37003,Total,Investigated,2022,Number,500,
+Alexander,37003,Total,Substantiated,2022,Number,60,
+Alexander,37003,Total,Investigated,2023,Number,608,
+Alexander,37003,Total,Substantiated,2023,Number,48,
+Alleghany,37005,Total,Investigated,2018,"Rate per 1,000",83.3,"per 1,000 children"
+Alleghany,37005,Total,Substantiated,2018,"Rate per 1,000",20.8,"per 1,000 children"
+Alleghany,37005,Total,Investigated,2019,"Rate per 1,000",68.3,"per 1,000 children"
+Alleghany,37005,Total,Substantiated,2019,"Rate per 1,000",16.5,"per 1,000 children"
+Alleghany,37005,Total,Investigated,2020,"Rate per 1,000",68.2,"per 1,000 children"
+Alleghany,37005,Total,Substantiated,2020,"Rate per 1,000",15.4,"per 1,000 children"
+Alleghany,37005,Total,Investigated,2021,"Rate per 1,000",73.6,"per 1,000 children"
+Alleghany,37005,Total,Substantiated,2021,"Rate per 1,000",14.5,"per 1,000 children"
+Alleghany,37005,Total,Investigated,2022,"Rate per 1,000",55.2,"per 1,000 children"
+Alleghany,37005,Total,Substantiated,2022,"Rate per 1,000",18.4,"per 1,000 children"
+Alleghany,37005,Total,Investigated,2023,"Rate per 1,000",78.2,"per 1,000 children"
+Alleghany,37005,Total,Substantiated,2023,"Rate per 1,000",16.4,"per 1,000 children"
+Alleghany,37005,Total,Investigated,2018,Number,176,
+Alleghany,37005,Total,Substantiated,2018,Number,44,
+Alleghany,37005,Total,Investigated,2019,Number,145,
+Alleghany,37005,Total,Substantiated,2019,Number,35,
+Alleghany,37005,Total,Investigated,2020,Number,142,
+Alleghany,37005,Total,Substantiated,2020,Number,32,
+Alleghany,37005,Total,Investigated,2021,Number,147,
+Alleghany,37005,Total,Substantiated,2021,Number,29,
+Alleghany,37005,Total,Investigated,2022,Number,111,
+Alleghany,37005,Total,Substantiated,2022,Number,37,
+Alleghany,37005,Total,Investigated,2023,Number,157,
+Alleghany,37005,Total,Substantiated,2023,Number,33,
+Anson,37007,Total,Investigated,2018,"Rate per 1,000",69.8,"per 1,000 children"
+Anson,37007,Total,Substantiated,2018,"Rate per 1,000",14.9,"per 1,000 children"
+Anson,37007,Total,Investigated,2019,"Rate per 1,000",57.3,"per 1,000 children"
+Anson,37007,Total,Substantiated,2019,"Rate per 1,000",10.3,"per 1,000 children"
+Anson,37007,Total,Investigated,2020,"Rate per 1,000",46.6,"per 1,000 children"
+Anson,37007,Total,Substantiated,2020,"Rate per 1,000",8.1,"per 1,000 children"
+Anson,37007,Total,Investigated,2021,"Rate per 1,000",33.3,"per 1,000 children"
+Anson,37007,Total,Substantiated,2021,"Rate per 1,000",6.6,"per 1,000 children"
+Anson,37007,Total,Investigated,2022,"Rate per 1,000",57.1,"per 1,000 children"
+Anson,37007,Total,Substantiated,2022,"Rate per 1,000",18,"per 1,000 children"
+Anson,37007,Total,Investigated,2023,"Rate per 1,000",69.1,"per 1,000 children"
+Anson,37007,Total,Substantiated,2023,"Rate per 1,000",12.4,"per 1,000 children"
+Anson,37007,Total,Investigated,2018,Number,380,
+Anson,37007,Total,Substantiated,2018,Number,81,
+Anson,37007,Total,Investigated,2019,Number,310,
+Anson,37007,Total,Substantiated,2019,Number,56,
+Anson,37007,Total,Investigated,2020,Number,252,
+Anson,37007,Total,Substantiated,2020,Number,44,
+Anson,37007,Total,Investigated,2021,Number,161,
+Anson,37007,Total,Substantiated,2021,Number,32,
+Anson,37007,Total,Investigated,2022,Number,273,
+Anson,37007,Total,Substantiated,2022,Number,86,
+Anson,37007,Total,Investigated,2023,Number,330,
+Anson,37007,Total,Substantiated,2023,Number,59,
+Ashe,37009,Total,Investigated,2018,"Rate per 1,000",76.8,"per 1,000 children"
+Ashe,37009,Total,Substantiated,2018,"Rate per 1,000",18.3,"per 1,000 children"
+Ashe,37009,Total,Investigated,2019,"Rate per 1,000",69,"per 1,000 children"
+Ashe,37009,Total,Substantiated,2019,"Rate per 1,000",15.4,"per 1,000 children"
+Ashe,37009,Total,Investigated,2020,"Rate per 1,000",75.9,"per 1,000 children"
+Ashe,37009,Total,Substantiated,2020,"Rate per 1,000",13.7,"per 1,000 children"
+Ashe,37009,Total,Investigated,2021,"Rate per 1,000",72.5,"per 1,000 children"
+Ashe,37009,Total,Substantiated,2021,"Rate per 1,000",18,"per 1,000 children"
+Ashe,37009,Total,Investigated,2022,"Rate per 1,000",66.1,"per 1,000 children"
+Ashe,37009,Total,Substantiated,2022,"Rate per 1,000",9.5,"per 1,000 children"
+Ashe,37009,Total,Investigated,2023,"Rate per 1,000",68.2,"per 1,000 children"
+Ashe,37009,Total,Substantiated,2023,"Rate per 1,000",16.3,"per 1,000 children"
+Ashe,37009,Total,Investigated,2018,Number,404,
+Ashe,37009,Total,Substantiated,2018,Number,96,
+Ashe,37009,Total,Investigated,2019,Number,362,
+Ashe,37009,Total,Substantiated,2019,Number,81,
+Ashe,37009,Total,Investigated,2020,Number,392,
+Ashe,37009,Total,Substantiated,2020,Number,71,
+Ashe,37009,Total,Investigated,2021,Number,363,
+Ashe,37009,Total,Substantiated,2021,Number,90,
+Ashe,37009,Total,Investigated,2022,Number,327,
+Ashe,37009,Total,Substantiated,2022,Number,47,
+Ashe,37009,Total,Investigated,2023,Number,338,
+Ashe,37009,Total,Substantiated,2023,Number,81,
+Avery,37011,Total,Investigated,2018,"Rate per 1,000",59.4,"per 1,000 children"
+Avery,37011,Total,Substantiated,2018,"Rate per 1,000",10.6,"per 1,000 children"
+Avery,37011,Total,Investigated,2019,"Rate per 1,000",43.6,"per 1,000 children"
+Avery,37011,Total,Substantiated,2019,"Rate per 1,000",12,"per 1,000 children"
+Avery,37011,Total,Investigated,2020,"Rate per 1,000",64.1,"per 1,000 children"
+Avery,37011,Total,Substantiated,2020,"Rate per 1,000",16.5,"per 1,000 children"
+Avery,37011,Total,Investigated,2021,"Rate per 1,000",45.2,"per 1,000 children"
+Avery,37011,Total,Substantiated,2021,"Rate per 1,000",11.4,"per 1,000 children"
+Avery,37011,Total,Investigated,2022,"Rate per 1,000",46,"per 1,000 children"
+Avery,37011,Total,Substantiated,2022,"Rate per 1,000",7.6,"per 1,000 children"
+Avery,37011,Total,Investigated,2023,"Rate per 1,000",48.9,"per 1,000 children"
+Avery,37011,Total,Substantiated,2023,"Rate per 1,000",13,"per 1,000 children"
+Avery,37011,Total,Investigated,2018,Number,185,
+Avery,37011,Total,Substantiated,2018,Number,33,
+Avery,37011,Total,Investigated,2019,Number,135,
+Avery,37011,Total,Substantiated,2019,Number,37,
+Avery,37011,Total,Investigated,2020,Number,194,
+Avery,37011,Total,Substantiated,2020,Number,50,
+Avery,37011,Total,Investigated,2021,Number,139,
+Avery,37011,Total,Substantiated,2021,Number,35,
+Avery,37011,Total,Investigated,2022,Number,139,
+Avery,37011,Total,Substantiated,2022,Number,23,
+Avery,37011,Total,Investigated,2023,Number,147,
+Avery,37011,Total,Substantiated,2023,Number,39,
+Beaufort,37013,Total,Investigated,2018,"Rate per 1,000",62.1,"per 1,000 children"
+Beaufort,37013,Total,Substantiated,2018,"Rate per 1,000",18.2,"per 1,000 children"
+Beaufort,37013,Total,Investigated,2019,"Rate per 1,000",64.4,"per 1,000 children"
+Beaufort,37013,Total,Substantiated,2019,"Rate per 1,000",14.5,"per 1,000 children"
+Beaufort,37013,Total,Investigated,2020,"Rate per 1,000",63.4,"per 1,000 children"
+Beaufort,37013,Total,Substantiated,2020,"Rate per 1,000",21.1,"per 1,000 children"
+Beaufort,37013,Total,Investigated,2021,"Rate per 1,000",65.9,"per 1,000 children"
+Beaufort,37013,Total,Substantiated,2021,"Rate per 1,000",18.1,"per 1,000 children"
+Beaufort,37013,Total,Investigated,2022,"Rate per 1,000",68.2,"per 1,000 children"
+Beaufort,37013,Total,Substantiated,2022,"Rate per 1,000",19.2,"per 1,000 children"
+Beaufort,37013,Total,Investigated,2023,"Rate per 1,000",69.9,"per 1,000 children"
+Beaufort,37013,Total,Substantiated,2023,"Rate per 1,000",15.1,"per 1,000 children"
+Beaufort,37013,Total,Investigated,2018,Number,659,
+Beaufort,37013,Total,Substantiated,2018,Number,193,
+Beaufort,37013,Total,Investigated,2019,Number,677,
+Beaufort,37013,Total,Substantiated,2019,Number,152,
+Beaufort,37013,Total,Investigated,2020,Number,656,
+Beaufort,37013,Total,Substantiated,2020,Number,218,
+Beaufort,37013,Total,Investigated,2021,Number,644,
+Beaufort,37013,Total,Substantiated,2021,Number,177,
+Beaufort,37013,Total,Investigated,2022,Number,654,
+Beaufort,37013,Total,Substantiated,2022,Number,184,
+Beaufort,37013,Total,Investigated,2023,Number,658,
+Beaufort,37013,Total,Substantiated,2023,Number,142,
+Bertie,37015,Total,Investigated,2018,"Rate per 1,000",43.1,"per 1,000 children"
+Bertie,37015,Total,Substantiated,2018,"Rate per 1,000",9.5,"per 1,000 children"
+Bertie,37015,Total,Investigated,2019,"Rate per 1,000",45.6,"per 1,000 children"
+Bertie,37015,Total,Substantiated,2019,"Rate per 1,000",4.6,"per 1,000 children"
+Bertie,37015,Total,Investigated,2020,"Rate per 1,000",38,"per 1,000 children"
+Bertie,37015,Total,Substantiated,2020,"Rate per 1,000",5.5,"per 1,000 children"
+Bertie,37015,Total,Investigated,2021,"Rate per 1,000",31.3,"per 1,000 children"
+Bertie,37015,Total,Substantiated,2021,"Rate per 1,000",3.2,"per 1,000 children"
+Bertie,37015,Total,Investigated,2022,"Rate per 1,000",34.1,"per 1,000 children"
+Bertie,37015,Total,Substantiated,2022,"Rate per 1,000",14.3,"per 1,000 children"
+Bertie,37015,Total,Investigated,2023,"Rate per 1,000",49.4,"per 1,000 children"
+Bertie,37015,Total,Substantiated,2023,"Rate per 1,000",8.8,"per 1,000 children"
+Bertie,37015,Total,Investigated,2018,Number,163,
+Bertie,37015,Total,Substantiated,2018,Number,36,
+Bertie,37015,Total,Investigated,2019,Number,169,
+Bertie,37015,Total,Substantiated,2019,Number,17,
+Bertie,37015,Total,Investigated,2020,Number,139,
+Bertie,37015,Total,Substantiated,2020,Number,20,
+Bertie,37015,Total,Investigated,2021,Number,108,
+Bertie,37015,Total,Substantiated,2021,Number,11,
+Bertie,37015,Total,Investigated,2022,Number,112,
+Bertie,37015,Total,Substantiated,2022,Number,47,
+Bertie,37015,Total,Investigated,2023,Number,158,
+Bertie,37015,Total,Substantiated,2023,Number,28,
+Bladen,37017,Total,Investigated,2018,"Rate per 1,000",50.3,"per 1,000 children"
+Bladen,37017,Total,Substantiated,2018,"Rate per 1,000",11.7,"per 1,000 children"
+Bladen,37017,Total,Investigated,2019,"Rate per 1,000",45.1,"per 1,000 children"
+Bladen,37017,Total,Substantiated,2019,"Rate per 1,000",9.4,"per 1,000 children"
+Bladen,37017,Total,Investigated,2020,"Rate per 1,000",58.3,"per 1,000 children"
+Bladen,37017,Total,Substantiated,2020,"Rate per 1,000",18.9,"per 1,000 children"
+Bladen,37017,Total,Investigated,2021,"Rate per 1,000",75.5,"per 1,000 children"
+Bladen,37017,Total,Substantiated,2021,"Rate per 1,000",25.1,"per 1,000 children"
+Bladen,37017,Total,Investigated,2022,"Rate per 1,000",65.2,"per 1,000 children"
+Bladen,37017,Total,Substantiated,2022,"Rate per 1,000",17.7,"per 1,000 children"
+Bladen,37017,Total,Investigated,2023,"Rate per 1,000",73,"per 1,000 children"
+Bladen,37017,Total,Substantiated,2023,"Rate per 1,000",20.7,"per 1,000 children"
+Bladen,37017,Total,Investigated,2018,Number,387,
+Bladen,37017,Total,Substantiated,2018,Number,90,
+Bladen,37017,Total,Investigated,2019,Number,340,
+Bladen,37017,Total,Substantiated,2019,Number,71,
+Bladen,37017,Total,Investigated,2020,Number,428,
+Bladen,37017,Total,Substantiated,2020,Number,139,
+Bladen,37017,Total,Investigated,2021,Number,503,
+Bladen,37017,Total,Substantiated,2021,Number,167,
+Bladen,37017,Total,Investigated,2022,Number,428,
+Bladen,37017,Total,Substantiated,2022,Number,116,
+Bladen,37017,Total,Investigated,2023,Number,473,
+Bladen,37017,Total,Substantiated,2023,Number,134,
+Brunswick,37019,Total,Investigated,2018,"Rate per 1,000",62.2,"per 1,000 children"
+Brunswick,37019,Total,Substantiated,2018,"Rate per 1,000",10.3,"per 1,000 children"
+Brunswick,37019,Total,Investigated,2019,"Rate per 1,000",59.7,"per 1,000 children"
+Brunswick,37019,Total,Substantiated,2019,"Rate per 1,000",11.9,"per 1,000 children"
+Brunswick,37019,Total,Investigated,2020,"Rate per 1,000",60.3,"per 1,000 children"
+Brunswick,37019,Total,Substantiated,2020,"Rate per 1,000",14.1,"per 1,000 children"
+Brunswick,37019,Total,Investigated,2021,"Rate per 1,000",76,"per 1,000 children"
+Brunswick,37019,Total,Substantiated,2021,"Rate per 1,000",17.1,"per 1,000 children"
+Brunswick,37019,Total,Investigated,2022,"Rate per 1,000",71.6,"per 1,000 children"
+Brunswick,37019,Total,Substantiated,2022,"Rate per 1,000",15.7,"per 1,000 children"
+Brunswick,37019,Total,Investigated,2023,"Rate per 1,000",68.3,"per 1,000 children"
+Brunswick,37019,Total,Substantiated,2023,"Rate per 1,000",17.9,"per 1,000 children"
+Brunswick,37019,Total,Investigated,2018,Number,1400,
+Brunswick,37019,Total,Substantiated,2018,Number,232,
+Brunswick,37019,Total,Investigated,2019,Number,1369,
+Brunswick,37019,Total,Substantiated,2019,Number,274,
+Brunswick,37019,Total,Investigated,2020,Number,1396,
+Brunswick,37019,Total,Substantiated,2020,Number,327,
+Brunswick,37019,Total,Investigated,2021,Number,1674,
+Brunswick,37019,Total,Substantiated,2021,Number,377,
+Brunswick,37019,Total,Investigated,2022,Number,1602,
+Brunswick,37019,Total,Substantiated,2022,Number,352,
+Brunswick,37019,Total,Investigated,2023,Number,1587,
+Brunswick,37019,Total,Substantiated,2023,Number,416,
+Buncombe,37021,Total,Investigated,2018,"Rate per 1,000",61,"per 1,000 children"
+Buncombe,37021,Total,Substantiated,2018,"Rate per 1,000",12.6,"per 1,000 children"
+Buncombe,37021,Total,Investigated,2019,"Rate per 1,000",60.1,"per 1,000 children"
+Buncombe,37021,Total,Substantiated,2019,"Rate per 1,000",13,"per 1,000 children"
+Buncombe,37021,Total,Investigated,2020,"Rate per 1,000",55.4,"per 1,000 children"
+Buncombe,37021,Total,Substantiated,2020,"Rate per 1,000",13.2,"per 1,000 children"
+Buncombe,37021,Total,Investigated,2021,"Rate per 1,000",56.6,"per 1,000 children"
+Buncombe,37021,Total,Substantiated,2021,"Rate per 1,000",13.1,"per 1,000 children"
+Buncombe,37021,Total,Investigated,2022,"Rate per 1,000",56.5,"per 1,000 children"
+Buncombe,37021,Total,Substantiated,2022,"Rate per 1,000",11.9,"per 1,000 children"
+Buncombe,37021,Total,Investigated,2023,"Rate per 1,000",56.8,"per 1,000 children"
+Buncombe,37021,Total,Substantiated,2023,"Rate per 1,000",11.3,"per 1,000 children"
+Buncombe,37021,Total,Investigated,2018,Number,3283,
+Buncombe,37021,Total,Substantiated,2018,Number,680,
+Buncombe,37021,Total,Investigated,2019,Number,3226,
+Buncombe,37021,Total,Substantiated,2019,Number,696,
+Buncombe,37021,Total,Investigated,2020,Number,2955,
+Buncombe,37021,Total,Substantiated,2020,Number,705,
+Buncombe,37021,Total,Investigated,2021,Number,3099,
+Buncombe,37021,Total,Substantiated,2021,Number,717,
+Buncombe,37021,Total,Investigated,2022,Number,3056,
+Buncombe,37021,Total,Substantiated,2022,Number,645,
+Buncombe,37021,Total,Investigated,2023,Number,3042,
+Buncombe,37021,Total,Substantiated,2023,Number,606,
+Burke,37023,Total,Investigated,2018,"Rate per 1,000",82.2,"per 1,000 children"
+Burke,37023,Total,Substantiated,2018,"Rate per 1,000",18.2,"per 1,000 children"
+Burke,37023,Total,Investigated,2019,"Rate per 1,000",76.4,"per 1,000 children"
+Burke,37023,Total,Substantiated,2019,"Rate per 1,000",13.3,"per 1,000 children"
+Burke,37023,Total,Investigated,2020,"Rate per 1,000",65.2,"per 1,000 children"
+Burke,37023,Total,Substantiated,2020,"Rate per 1,000",13,"per 1,000 children"
+Burke,37023,Total,Investigated,2021,"Rate per 1,000",70.9,"per 1,000 children"
+Burke,37023,Total,Substantiated,2021,"Rate per 1,000",11.1,"per 1,000 children"
+Burke,37023,Total,Investigated,2022,"Rate per 1,000",71.2,"per 1,000 children"
+Burke,37023,Total,Substantiated,2022,"Rate per 1,000",13.5,"per 1,000 children"
+Burke,37023,Total,Investigated,2023,"Rate per 1,000",70.1,"per 1,000 children"
+Burke,37023,Total,Substantiated,2023,"Rate per 1,000",7.9,"per 1,000 children"
+Burke,37023,Total,Investigated,2018,Number,1613,
+Burke,37023,Total,Substantiated,2018,Number,357,
+Burke,37023,Total,Investigated,2019,Number,1478,
+Burke,37023,Total,Substantiated,2019,Number,258,
+Burke,37023,Total,Investigated,2020,Number,1245,
+Burke,37023,Total,Substantiated,2020,Number,248,
+Burke,37023,Total,Investigated,2021,Number,1284,
+Burke,37023,Total,Substantiated,2021,Number,201,
+Burke,37023,Total,Investigated,2022,Number,1268,
+Burke,37023,Total,Substantiated,2022,Number,241,
+Burke,37023,Total,Investigated,2023,Number,1237,
+Burke,37023,Total,Substantiated,2023,Number,139,
+Cabarrus,37025,Total,Investigated,2018,"Rate per 1,000",38.8,"per 1,000 children"
+Cabarrus,37025,Total,Substantiated,2018,"Rate per 1,000",5.4,"per 1,000 children"
+Cabarrus,37025,Total,Investigated,2019,"Rate per 1,000",39.5,"per 1,000 children"
+Cabarrus,37025,Total,Substantiated,2019,"Rate per 1,000",4.8,"per 1,000 children"
+Cabarrus,37025,Total,Investigated,2020,"Rate per 1,000",40.5,"per 1,000 children"
+Cabarrus,37025,Total,Substantiated,2020,"Rate per 1,000",4.6,"per 1,000 children"
+Cabarrus,37025,Total,Investigated,2021,"Rate per 1,000",37.6,"per 1,000 children"
+Cabarrus,37025,Total,Substantiated,2021,"Rate per 1,000",4.5,"per 1,000 children"
+Cabarrus,37025,Total,Investigated,2022,"Rate per 1,000",39.6,"per 1,000 children"
+Cabarrus,37025,Total,Substantiated,2022,"Rate per 1,000",4.1,"per 1,000 children"
+Cabarrus,37025,Total,Investigated,2023,"Rate per 1,000",39.7,"per 1,000 children"
+Cabarrus,37025,Total,Substantiated,2023,"Rate per 1,000",4.3,"per 1,000 children"
+Cabarrus,37025,Total,Investigated,2018,Number,2262,
+Cabarrus,37025,Total,Substantiated,2018,Number,314,
+Cabarrus,37025,Total,Investigated,2019,Number,2337,
+Cabarrus,37025,Total,Substantiated,2019,Number,281,
+Cabarrus,37025,Total,Investigated,2020,Number,2431,
+Cabarrus,37025,Total,Substantiated,2020,Number,279,
+Cabarrus,37025,Total,Investigated,2021,Number,2377,
+Cabarrus,37025,Total,Substantiated,2021,Number,285,
+Cabarrus,37025,Total,Investigated,2022,Number,2522,
+Cabarrus,37025,Total,Substantiated,2022,Number,261,
+Cabarrus,37025,Total,Investigated,2023,Number,2544,
+Cabarrus,37025,Total,Substantiated,2023,Number,273,
+Caldwell,37027,Total,Investigated,2018,"Rate per 1,000",80,"per 1,000 children"
+Caldwell,37027,Total,Substantiated,2018,"Rate per 1,000",11.6,"per 1,000 children"
+Caldwell,37027,Total,Investigated,2019,"Rate per 1,000",56.2,"per 1,000 children"
+Caldwell,37027,Total,Substantiated,2019,"Rate per 1,000",8.5,"per 1,000 children"
+Caldwell,37027,Total,Investigated,2020,"Rate per 1,000",59.8,"per 1,000 children"
+Caldwell,37027,Total,Substantiated,2020,"Rate per 1,000",7.5,"per 1,000 children"
+Caldwell,37027,Total,Investigated,2021,"Rate per 1,000",60.8,"per 1,000 children"
+Caldwell,37027,Total,Substantiated,2021,"Rate per 1,000",6.5,"per 1,000 children"
+Caldwell,37027,Total,Investigated,2022,"Rate per 1,000",65.1,"per 1,000 children"
+Caldwell,37027,Total,Substantiated,2022,"Rate per 1,000",6.4,"per 1,000 children"
+Caldwell,37027,Total,Investigated,2023,"Rate per 1,000",61.8,"per 1,000 children"
+Caldwell,37027,Total,Substantiated,2023,"Rate per 1,000",8.3,"per 1,000 children"
+Caldwell,37027,Total,Investigated,2018,Number,1482,
+Caldwell,37027,Total,Substantiated,2018,Number,214,
+Caldwell,37027,Total,Investigated,2019,Number,1027,
+Caldwell,37027,Total,Substantiated,2019,Number,156,
+Caldwell,37027,Total,Investigated,2020,Number,1085,
+Caldwell,37027,Total,Substantiated,2020,Number,136,
+Caldwell,37027,Total,Investigated,2021,Number,1077,
+Caldwell,37027,Total,Substantiated,2021,Number,116,
+Caldwell,37027,Total,Investigated,2022,Number,1135,
+Caldwell,37027,Total,Substantiated,2022,Number,111,
+Caldwell,37027,Total,Investigated,2023,Number,1065,
+Caldwell,37027,Total,Substantiated,2023,Number,143,
+Camden,37029,Total,Investigated,2018,"Rate per 1,000",22,"per 1,000 children"
+Camden,37029,Total,Substantiated,2018,"Rate per 1,000",3,"per 1,000 children"
+Camden,37029,Total,Investigated,2019,"Rate per 1,000",24.1,"per 1,000 children"
+Camden,37029,Total,Substantiated,2019,"Rate per 1,000",3.8,"per 1,000 children"
+Camden,37029,Total,Investigated,2020,"Rate per 1,000",30.9,"per 1,000 children"
+Camden,37029,Total,Substantiated,2020,"Rate per 1,000",1.1,"per 1,000 children"
+Camden,37029,Total,Investigated,2021,"Rate per 1,000",26.4,"per 1,000 children"
+Camden,37029,Total,Substantiated,2021,"Rate per 1,000",2.3,"per 1,000 children"
+Camden,37029,Total,Investigated,2022,"Rate per 1,000",29.5,"per 1,000 children"
+Camden,37029,Total,Substantiated,2022,"Rate per 1,000",3.3,"per 1,000 children"
+Camden,37029,Total,Investigated,2023,"Rate per 1,000",38.7,"per 1,000 children"
+Camden,37029,Total,Substantiated,2023,"Rate per 1,000",1.8,"per 1,000 children"
+Camden,37029,Total,Investigated,2018,Number,59,
+Camden,37029,Total,Substantiated,2018,Number,8,
+Camden,37029,Total,Investigated,2019,Number,64,
+Camden,37029,Total,Substantiated,2019,Number,10,
+Camden,37029,Total,Investigated,2020,Number,83,
+Camden,37029,Total,Substantiated,2020,Number,3,
+Camden,37029,Total,Investigated,2021,Number,68,
+Camden,37029,Total,Substantiated,2021,Number,6,
+Camden,37029,Total,Investigated,2022,Number,80,
+Camden,37029,Total,Substantiated,2022,Number,9,
+Camden,37029,Total,Investigated,2023,Number,107,
+Camden,37029,Total,Substantiated,2023,Number,5,
+Carteret,37031,Total,Investigated,2018,"Rate per 1,000",55.4,"per 1,000 children"
+Carteret,37031,Total,Substantiated,2018,"Rate per 1,000",14.2,"per 1,000 children"
+Carteret,37031,Total,Investigated,2019,"Rate per 1,000",56.4,"per 1,000 children"
+Carteret,37031,Total,Substantiated,2019,"Rate per 1,000",14.3,"per 1,000 children"
+Carteret,37031,Total,Investigated,2020,"Rate per 1,000",49.7,"per 1,000 children"
+Carteret,37031,Total,Substantiated,2020,"Rate per 1,000",11.6,"per 1,000 children"
+Carteret,37031,Total,Investigated,2021,"Rate per 1,000",57.7,"per 1,000 children"
+Carteret,37031,Total,Substantiated,2021,"Rate per 1,000",14.7,"per 1,000 children"
+Carteret,37031,Total,Investigated,2022,"Rate per 1,000",54.2,"per 1,000 children"
+Carteret,37031,Total,Substantiated,2022,"Rate per 1,000",15.8,"per 1,000 children"
+Carteret,37031,Total,Investigated,2023,"Rate per 1,000",52.9,"per 1,000 children"
+Carteret,37031,Total,Substantiated,2023,"Rate per 1,000",15.8,"per 1,000 children"
+Carteret,37031,Total,Investigated,2018,Number,751,
+Carteret,37031,Total,Substantiated,2018,Number,192,
+Carteret,37031,Total,Investigated,2019,Number,757,
+Carteret,37031,Total,Substantiated,2019,Number,192,
+Carteret,37031,Total,Investigated,2020,Number,655,
+Carteret,37031,Total,Substantiated,2020,Number,153,
+Carteret,37031,Total,Investigated,2021,Number,733,
+Carteret,37031,Total,Substantiated,2021,Number,187,
+Carteret,37031,Total,Investigated,2022,Number,692,
+Carteret,37031,Total,Substantiated,2022,Number,202,
+Carteret,37031,Total,Investigated,2023,Number,673,
+Carteret,37031,Total,Substantiated,2023,Number,201,
+Caswell,37033,Total,Investigated,2018,"Rate per 1,000",59.8,"per 1,000 children"
+Caswell,37033,Total,Substantiated,2018,"Rate per 1,000",5.8,"per 1,000 children"
+Caswell,37033,Total,Investigated,2019,"Rate per 1,000",63.3,"per 1,000 children"
+Caswell,37033,Total,Substantiated,2019,"Rate per 1,000",9.2,"per 1,000 children"
+Caswell,37033,Total,Investigated,2020,"Rate per 1,000",63.5,"per 1,000 children"
+Caswell,37033,Total,Substantiated,2020,"Rate per 1,000",7.8,"per 1,000 children"
+Caswell,37033,Total,Investigated,2021,"Rate per 1,000",52.4,"per 1,000 children"
+Caswell,37033,Total,Substantiated,2021,"Rate per 1,000",5,"per 1,000 children"
+Caswell,37033,Total,Investigated,2022,"Rate per 1,000",58.3,"per 1,000 children"
+Caswell,37033,Total,Substantiated,2022,"Rate per 1,000",6,"per 1,000 children"
+Caswell,37033,Total,Investigated,2023,"Rate per 1,000",50.8,"per 1,000 children"
+Caswell,37033,Total,Substantiated,2023,"Rate per 1,000",5.2,"per 1,000 children"
+Caswell,37033,Total,Investigated,2018,Number,276,
+Caswell,37033,Total,Substantiated,2018,Number,27,
+Caswell,37033,Total,Investigated,2019,Number,296,
+Caswell,37033,Total,Substantiated,2019,Number,43,
+Caswell,37033,Total,Investigated,2020,Number,295,
+Caswell,37033,Total,Substantiated,2020,Number,36,
+Caswell,37033,Total,Investigated,2021,Number,241,
+Caswell,37033,Total,Substantiated,2021,Number,23,
+Caswell,37033,Total,Investigated,2022,Number,263,
+Caswell,37033,Total,Substantiated,2022,Number,27,
+Caswell,37033,Total,Investigated,2023,Number,226,
+Caswell,37033,Total,Substantiated,2023,Number,23,
+Catawba,37035,Total,Investigated,2018,"Rate per 1,000",73.4,"per 1,000 children"
+Catawba,37035,Total,Substantiated,2018,"Rate per 1,000",8.2,"per 1,000 children"
+Catawba,37035,Total,Investigated,2019,"Rate per 1,000",67.3,"per 1,000 children"
+Catawba,37035,Total,Substantiated,2019,"Rate per 1,000",9,"per 1,000 children"
+Catawba,37035,Total,Investigated,2020,"Rate per 1,000",64.6,"per 1,000 children"
+Catawba,37035,Total,Substantiated,2020,"Rate per 1,000",9.1,"per 1,000 children"
+Catawba,37035,Total,Investigated,2021,"Rate per 1,000",60.9,"per 1,000 children"
+Catawba,37035,Total,Substantiated,2021,"Rate per 1,000",8.3,"per 1,000 children"
+Catawba,37035,Total,Investigated,2022,"Rate per 1,000",58.6,"per 1,000 children"
+Catawba,37035,Total,Substantiated,2022,"Rate per 1,000",8.2,"per 1,000 children"
+Catawba,37035,Total,Investigated,2023,"Rate per 1,000",60.4,"per 1,000 children"
+Catawba,37035,Total,Substantiated,2023,"Rate per 1,000",9.9,"per 1,000 children"
+Catawba,37035,Total,Investigated,2018,Number,2876,
+Catawba,37035,Total,Substantiated,2018,Number,322,
+Catawba,37035,Total,Investigated,2019,Number,2621,
+Catawba,37035,Total,Substantiated,2019,Number,352,
+Catawba,37035,Total,Investigated,2020,Number,2507,
+Catawba,37035,Total,Substantiated,2020,Number,352,
+Catawba,37035,Total,Investigated,2021,Number,2391,
+Catawba,37035,Total,Substantiated,2021,Number,325,
+Catawba,37035,Total,Investigated,2022,Number,2272,
+Catawba,37035,Total,Substantiated,2022,Number,318,
+Catawba,37035,Total,Investigated,2023,Number,2340,
+Catawba,37035,Total,Substantiated,2023,Number,384,
+Chatham,37037,Total,Investigated,2018,"Rate per 1,000",30.3,"per 1,000 children"
+Chatham,37037,Total,Substantiated,2018,"Rate per 1,000",6.1,"per 1,000 children"
+Chatham,37037,Total,Investigated,2019,"Rate per 1,000",29.5,"per 1,000 children"
+Chatham,37037,Total,Substantiated,2019,"Rate per 1,000",6.6,"per 1,000 children"
+Chatham,37037,Total,Investigated,2020,"Rate per 1,000",33,"per 1,000 children"
+Chatham,37037,Total,Substantiated,2020,"Rate per 1,000",6.2,"per 1,000 children"
+Chatham,37037,Total,Investigated,2021,"Rate per 1,000",31,"per 1,000 children"
+Chatham,37037,Total,Substantiated,2021,"Rate per 1,000",6.7,"per 1,000 children"
+Chatham,37037,Total,Investigated,2022,"Rate per 1,000",31.9,"per 1,000 children"
+Chatham,37037,Total,Substantiated,2022,"Rate per 1,000",6.1,"per 1,000 children"
+Chatham,37037,Total,Investigated,2023,"Rate per 1,000",35.6,"per 1,000 children"
+Chatham,37037,Total,Substantiated,2023,"Rate per 1,000",6.8,"per 1,000 children"
+Chatham,37037,Total,Investigated,2018,Number,479,
+Chatham,37037,Total,Substantiated,2018,Number,97,
+Chatham,37037,Total,Investigated,2019,Number,476,
+Chatham,37037,Total,Substantiated,2019,Number,106,
+Chatham,37037,Total,Investigated,2020,Number,534,
+Chatham,37037,Total,Substantiated,2020,Number,101,
+Chatham,37037,Total,Investigated,2021,Number,516,
+Chatham,37037,Total,Substantiated,2021,Number,112,
+Chatham,37037,Total,Investigated,2022,Number,526,
+Chatham,37037,Total,Substantiated,2022,Number,100,
+Chatham,37037,Total,Investigated,2023,Number,589,
+Chatham,37037,Total,Substantiated,2023,Number,113,
+Cherokee,37039,Total,Investigated,2018,"Rate per 1,000",83,"per 1,000 children"
+Cherokee,37039,Total,Substantiated,2018,"Rate per 1,000",16.9,"per 1,000 children"
+Cherokee,37039,Total,Investigated,2019,"Rate per 1,000",82.5,"per 1,000 children"
+Cherokee,37039,Total,Substantiated,2019,"Rate per 1,000",16.6,"per 1,000 children"
+Cherokee,37039,Total,Investigated,2020,"Rate per 1,000",55.6,"per 1,000 children"
+Cherokee,37039,Total,Substantiated,2020,"Rate per 1,000",13.4,"per 1,000 children"
+Cherokee,37039,Total,Investigated,2021,"Rate per 1,000",55.2,"per 1,000 children"
+Cherokee,37039,Total,Substantiated,2021,"Rate per 1,000",16.4,"per 1,000 children"
+Cherokee,37039,Total,Investigated,2022,"Rate per 1,000",63.6,"per 1,000 children"
+Cherokee,37039,Total,Substantiated,2022,"Rate per 1,000",17.5,"per 1,000 children"
+Cherokee,37039,Total,Investigated,2023,"Rate per 1,000",62.2,"per 1,000 children"
+Cherokee,37039,Total,Substantiated,2023,"Rate per 1,000",13.9,"per 1,000 children"
+Cherokee,37039,Total,Investigated,2018,Number,443,
+Cherokee,37039,Total,Substantiated,2018,Number,90,
+Cherokee,37039,Total,Investigated,2019,Number,433,
+Cherokee,37039,Total,Substantiated,2019,Number,87,
+Cherokee,37039,Total,Investigated,2020,Number,290,
+Cherokee,37039,Total,Substantiated,2020,Number,70,
+Cherokee,37039,Total,Investigated,2021,Number,286,
+Cherokee,37039,Total,Substantiated,2021,Number,85,
+Cherokee,37039,Total,Investigated,2022,Number,323,
+Cherokee,37039,Total,Substantiated,2022,Number,89,
+Cherokee,37039,Total,Investigated,2023,Number,314,
+Cherokee,37039,Total,Substantiated,2023,Number,70,
+Chowan,37041,Total,Investigated,2018,"Rate per 1,000",39.1,"per 1,000 children"
+Chowan,37041,Total,Substantiated,2018,"Rate per 1,000",1.9,"per 1,000 children"
+Chowan,37041,Total,Investigated,2019,"Rate per 1,000",57.4,"per 1,000 children"
+Chowan,37041,Total,Substantiated,2019,"Rate per 1,000",1.9,"per 1,000 children"
+Chowan,37041,Total,Investigated,2020,"Rate per 1,000",41.5,"per 1,000 children"
+Chowan,37041,Total,Substantiated,2020,"Rate per 1,000",6.5,"per 1,000 children"
+Chowan,37041,Total,Investigated,2021,"Rate per 1,000",40.6,"per 1,000 children"
+Chowan,37041,Total,Substantiated,2021,"Rate per 1,000",7.1,"per 1,000 children"
+Chowan,37041,Total,Investigated,2022,"Rate per 1,000",32.2,"per 1,000 children"
+Chowan,37041,Total,Substantiated,2022,"Rate per 1,000",2.4,"per 1,000 children"
+Chowan,37041,Total,Investigated,2023,"Rate per 1,000",17.1,"per 1,000 children"
+Chowan,37041,Total,Substantiated,2023,"Rate per 1,000",0,"per 1,000 children"
+Chowan,37041,Total,Investigated,2018,Number,123,
+Chowan,37041,Total,Substantiated,2018,Number,6,
+Chowan,37041,Total,Investigated,2019,Number,179,
+Chowan,37041,Total,Substantiated,2019,Number,6,
+Chowan,37041,Total,Investigated,2020,Number,127,
+Chowan,37041,Total,Substantiated,2020,Number,20,
+Chowan,37041,Total,Investigated,2021,Number,120,
+Chowan,37041,Total,Substantiated,2021,Number,21,
+Chowan,37041,Total,Investigated,2022,Number,95,
+Chowan,37041,Total,Substantiated,2022,Number,7,
+Chowan,37041,Total,Investigated,2023,Number,51,
+Chowan,37041,Total,Substantiated,2023,Number,0,
+Clay,37043,Total,Investigated,2018,"Rate per 1,000",99,"per 1,000 children"
+Clay,37043,Total,Substantiated,2018,"Rate per 1,000",21.8,"per 1,000 children"
+Clay,37043,Total,Investigated,2019,"Rate per 1,000",90.7,"per 1,000 children"
+Clay,37043,Total,Substantiated,2019,"Rate per 1,000",24.2,"per 1,000 children"
+Clay,37043,Total,Investigated,2020,"Rate per 1,000",83.7,"per 1,000 children"
+Clay,37043,Total,Substantiated,2020,"Rate per 1,000",24.1,"per 1,000 children"
+Clay,37043,Total,Investigated,2021,"Rate per 1,000",83.6,"per 1,000 children"
+Clay,37043,Total,Substantiated,2021,"Rate per 1,000",26.1,"per 1,000 children"
+Clay,37043,Total,Investigated,2022,"Rate per 1,000",98.6,"per 1,000 children"
+Clay,37043,Total,Substantiated,2022,"Rate per 1,000",29.5,"per 1,000 children"
+Clay,37043,Total,Investigated,2023,"Rate per 1,000",80.9,"per 1,000 children"
+Clay,37043,Total,Substantiated,2023,"Rate per 1,000",21.5,"per 1,000 children"
+Clay,37043,Total,Investigated,2018,Number,209,
+Clay,37043,Total,Substantiated,2018,Number,46,
+Clay,37043,Total,Investigated,2019,Number,191,
+Clay,37043,Total,Substantiated,2019,Number,51,
+Clay,37043,Total,Investigated,2020,Number,174,
+Clay,37043,Total,Substantiated,2020,Number,50,
+Clay,37043,Total,Investigated,2021,Number,170,
+Clay,37043,Total,Substantiated,2021,Number,53,
+Clay,37043,Total,Investigated,2022,Number,194,
+Clay,37043,Total,Substantiated,2022,Number,58,
+Clay,37043,Total,Investigated,2023,Number,158,
+Clay,37043,Total,Substantiated,2023,Number,42,
+Cleveland,37045,Total,Investigated,2018,"Rate per 1,000",92.2,"per 1,000 children"
+Cleveland,37045,Total,Substantiated,2018,"Rate per 1,000",13.9,"per 1,000 children"
+Cleveland,37045,Total,Investigated,2019,"Rate per 1,000",90.4,"per 1,000 children"
+Cleveland,37045,Total,Substantiated,2019,"Rate per 1,000",10.5,"per 1,000 children"
+Cleveland,37045,Total,Investigated,2020,"Rate per 1,000",75,"per 1,000 children"
+Cleveland,37045,Total,Substantiated,2020,"Rate per 1,000",8.7,"per 1,000 children"
+Cleveland,37045,Total,Investigated,2021,"Rate per 1,000",66.3,"per 1,000 children"
+Cleveland,37045,Total,Substantiated,2021,"Rate per 1,000",10,"per 1,000 children"
+Cleveland,37045,Total,Investigated,2022,"Rate per 1,000",77.9,"per 1,000 children"
+Cleveland,37045,Total,Substantiated,2022,"Rate per 1,000",11.2,"per 1,000 children"
+Cleveland,37045,Total,Investigated,2023,"Rate per 1,000",80.4,"per 1,000 children"
+Cleveland,37045,Total,Substantiated,2023,"Rate per 1,000",7.2,"per 1,000 children"
+Cleveland,37045,Total,Investigated,2018,Number,2221,
+Cleveland,37045,Total,Substantiated,2018,Number,335,
+Cleveland,37045,Total,Investigated,2019,Number,2178,
+Cleveland,37045,Total,Substantiated,2019,Number,254,
+Cleveland,37045,Total,Investigated,2020,Number,1806,
+Cleveland,37045,Total,Substantiated,2020,Number,209,
+Cleveland,37045,Total,Investigated,2021,Number,1648,
+Cleveland,37045,Total,Substantiated,2021,Number,249,
+Cleveland,37045,Total,Investigated,2022,Number,1941,
+Cleveland,37045,Total,Substantiated,2022,Number,280,
+Cleveland,37045,Total,Investigated,2023,Number,2003,
+Cleveland,37045,Total,Substantiated,2023,Number,179,
+Columbus,37047,Total,Investigated,2018,"Rate per 1,000",43.2,"per 1,000 children"
+Columbus,37047,Total,Substantiated,2018,"Rate per 1,000",12.6,"per 1,000 children"
+Columbus,37047,Total,Investigated,2019,"Rate per 1,000",47.2,"per 1,000 children"
+Columbus,37047,Total,Substantiated,2019,"Rate per 1,000",16,"per 1,000 children"
+Columbus,37047,Total,Investigated,2020,"Rate per 1,000",49.1,"per 1,000 children"
+Columbus,37047,Total,Substantiated,2020,"Rate per 1,000",15.6,"per 1,000 children"
+Columbus,37047,Total,Investigated,2021,"Rate per 1,000",41.8,"per 1,000 children"
+Columbus,37047,Total,Substantiated,2021,"Rate per 1,000",18.9,"per 1,000 children"
+Columbus,37047,Total,Investigated,2022,"Rate per 1,000",45.8,"per 1,000 children"
+Columbus,37047,Total,Substantiated,2022,"Rate per 1,000",18.2,"per 1,000 children"
+Columbus,37047,Total,Investigated,2023,"Rate per 1,000",43.8,"per 1,000 children"
+Columbus,37047,Total,Substantiated,2023,"Rate per 1,000",14.3,"per 1,000 children"
+Columbus,37047,Total,Investigated,2018,Number,568,
+Columbus,37047,Total,Substantiated,2018,Number,165,
+Columbus,37047,Total,Investigated,2019,Number,610,
+Columbus,37047,Total,Substantiated,2019,Number,207,
+Columbus,37047,Total,Investigated,2020,Number,627,
+Columbus,37047,Total,Substantiated,2020,Number,199,
+Columbus,37047,Total,Investigated,2021,Number,485,
+Columbus,37047,Total,Substantiated,2021,Number,219,
+Columbus,37047,Total,Investigated,2022,Number,523,
+Columbus,37047,Total,Substantiated,2022,Number,208,
+Columbus,37047,Total,Investigated,2023,Number,499,
+Columbus,37047,Total,Substantiated,2023,Number,163,
+Craven,37049,Total,Investigated,2018,"Rate per 1,000",49.2,"per 1,000 children"
+Craven,37049,Total,Substantiated,2018,"Rate per 1,000",10.1,"per 1,000 children"
+Craven,37049,Total,Investigated,2019,"Rate per 1,000",49.5,"per 1,000 children"
+Craven,37049,Total,Substantiated,2019,"Rate per 1,000",7.8,"per 1,000 children"
+Craven,37049,Total,Investigated,2020,"Rate per 1,000",52.1,"per 1,000 children"
+Craven,37049,Total,Substantiated,2020,"Rate per 1,000",8.5,"per 1,000 children"
+Craven,37049,Total,Investigated,2021,"Rate per 1,000",54.4,"per 1,000 children"
+Craven,37049,Total,Substantiated,2021,"Rate per 1,000",9,"per 1,000 children"
+Craven,37049,Total,Investigated,2022,"Rate per 1,000",56.9,"per 1,000 children"
+Craven,37049,Total,Substantiated,2022,"Rate per 1,000",7.1,"per 1,000 children"
+Craven,37049,Total,Investigated,2023,"Rate per 1,000",59.3,"per 1,000 children"
+Craven,37049,Total,Substantiated,2023,"Rate per 1,000",10.7,"per 1,000 children"
+Craven,37049,Total,Investigated,2018,Number,1226,
+Craven,37049,Total,Substantiated,2018,Number,253,
+Craven,37049,Total,Investigated,2019,Number,1225,
+Craven,37049,Total,Substantiated,2019,Number,193,
+Craven,37049,Total,Investigated,2020,Number,1266,
+Craven,37049,Total,Substantiated,2020,Number,207,
+Craven,37049,Total,Investigated,2021,Number,1325,
+Craven,37049,Total,Substantiated,2021,Number,219,
+Craven,37049,Total,Investigated,2022,Number,1359,
+Craven,37049,Total,Substantiated,2022,Number,170,
+Craven,37049,Total,Investigated,2023,Number,1413,
+Craven,37049,Total,Substantiated,2023,Number,254,
+Cumberland,37051,Total,Investigated,2018,"Rate per 1,000",68.7,"per 1,000 children"
+Cumberland,37051,Total,Substantiated,2018,"Rate per 1,000",12.1,"per 1,000 children"
+Cumberland,37051,Total,Investigated,2019,"Rate per 1,000",62.3,"per 1,000 children"
+Cumberland,37051,Total,Substantiated,2019,"Rate per 1,000",7.5,"per 1,000 children"
+Cumberland,37051,Total,Investigated,2020,"Rate per 1,000",61.4,"per 1,000 children"
+Cumberland,37051,Total,Substantiated,2020,"Rate per 1,000",9,"per 1,000 children"
+Cumberland,37051,Total,Investigated,2021,"Rate per 1,000",60.9,"per 1,000 children"
+Cumberland,37051,Total,Substantiated,2021,"Rate per 1,000",8.2,"per 1,000 children"
+Cumberland,37051,Total,Investigated,2022,"Rate per 1,000",62.3,"per 1,000 children"
+Cumberland,37051,Total,Substantiated,2022,"Rate per 1,000",8.1,"per 1,000 children"
+Cumberland,37051,Total,Investigated,2023,"Rate per 1,000",56.8,"per 1,000 children"
+Cumberland,37051,Total,Substantiated,2023,"Rate per 1,000",5.6,"per 1,000 children"
+Cumberland,37051,Total,Investigated,2018,Number,6330,
+Cumberland,37051,Total,Substantiated,2018,Number,1118,
+Cumberland,37051,Total,Investigated,2019,Number,5784,
+Cumberland,37051,Total,Substantiated,2019,Number,694,
+Cumberland,37051,Total,Investigated,2020,Number,5756,
+Cumberland,37051,Total,Substantiated,2020,Number,840,
+Cumberland,37051,Total,Investigated,2021,Number,5713,
+Cumberland,37051,Total,Substantiated,2021,Number,769,
+Cumberland,37051,Total,Investigated,2022,Number,5860,
+Cumberland,37051,Total,Substantiated,2022,Number,760,
+Cumberland,37051,Total,Investigated,2023,Number,5326,
+Cumberland,37051,Total,Substantiated,2023,Number,522,
+Currituck,37053,Total,Investigated,2018,"Rate per 1,000",49.2,"per 1,000 children"
+Currituck,37053,Total,Substantiated,2018,"Rate per 1,000",4.7,"per 1,000 children"
+Currituck,37053,Total,Investigated,2019,"Rate per 1,000",58.5,"per 1,000 children"
+Currituck,37053,Total,Substantiated,2019,"Rate per 1,000",9.2,"per 1,000 children"
+Currituck,37053,Total,Investigated,2020,"Rate per 1,000",53.5,"per 1,000 children"
+Currituck,37053,Total,Substantiated,2020,"Rate per 1,000",3.6,"per 1,000 children"
+Currituck,37053,Total,Investigated,2021,"Rate per 1,000",47.4,"per 1,000 children"
+Currituck,37053,Total,Substantiated,2021,"Rate per 1,000",4.5,"per 1,000 children"
+Currituck,37053,Total,Investigated,2022,"Rate per 1,000",56.3,"per 1,000 children"
+Currituck,37053,Total,Substantiated,2022,"Rate per 1,000",4.6,"per 1,000 children"
+Currituck,37053,Total,Investigated,2023,"Rate per 1,000",39.8,"per 1,000 children"
+Currituck,37053,Total,Substantiated,2023,"Rate per 1,000",4.6,"per 1,000 children"
+Currituck,37053,Total,Investigated,2018,Number,315,
+Currituck,37053,Total,Substantiated,2018,Number,30,
+Currituck,37053,Total,Investigated,2019,Number,383,
+Currituck,37053,Total,Substantiated,2019,Number,60,
+Currituck,37053,Total,Investigated,2020,Number,357,
+Currituck,37053,Total,Substantiated,2020,Number,24,
+Currituck,37053,Total,Investigated,2021,Number,323,
+Currituck,37053,Total,Substantiated,2021,Number,31,
+Currituck,37053,Total,Investigated,2022,Number,403,
+Currituck,37053,Total,Substantiated,2022,Number,33,
+Currituck,37053,Total,Investigated,2023,Number,297,
+Currituck,37053,Total,Substantiated,2023,Number,34,
+Dare,37055,Total,Investigated,2018,"Rate per 1,000",37.3,"per 1,000 children"
+Dare,37055,Total,Substantiated,2018,"Rate per 1,000",4.7,"per 1,000 children"
+Dare,37055,Total,Investigated,2019,"Rate per 1,000",31.5,"per 1,000 children"
+Dare,37055,Total,Substantiated,2019,"Rate per 1,000",3.9,"per 1,000 children"
+Dare,37055,Total,Investigated,2020,"Rate per 1,000",36.4,"per 1,000 children"
+Dare,37055,Total,Substantiated,2020,"Rate per 1,000",6.6,"per 1,000 children"
+Dare,37055,Total,Investigated,2021,"Rate per 1,000",34.5,"per 1,000 children"
+Dare,37055,Total,Substantiated,2021,"Rate per 1,000",5.2,"per 1,000 children"
+Dare,37055,Total,Investigated,2022,"Rate per 1,000",28.8,"per 1,000 children"
+Dare,37055,Total,Substantiated,2022,"Rate per 1,000",3.9,"per 1,000 children"
+Dare,37055,Total,Investigated,2023,"Rate per 1,000",29.7,"per 1,000 children"
+Dare,37055,Total,Substantiated,2023,"Rate per 1,000",5.2,"per 1,000 children"
+Dare,37055,Total,Investigated,2018,Number,283,
+Dare,37055,Total,Substantiated,2018,Number,36,
+Dare,37055,Total,Investigated,2019,Number,240,
+Dare,37055,Total,Substantiated,2019,Number,30,
+Dare,37055,Total,Investigated,2020,Number,276,
+Dare,37055,Total,Substantiated,2020,Number,50,
+Dare,37055,Total,Investigated,2021,Number,260,
+Dare,37055,Total,Substantiated,2021,Number,39,
+Dare,37055,Total,Investigated,2022,Number,220,
+Dare,37055,Total,Substantiated,2022,Number,30,
+Dare,37055,Total,Investigated,2023,Number,223,
+Dare,37055,Total,Substantiated,2023,Number,39,
+Davidson,37057,Total,Investigated,2018,"Rate per 1,000",55.9,"per 1,000 children"
+Davidson,37057,Total,Substantiated,2018,"Rate per 1,000",10.7,"per 1,000 children"
+Davidson,37057,Total,Investigated,2019,"Rate per 1,000",60.8,"per 1,000 children"
+Davidson,37057,Total,Substantiated,2019,"Rate per 1,000",12.5,"per 1,000 children"
+Davidson,37057,Total,Investigated,2020,"Rate per 1,000",58,"per 1,000 children"
+Davidson,37057,Total,Substantiated,2020,"Rate per 1,000",11.1,"per 1,000 children"
+Davidson,37057,Total,Investigated,2021,"Rate per 1,000",60.4,"per 1,000 children"
+Davidson,37057,Total,Substantiated,2021,"Rate per 1,000",9.8,"per 1,000 children"
+Davidson,37057,Total,Investigated,2022,"Rate per 1,000",53.9,"per 1,000 children"
+Davidson,37057,Total,Substantiated,2022,"Rate per 1,000",9.2,"per 1,000 children"
+Davidson,37057,Total,Investigated,2023,"Rate per 1,000",45,"per 1,000 children"
+Davidson,37057,Total,Substantiated,2023,"Rate per 1,000",8.7,"per 1,000 children"
+Davidson,37057,Total,Investigated,2018,Number,2253,
+Davidson,37057,Total,Substantiated,2018,Number,432,
+Davidson,37057,Total,Investigated,2019,Number,2455,
+Davidson,37057,Total,Substantiated,2019,Number,505,
+Davidson,37057,Total,Investigated,2020,Number,2332,
+Davidson,37057,Total,Substantiated,2020,Number,448,
+Davidson,37057,Total,Investigated,2021,Number,2443,
+Davidson,37057,Total,Substantiated,2021,Number,398,
+Davidson,37057,Total,Investigated,2022,Number,2171,
+Davidson,37057,Total,Substantiated,2022,Number,370,
+Davidson,37057,Total,Investigated,2023,Number,1821,
+Davidson,37057,Total,Substantiated,2023,Number,351,
+Davie,37059,Total,Investigated,2018,"Rate per 1,000",42,"per 1,000 children"
+Davie,37059,Total,Substantiated,2018,"Rate per 1,000",12.8,"per 1,000 children"
+Davie,37059,Total,Investigated,2019,"Rate per 1,000",54.4,"per 1,000 children"
+Davie,37059,Total,Substantiated,2019,"Rate per 1,000",12.2,"per 1,000 children"
+Davie,37059,Total,Investigated,2020,"Rate per 1,000",48,"per 1,000 children"
+Davie,37059,Total,Substantiated,2020,"Rate per 1,000",12.4,"per 1,000 children"
+Davie,37059,Total,Investigated,2021,"Rate per 1,000",41.7,"per 1,000 children"
+Davie,37059,Total,Substantiated,2021,"Rate per 1,000",8.8,"per 1,000 children"
+Davie,37059,Total,Investigated,2022,"Rate per 1,000",59.3,"per 1,000 children"
+Davie,37059,Total,Substantiated,2022,"Rate per 1,000",8.3,"per 1,000 children"
+Davie,37059,Total,Investigated,2023,"Rate per 1,000",65.4,"per 1,000 children"
+Davie,37059,Total,Substantiated,2023,"Rate per 1,000",10.2,"per 1,000 children"
+Davie,37059,Total,Investigated,2018,Number,418,
+Davie,37059,Total,Substantiated,2018,Number,127,
+Davie,37059,Total,Investigated,2019,Number,540,
+Davie,37059,Total,Substantiated,2019,Number,121,
+Davie,37059,Total,Investigated,2020,Number,474,
+Davie,37059,Total,Substantiated,2020,Number,122,
+Davie,37059,Total,Investigated,2021,Number,414,
+Davie,37059,Total,Substantiated,2021,Number,87,
+Davie,37059,Total,Investigated,2022,Number,586,
+Davie,37059,Total,Substantiated,2022,Number,82,
+Davie,37059,Total,Investigated,2023,Number,647,
+Davie,37059,Total,Substantiated,2023,Number,101,
+Duplin,37061,Total,Investigated,2018,"Rate per 1,000",58.4,"per 1,000 children"
+Duplin,37061,Total,Substantiated,2018,"Rate per 1,000",10,"per 1,000 children"
+Duplin,37061,Total,Investigated,2019,"Rate per 1,000",48,"per 1,000 children"
+Duplin,37061,Total,Substantiated,2019,"Rate per 1,000",8.7,"per 1,000 children"
+Duplin,37061,Total,Investigated,2020,"Rate per 1,000",47.6,"per 1,000 children"
+Duplin,37061,Total,Substantiated,2020,"Rate per 1,000",9.6,"per 1,000 children"
+Duplin,37061,Total,Investigated,2021,"Rate per 1,000",56.9,"per 1,000 children"
+Duplin,37061,Total,Substantiated,2021,"Rate per 1,000",11.7,"per 1,000 children"
+Duplin,37061,Total,Investigated,2022,"Rate per 1,000",57.5,"per 1,000 children"
+Duplin,37061,Total,Substantiated,2022,"Rate per 1,000",7.5,"per 1,000 children"
+Duplin,37061,Total,Investigated,2023,"Rate per 1,000",61.7,"per 1,000 children"
+Duplin,37061,Total,Substantiated,2023,"Rate per 1,000",7.8,"per 1,000 children"
+Duplin,37061,Total,Investigated,2018,Number,914,
+Duplin,37061,Total,Substantiated,2018,Number,157,
+Duplin,37061,Total,Investigated,2019,Number,748,
+Duplin,37061,Total,Substantiated,2019,Number,135,
+Duplin,37061,Total,Investigated,2020,Number,738,
+Duplin,37061,Total,Substantiated,2020,Number,149,
+Duplin,37061,Total,Investigated,2021,Number,731,
+Duplin,37061,Total,Substantiated,2021,Number,150,
+Duplin,37061,Total,Investigated,2022,Number,735,
+Duplin,37061,Total,Substantiated,2022,Number,96,
+Duplin,37061,Total,Investigated,2023,Number,795,
+Duplin,37061,Total,Substantiated,2023,Number,101,
+Durham,37063,Total,Investigated,2018,"Rate per 1,000",33.5,"per 1,000 children"
+Durham,37063,Total,Substantiated,2018,"Rate per 1,000",5.1,"per 1,000 children"
+Durham,37063,Total,Investigated,2019,"Rate per 1,000",36.7,"per 1,000 children"
+Durham,37063,Total,Substantiated,2019,"Rate per 1,000",6.6,"per 1,000 children"
+Durham,37063,Total,Investigated,2020,"Rate per 1,000",34.6,"per 1,000 children"
+Durham,37063,Total,Substantiated,2020,"Rate per 1,000",4.8,"per 1,000 children"
+Durham,37063,Total,Investigated,2021,"Rate per 1,000",30.8,"per 1,000 children"
+Durham,37063,Total,Substantiated,2021,"Rate per 1,000",3.9,"per 1,000 children"
+Durham,37063,Total,Investigated,2022,"Rate per 1,000",30.2,"per 1,000 children"
+Durham,37063,Total,Substantiated,2022,"Rate per 1,000",3.2,"per 1,000 children"
+Durham,37063,Total,Investigated,2023,"Rate per 1,000",33.1,"per 1,000 children"
+Durham,37063,Total,Substantiated,2023,"Rate per 1,000",4.6,"per 1,000 children"
+Durham,37063,Total,Investigated,2018,Number,2567,
+Durham,37063,Total,Substantiated,2018,Number,387,
+Durham,37063,Total,Investigated,2019,Number,2809,
+Durham,37063,Total,Substantiated,2019,Number,504,
+Durham,37063,Total,Investigated,2020,Number,2658,
+Durham,37063,Total,Substantiated,2020,Number,368,
+Durham,37063,Total,Investigated,2021,Number,2355,
+Durham,37063,Total,Substantiated,2021,Number,299,
+Durham,37063,Total,Investigated,2022,Number,2328,
+Durham,37063,Total,Substantiated,2022,Number,248,
+Durham,37063,Total,Investigated,2023,Number,2526,
+Durham,37063,Total,Substantiated,2023,Number,350,
+Edgecombe,37065,Total,Investigated,2018,"Rate per 1,000",69.1,"per 1,000 children"
+Edgecombe,37065,Total,Substantiated,2018,"Rate per 1,000",11.6,"per 1,000 children"
+Edgecombe,37065,Total,Investigated,2019,"Rate per 1,000",59.6,"per 1,000 children"
+Edgecombe,37065,Total,Substantiated,2019,"Rate per 1,000",10.9,"per 1,000 children"
+Edgecombe,37065,Total,Investigated,2020,"Rate per 1,000",67.4,"per 1,000 children"
+Edgecombe,37065,Total,Substantiated,2020,"Rate per 1,000",11.1,"per 1,000 children"
+Edgecombe,37065,Total,Investigated,2021,"Rate per 1,000",67.4,"per 1,000 children"
+Edgecombe,37065,Total,Substantiated,2021,"Rate per 1,000",13.3,"per 1,000 children"
+Edgecombe,37065,Total,Investigated,2022,"Rate per 1,000",69.7,"per 1,000 children"
+Edgecombe,37065,Total,Substantiated,2022,"Rate per 1,000",14.1,"per 1,000 children"
+Edgecombe,37065,Total,Investigated,2023,"Rate per 1,000",72.1,"per 1,000 children"
+Edgecombe,37065,Total,Substantiated,2023,"Rate per 1,000",12.3,"per 1,000 children"
+Edgecombe,37065,Total,Investigated,2018,Number,912,
+Edgecombe,37065,Total,Substantiated,2018,Number,153,
+Edgecombe,37065,Total,Investigated,2019,Number,768,
+Edgecombe,37065,Total,Substantiated,2019,Number,140,
+Edgecombe,37065,Total,Investigated,2020,Number,854,
+Edgecombe,37065,Total,Substantiated,2020,Number,141,
+Edgecombe,37065,Total,Investigated,2021,Number,819,
+Edgecombe,37065,Total,Substantiated,2021,Number,162,
+Edgecombe,37065,Total,Investigated,2022,Number,837,
+Edgecombe,37065,Total,Substantiated,2022,Number,169,
+Edgecombe,37065,Total,Investigated,2023,Number,861,
+Edgecombe,37065,Total,Substantiated,2023,Number,147,
+Forsyth,37067,Total,Investigated,2018,"Rate per 1,000",42.6,"per 1,000 children"
+Forsyth,37067,Total,Substantiated,2018,"Rate per 1,000",5.4,"per 1,000 children"
+Forsyth,37067,Total,Investigated,2019,"Rate per 1,000",44.7,"per 1,000 children"
+Forsyth,37067,Total,Substantiated,2019,"Rate per 1,000",5.2,"per 1,000 children"
+Forsyth,37067,Total,Investigated,2020,"Rate per 1,000",42.2,"per 1,000 children"
+Forsyth,37067,Total,Substantiated,2020,"Rate per 1,000",5.3,"per 1,000 children"
+Forsyth,37067,Total,Investigated,2021,"Rate per 1,000",38.6,"per 1,000 children"
+Forsyth,37067,Total,Substantiated,2021,"Rate per 1,000",5.3,"per 1,000 children"
+Forsyth,37067,Total,Investigated,2022,"Rate per 1,000",45.4,"per 1,000 children"
+Forsyth,37067,Total,Substantiated,2022,"Rate per 1,000",5.6,"per 1,000 children"
+Forsyth,37067,Total,Investigated,2023,"Rate per 1,000",31.6,"per 1,000 children"
+Forsyth,37067,Total,Substantiated,2023,"Rate per 1,000",3.4,"per 1,000 children"
+Forsyth,37067,Total,Investigated,2018,Number,4216,
+Forsyth,37067,Total,Substantiated,2018,Number,533,
+Forsyth,37067,Total,Investigated,2019,Number,4434,
+Forsyth,37067,Total,Substantiated,2019,Number,513,
+Forsyth,37067,Total,Investigated,2020,Number,4188,
+Forsyth,37067,Total,Substantiated,2020,Number,530,
+Forsyth,37067,Total,Investigated,2021,Number,3845,
+Forsyth,37067,Total,Substantiated,2021,Number,531,
+Forsyth,37067,Total,Investigated,2022,Number,4514,
+Forsyth,37067,Total,Substantiated,2022,Number,553,
+Forsyth,37067,Total,Investigated,2023,Number,3141,
+Forsyth,37067,Total,Substantiated,2023,Number,342,
+Franklin,37069,Total,Investigated,2018,"Rate per 1,000",41.1,"per 1,000 children"
+Franklin,37069,Total,Substantiated,2018,"Rate per 1,000",13.6,"per 1,000 children"
+Franklin,37069,Total,Investigated,2019,"Rate per 1,000",42,"per 1,000 children"
+Franklin,37069,Total,Substantiated,2019,"Rate per 1,000",12.2,"per 1,000 children"
+Franklin,37069,Total,Investigated,2020,"Rate per 1,000",37.5,"per 1,000 children"
+Franklin,37069,Total,Substantiated,2020,"Rate per 1,000",13.4,"per 1,000 children"
+Franklin,37069,Total,Investigated,2021,"Rate per 1,000",37.4,"per 1,000 children"
+Franklin,37069,Total,Substantiated,2021,"Rate per 1,000",14.5,"per 1,000 children"
+Franklin,37069,Total,Investigated,2022,"Rate per 1,000",31.4,"per 1,000 children"
+Franklin,37069,Total,Substantiated,2022,"Rate per 1,000",12.3,"per 1,000 children"
+Franklin,37069,Total,Investigated,2023,"Rate per 1,000",35.8,"per 1,000 children"
+Franklin,37069,Total,Substantiated,2023,"Rate per 1,000",14.9,"per 1,000 children"
+Franklin,37069,Total,Investigated,2018,Number,676,
+Franklin,37069,Total,Substantiated,2018,Number,223,
+Franklin,37069,Total,Investigated,2019,Number,694,
+Franklin,37069,Total,Substantiated,2019,Number,202,
+Franklin,37069,Total,Investigated,2020,Number,635,
+Franklin,37069,Total,Substantiated,2020,Number,227,
+Franklin,37069,Total,Investigated,2021,Number,625,
+Franklin,37069,Total,Substantiated,2021,Number,242,
+Franklin,37069,Total,Investigated,2022,Number,540,
+Franklin,37069,Total,Substantiated,2022,Number,211,
+Franklin,37069,Total,Investigated,2023,Number,634,
+Franklin,37069,Total,Substantiated,2023,Number,264,
+Gaston,37071,Total,Investigated,2018,"Rate per 1,000",94.6,"per 1,000 children"
+Gaston,37071,Total,Substantiated,2018,"Rate per 1,000",7.2,"per 1,000 children"
+Gaston,37071,Total,Investigated,2019,"Rate per 1,000",85.9,"per 1,000 children"
+Gaston,37071,Total,Substantiated,2019,"Rate per 1,000",6.8,"per 1,000 children"
+Gaston,37071,Total,Investigated,2020,"Rate per 1,000",70.4,"per 1,000 children"
+Gaston,37071,Total,Substantiated,2020,"Rate per 1,000",6.6,"per 1,000 children"
+Gaston,37071,Total,Investigated,2021,"Rate per 1,000",65.2,"per 1,000 children"
+Gaston,37071,Total,Substantiated,2021,"Rate per 1,000",5.8,"per 1,000 children"
+Gaston,37071,Total,Investigated,2022,"Rate per 1,000",72.8,"per 1,000 children"
+Gaston,37071,Total,Substantiated,2022,"Rate per 1,000",7.2,"per 1,000 children"
+Gaston,37071,Total,Investigated,2023,"Rate per 1,000",69.9,"per 1,000 children"
+Gaston,37071,Total,Substantiated,2023,"Rate per 1,000",5,"per 1,000 children"
+Gaston,37071,Total,Investigated,2018,Number,5196,
+Gaston,37071,Total,Substantiated,2018,Number,395,
+Gaston,37071,Total,Investigated,2019,Number,4767,
+Gaston,37071,Total,Substantiated,2019,Number,379,
+Gaston,37071,Total,Investigated,2020,Number,3902,
+Gaston,37071,Total,Substantiated,2020,Number,364,
+Gaston,37071,Total,Investigated,2021,Number,3683,
+Gaston,37071,Total,Substantiated,2021,Number,328,
+Gaston,37071,Total,Investigated,2022,Number,4129,
+Gaston,37071,Total,Substantiated,2022,Number,406,
+Gaston,37071,Total,Investigated,2023,Number,3975,
+Gaston,37071,Total,Substantiated,2023,Number,284,
+Gates,37073,Total,Investigated,2018,"Rate per 1,000",22.1,"per 1,000 children"
+Gates,37073,Total,Substantiated,2018,"Rate per 1,000",2.7,"per 1,000 children"
+Gates,37073,Total,Investigated,2019,"Rate per 1,000",26.9,"per 1,000 children"
+Gates,37073,Total,Substantiated,2019,"Rate per 1,000",0,"per 1,000 children"
+Gates,37073,Total,Investigated,2020,"Rate per 1,000",22.2,"per 1,000 children"
+Gates,37073,Total,Substantiated,2020,"Rate per 1,000",2,"per 1,000 children"
+Gates,37073,Total,Investigated,2021,"Rate per 1,000",38,"per 1,000 children"
+Gates,37073,Total,Substantiated,2021,"Rate per 1,000",2.7,"per 1,000 children"
+Gates,37073,Total,Investigated,2022,"Rate per 1,000",27.9,"per 1,000 children"
+Gates,37073,Total,Substantiated,2022,"Rate per 1,000",3.2,"per 1,000 children"
+Gates,37073,Total,Investigated,2023,"Rate per 1,000",39,"per 1,000 children"
+Gates,37073,Total,Substantiated,2023,"Rate per 1,000",3.2,"per 1,000 children"
+Gates,37073,Total,Investigated,2018,Number,57,
+Gates,37073,Total,Substantiated,2018,Number,7,
+Gates,37073,Total,Investigated,2019,Number,69,
+Gates,37073,Total,Substantiated,2019,Number,0,
+Gates,37073,Total,Investigated,2020,Number,57,
+Gates,37073,Total,Substantiated,2020,Number,5,
+Gates,37073,Total,Investigated,2021,Number,86,
+Gates,37073,Total,Substantiated,2021,Number,6,
+Gates,37073,Total,Investigated,2022,Number,62,
+Gates,37073,Total,Substantiated,2022,Number,7,
+Gates,37073,Total,Investigated,2023,Number,85,
+Gates,37073,Total,Substantiated,2023,Number,7,
+Graham,37075,Total,Investigated,2018,"Rate per 1,000",90.9,"per 1,000 children"
+Graham,37075,Total,Substantiated,2018,"Rate per 1,000",20.4,"per 1,000 children"
+Graham,37075,Total,Investigated,2019,"Rate per 1,000",102.3,"per 1,000 children"
+Graham,37075,Total,Substantiated,2019,"Rate per 1,000",25.4,"per 1,000 children"
+Graham,37075,Total,Investigated,2020,"Rate per 1,000",82,"per 1,000 children"
+Graham,37075,Total,Substantiated,2020,"Rate per 1,000",21.3,"per 1,000 children"
+Graham,37075,Total,Investigated,2021,"Rate per 1,000",101.2,"per 1,000 children"
+Graham,37075,Total,Substantiated,2021,"Rate per 1,000",23.6,"per 1,000 children"
+Graham,37075,Total,Investigated,2022,"Rate per 1,000",86.4,"per 1,000 children"
+Graham,37075,Total,Substantiated,2022,"Rate per 1,000",31.2,"per 1,000 children"
+Graham,37075,Total,Investigated,2023,"Rate per 1,000",83.7,"per 1,000 children"
+Graham,37075,Total,Substantiated,2023,"Rate per 1,000",12.7,"per 1,000 children"
+Graham,37075,Total,Investigated,2018,Number,174,
+Graham,37075,Total,Substantiated,2018,Number,39,
+Graham,37075,Total,Investigated,2019,Number,193,
+Graham,37075,Total,Substantiated,2019,Number,48,
+Graham,37075,Total,Investigated,2020,Number,154,
+Graham,37075,Total,Substantiated,2020,Number,40,
+Graham,37075,Total,Investigated,2021,Number,180,
+Graham,37075,Total,Substantiated,2021,Number,42,
+Graham,37075,Total,Investigated,2022,Number,152,
+Graham,37075,Total,Substantiated,2022,Number,55,
+Graham,37075,Total,Investigated,2023,Number,145,
+Graham,37075,Total,Substantiated,2023,Number,22,
+Granville,37077,Total,Investigated,2018,"Rate per 1,000",41.1,"per 1,000 children"
+Granville,37077,Total,Substantiated,2018,"Rate per 1,000",10.6,"per 1,000 children"
+Granville,37077,Total,Investigated,2019,"Rate per 1,000",32.3,"per 1,000 children"
+Granville,37077,Total,Substantiated,2019,"Rate per 1,000",5.6,"per 1,000 children"
+Granville,37077,Total,Investigated,2020,"Rate per 1,000",31.8,"per 1,000 children"
+Granville,37077,Total,Substantiated,2020,"Rate per 1,000",5.7,"per 1,000 children"
+Granville,37077,Total,Investigated,2021,"Rate per 1,000",24.6,"per 1,000 children"
+Granville,37077,Total,Substantiated,2021,"Rate per 1,000",3.5,"per 1,000 children"
+Granville,37077,Total,Investigated,2022,"Rate per 1,000",8.2,"per 1,000 children"
+Granville,37077,Total,Substantiated,2022,"Rate per 1,000",1.1,"per 1,000 children"
+Granville,37077,Total,Investigated,2023,"Rate per 1,000",1.4,"per 1,000 children"
+Granville,37077,Total,Substantiated,2023,"Rate per 1,000",0.1,"per 1,000 children"
+Granville,37077,Total,Investigated,2018,Number,561,
+Granville,37077,Total,Substantiated,2018,Number,145,
+Granville,37077,Total,Investigated,2019,Number,446,
+Granville,37077,Total,Substantiated,2019,Number,77,
+Granville,37077,Total,Investigated,2020,Number,438,
+Granville,37077,Total,Substantiated,2020,Number,79,
+Granville,37077,Total,Investigated,2021,Number,344,
+Granville,37077,Total,Substantiated,2021,Number,49,
+Granville,37077,Total,Investigated,2022,Number,115,
+Granville,37077,Total,Substantiated,2022,Number,15,
+Granville,37077,Total,Investigated,2023,Number,20,
+Granville,37077,Total,Substantiated,2023,Number,2,
+Greene,37079,Total,Investigated,2018,"Rate per 1,000",39.7,"per 1,000 children"
+Greene,37079,Total,Substantiated,2018,"Rate per 1,000",3.4,"per 1,000 children"
+Greene,37079,Total,Investigated,2019,"Rate per 1,000",39.6,"per 1,000 children"
+Greene,37079,Total,Substantiated,2019,"Rate per 1,000",3.7,"per 1,000 children"
+Greene,37079,Total,Investigated,2020,"Rate per 1,000",54.4,"per 1,000 children"
+Greene,37079,Total,Substantiated,2020,"Rate per 1,000",4.6,"per 1,000 children"
+Greene,37079,Total,Investigated,2021,"Rate per 1,000",51.1,"per 1,000 children"
+Greene,37079,Total,Substantiated,2021,"Rate per 1,000",7.4,"per 1,000 children"
+Greene,37079,Total,Investigated,2022,"Rate per 1,000",32.3,"per 1,000 children"
+Greene,37079,Total,Substantiated,2022,"Rate per 1,000",3.8,"per 1,000 children"
+Greene,37079,Total,Investigated,2023,"Rate per 1,000",48.9,"per 1,000 children"
+Greene,37079,Total,Substantiated,2023,"Rate per 1,000",7.8,"per 1,000 children"
+Greene,37079,Total,Investigated,2018,Number,188,
+Greene,37079,Total,Substantiated,2018,Number,16,
+Greene,37079,Total,Investigated,2019,Number,184,
+Greene,37079,Total,Substantiated,2019,Number,17,
+Greene,37079,Total,Investigated,2020,Number,251,
+Greene,37079,Total,Substantiated,2020,Number,21,
+Greene,37079,Total,Investigated,2021,Number,220,
+Greene,37079,Total,Substantiated,2021,Number,32,
+Greene,37079,Total,Investigated,2022,Number,137,
+Greene,37079,Total,Substantiated,2022,Number,16,
+Greene,37079,Total,Investigated,2023,Number,207,
+Greene,37079,Total,Substantiated,2023,Number,33,
+Guilford,37081,Total,Investigated,2018,"Rate per 1,000",36,"per 1,000 children"
+Guilford,37081,Total,Substantiated,2018,"Rate per 1,000",3.7,"per 1,000 children"
+Guilford,37081,Total,Investigated,2019,"Rate per 1,000",33.9,"per 1,000 children"
+Guilford,37081,Total,Substantiated,2019,"Rate per 1,000",4,"per 1,000 children"
+Guilford,37081,Total,Investigated,2020,"Rate per 1,000",34.2,"per 1,000 children"
+Guilford,37081,Total,Substantiated,2020,"Rate per 1,000",4,"per 1,000 children"
+Guilford,37081,Total,Investigated,2021,"Rate per 1,000",34.8,"per 1,000 children"
+Guilford,37081,Total,Substantiated,2021,"Rate per 1,000",3.3,"per 1,000 children"
+Guilford,37081,Total,Investigated,2022,"Rate per 1,000",37.6,"per 1,000 children"
+Guilford,37081,Total,Substantiated,2022,"Rate per 1,000",3.6,"per 1,000 children"
+Guilford,37081,Total,Investigated,2023,"Rate per 1,000",38.9,"per 1,000 children"
+Guilford,37081,Total,Substantiated,2023,"Rate per 1,000",4.8,"per 1,000 children"
+Guilford,37081,Total,Investigated,2018,Number,4957,
+Guilford,37081,Total,Substantiated,2018,Number,513,
+Guilford,37081,Total,Investigated,2019,Number,4709,
+Guilford,37081,Total,Substantiated,2019,Number,549,
+Guilford,37081,Total,Investigated,2020,Number,4771,
+Guilford,37081,Total,Substantiated,2020,Number,561,
+Guilford,37081,Total,Investigated,2021,Number,4939,
+Guilford,37081,Total,Substantiated,2021,Number,466,
+Guilford,37081,Total,Investigated,2022,Number,5333,
+Guilford,37081,Total,Substantiated,2022,Number,504,
+Guilford,37081,Total,Investigated,2023,Number,5509,
+Guilford,37081,Total,Substantiated,2023,Number,673,
+Halifax,37083,Total,Investigated,2018,"Rate per 1,000",65.9,"per 1,000 children"
+Halifax,37083,Total,Substantiated,2018,"Rate per 1,000",15.5,"per 1,000 children"
+Halifax,37083,Total,Investigated,2019,"Rate per 1,000",62.8,"per 1,000 children"
+Halifax,37083,Total,Substantiated,2019,"Rate per 1,000",11.9,"per 1,000 children"
+Halifax,37083,Total,Investigated,2020,"Rate per 1,000",57.3,"per 1,000 children"
+Halifax,37083,Total,Substantiated,2020,"Rate per 1,000",7.6,"per 1,000 children"
+Halifax,37083,Total,Investigated,2021,"Rate per 1,000",48.7,"per 1,000 children"
+Halifax,37083,Total,Substantiated,2021,"Rate per 1,000",4.7,"per 1,000 children"
+Halifax,37083,Total,Investigated,2022,"Rate per 1,000",55,"per 1,000 children"
+Halifax,37083,Total,Substantiated,2022,"Rate per 1,000",3.3,"per 1,000 children"
+Halifax,37083,Total,Investigated,2023,"Rate per 1,000",58,"per 1,000 children"
+Halifax,37083,Total,Substantiated,2023,"Rate per 1,000",6.1,"per 1,000 children"
+Halifax,37083,Total,Investigated,2018,Number,797,
+Halifax,37083,Total,Substantiated,2018,Number,188,
+Halifax,37083,Total,Investigated,2019,Number,747,
+Halifax,37083,Total,Substantiated,2019,Number,142,
+Halifax,37083,Total,Investigated,2020,Number,670,
+Halifax,37083,Total,Substantiated,2020,Number,89,
+Halifax,37083,Total,Investigated,2021,Number,557,
+Halifax,37083,Total,Substantiated,2021,Number,54,
+Halifax,37083,Total,Investigated,2022,Number,621,
+Halifax,37083,Total,Substantiated,2022,Number,37,
+Halifax,37083,Total,Investigated,2023,Number,649,
+Halifax,37083,Total,Substantiated,2023,Number,68,
+Harnett,37085,Total,Investigated,2018,"Rate per 1,000",41.1,"per 1,000 children"
+Harnett,37085,Total,Substantiated,2018,"Rate per 1,000",7.4,"per 1,000 children"
+Harnett,37085,Total,Investigated,2019,"Rate per 1,000",43.1,"per 1,000 children"
+Harnett,37085,Total,Substantiated,2019,"Rate per 1,000",7.6,"per 1,000 children"
+Harnett,37085,Total,Investigated,2020,"Rate per 1,000",39,"per 1,000 children"
+Harnett,37085,Total,Substantiated,2020,"Rate per 1,000",7.2,"per 1,000 children"
+Harnett,37085,Total,Investigated,2021,"Rate per 1,000",39.3,"per 1,000 children"
+Harnett,37085,Total,Substantiated,2021,"Rate per 1,000",6.8,"per 1,000 children"
+Harnett,37085,Total,Investigated,2022,"Rate per 1,000",37.7,"per 1,000 children"
+Harnett,37085,Total,Substantiated,2022,"Rate per 1,000",8.1,"per 1,000 children"
+Harnett,37085,Total,Investigated,2023,"Rate per 1,000",34.8,"per 1,000 children"
+Harnett,37085,Total,Substantiated,2023,"Rate per 1,000",5.6,"per 1,000 children"
+Harnett,37085,Total,Investigated,2018,Number,1588,
+Harnett,37085,Total,Substantiated,2018,Number,288,
+Harnett,37085,Total,Investigated,2019,Number,1672,
+Harnett,37085,Total,Substantiated,2019,Number,293,
+Harnett,37085,Total,Investigated,2020,Number,1512,
+Harnett,37085,Total,Substantiated,2020,Number,278,
+Harnett,37085,Total,Investigated,2021,Number,1485,
+Harnett,37085,Total,Substantiated,2021,Number,258,
+Harnett,37085,Total,Investigated,2022,Number,1426,
+Harnett,37085,Total,Substantiated,2022,Number,307,
+Harnett,37085,Total,Investigated,2023,Number,1341,
+Harnett,37085,Total,Substantiated,2023,Number,216,
+Haywood,37087,Total,Investigated,2018,"Rate per 1,000",72.9,"per 1,000 children"
+Haywood,37087,Total,Substantiated,2018,"Rate per 1,000",27.6,"per 1,000 children"
+Haywood,37087,Total,Investigated,2019,"Rate per 1,000",67,"per 1,000 children"
+Haywood,37087,Total,Substantiated,2019,"Rate per 1,000",27.6,"per 1,000 children"
+Haywood,37087,Total,Investigated,2020,"Rate per 1,000",56.6,"per 1,000 children"
+Haywood,37087,Total,Substantiated,2020,"Rate per 1,000",17.5,"per 1,000 children"
+Haywood,37087,Total,Investigated,2021,"Rate per 1,000",63.5,"per 1,000 children"
+Haywood,37087,Total,Substantiated,2021,"Rate per 1,000",20.8,"per 1,000 children"
+Haywood,37087,Total,Investigated,2022,"Rate per 1,000",71.8,"per 1,000 children"
+Haywood,37087,Total,Substantiated,2022,"Rate per 1,000",20.9,"per 1,000 children"
+Haywood,37087,Total,Investigated,2023,"Rate per 1,000",60,"per 1,000 children"
+Haywood,37087,Total,Substantiated,2023,"Rate per 1,000",21.1,"per 1,000 children"
+Haywood,37087,Total,Investigated,2018,Number,897,
+Haywood,37087,Total,Substantiated,2018,Number,340,
+Haywood,37087,Total,Investigated,2019,Number,836,
+Haywood,37087,Total,Substantiated,2019,Number,344,
+Haywood,37087,Total,Investigated,2020,Number,704,
+Haywood,37087,Total,Substantiated,2020,Number,218,
+Haywood,37087,Total,Investigated,2021,Number,781,
+Haywood,37087,Total,Substantiated,2021,Number,256,
+Haywood,37087,Total,Investigated,2022,Number,872,
+Haywood,37087,Total,Substantiated,2022,Number,254,
+Haywood,37087,Total,Investigated,2023,Number,717,
+Haywood,37087,Total,Substantiated,2023,Number,252,
+Henderson,37089,Total,Investigated,2018,"Rate per 1,000",66.9,"per 1,000 children"
+Henderson,37089,Total,Substantiated,2018,"Rate per 1,000",9.9,"per 1,000 children"
+Henderson,37089,Total,Investigated,2019,"Rate per 1,000",64.7,"per 1,000 children"
+Henderson,37089,Total,Substantiated,2019,"Rate per 1,000",8.5,"per 1,000 children"
+Henderson,37089,Total,Investigated,2020,"Rate per 1,000",55.4,"per 1,000 children"
+Henderson,37089,Total,Substantiated,2020,"Rate per 1,000",9.6,"per 1,000 children"
+Henderson,37089,Total,Investigated,2021,"Rate per 1,000",52.5,"per 1,000 children"
+Henderson,37089,Total,Substantiated,2021,"Rate per 1,000",6.3,"per 1,000 children"
+Henderson,37089,Total,Investigated,2022,"Rate per 1,000",64.6,"per 1,000 children"
+Henderson,37089,Total,Substantiated,2022,"Rate per 1,000",9.7,"per 1,000 children"
+Henderson,37089,Total,Investigated,2023,"Rate per 1,000",63.9,"per 1,000 children"
+Henderson,37089,Total,Substantiated,2023,"Rate per 1,000",7.9,"per 1,000 children"
+Henderson,37089,Total,Investigated,2018,Number,1623,
+Henderson,37089,Total,Substantiated,2018,Number,240,
+Henderson,37089,Total,Investigated,2019,Number,1568,
+Henderson,37089,Total,Substantiated,2019,Number,207,
+Henderson,37089,Total,Investigated,2020,Number,1338,
+Henderson,37089,Total,Substantiated,2020,Number,231,
+Henderson,37089,Total,Investigated,2021,Number,1260,
+Henderson,37089,Total,Substantiated,2021,Number,150,
+Henderson,37089,Total,Investigated,2022,Number,1521,
+Henderson,37089,Total,Substantiated,2022,Number,229,
+Henderson,37089,Total,Investigated,2023,Number,1501,
+Henderson,37089,Total,Substantiated,2023,Number,186,
+Hertford,37091,Total,Investigated,2018,"Rate per 1,000",26.2,"per 1,000 children"
+Hertford,37091,Total,Substantiated,2018,"Rate per 1,000",2.3,"per 1,000 children"
+Hertford,37091,Total,Investigated,2019,"Rate per 1,000",33.2,"per 1,000 children"
+Hertford,37091,Total,Substantiated,2019,"Rate per 1,000",0.9,"per 1,000 children"
+Hertford,37091,Total,Investigated,2020,"Rate per 1,000",36.7,"per 1,000 children"
+Hertford,37091,Total,Substantiated,2020,"Rate per 1,000",1.1,"per 1,000 children"
+Hertford,37091,Total,Investigated,2021,"Rate per 1,000",31.1,"per 1,000 children"
+Hertford,37091,Total,Substantiated,2021,"Rate per 1,000",2.4,"per 1,000 children"
+Hertford,37091,Total,Investigated,2022,"Rate per 1,000",32.2,"per 1,000 children"
+Hertford,37091,Total,Substantiated,2022,"Rate per 1,000",3.1,"per 1,000 children"
+Hertford,37091,Total,Investigated,2023,"Rate per 1,000",29.9,"per 1,000 children"
+Hertford,37091,Total,Substantiated,2023,"Rate per 1,000",1.3,"per 1,000 children"
+Hertford,37091,Total,Investigated,2018,Number,149,
+Hertford,37091,Total,Substantiated,2018,Number,13,
+Hertford,37091,Total,Investigated,2019,Number,183,
+Hertford,37091,Total,Substantiated,2019,Number,5,
+Hertford,37091,Total,Investigated,2020,Number,197,
+Hertford,37091,Total,Substantiated,2020,Number,6,
+Hertford,37091,Total,Investigated,2021,Number,154,
+Hertford,37091,Total,Substantiated,2021,Number,12,
+Hertford,37091,Total,Investigated,2022,Number,155,
+Hertford,37091,Total,Substantiated,2022,Number,15,
+Hertford,37091,Total,Investigated,2023,Number,141,
+Hertford,37091,Total,Substantiated,2023,Number,6,
+Hoke,37093,Total,Investigated,2018,"Rate per 1,000",53.5,"per 1,000 children"
+Hoke,37093,Total,Substantiated,2018,"Rate per 1,000",5.8,"per 1,000 children"
+Hoke,37093,Total,Investigated,2019,"Rate per 1,000",60.3,"per 1,000 children"
+Hoke,37093,Total,Substantiated,2019,"Rate per 1,000",6.2,"per 1,000 children"
+Hoke,37093,Total,Investigated,2020,"Rate per 1,000",57.4,"per 1,000 children"
+Hoke,37093,Total,Substantiated,2020,"Rate per 1,000",8.4,"per 1,000 children"
+Hoke,37093,Total,Investigated,2021,"Rate per 1,000",65.7,"per 1,000 children"
+Hoke,37093,Total,Substantiated,2021,"Rate per 1,000",8.6,"per 1,000 children"
+Hoke,37093,Total,Investigated,2022,"Rate per 1,000",62.2,"per 1,000 children"
+Hoke,37093,Total,Substantiated,2022,"Rate per 1,000",6.6,"per 1,000 children"
+Hoke,37093,Total,Investigated,2023,"Rate per 1,000",43.1,"per 1,000 children"
+Hoke,37093,Total,Substantiated,2023,"Rate per 1,000",4.9,"per 1,000 children"
+Hoke,37093,Total,Investigated,2018,Number,865,
+Hoke,37093,Total,Substantiated,2018,Number,94,
+Hoke,37093,Total,Investigated,2019,Number,975,
+Hoke,37093,Total,Substantiated,2019,Number,100,
+Hoke,37093,Total,Investigated,2020,Number,929,
+Hoke,37093,Total,Substantiated,2020,Number,136,
+Hoke,37093,Total,Investigated,2021,Number,1004,
+Hoke,37093,Total,Substantiated,2021,Number,132,
+Hoke,37093,Total,Investigated,2022,Number,966,
+Hoke,37093,Total,Substantiated,2022,Number,103,
+Hoke,37093,Total,Investigated,2023,Number,670,
+Hoke,37093,Total,Substantiated,2023,Number,76,
+Hyde,37095,Total,Investigated,2018,"Rate per 1,000",24.5,"per 1,000 children"
+Hyde,37095,Total,Substantiated,2018,"Rate per 1,000",9.2,"per 1,000 children"
+Hyde,37095,Total,Investigated,2019,"Rate per 1,000",29.2,"per 1,000 children"
+Hyde,37095,Total,Substantiated,2019,"Rate per 1,000",5.2,"per 1,000 children"
+Hyde,37095,Total,Investigated,2020,"Rate per 1,000",32.3,"per 1,000 children"
+Hyde,37095,Total,Substantiated,2020,"Rate per 1,000",0,"per 1,000 children"
+Hyde,37095,Total,Investigated,2021,"Rate per 1,000",47.3,"per 1,000 children"
+Hyde,37095,Total,Substantiated,2021,"Rate per 1,000",4.9,"per 1,000 children"
+Hyde,37095,Total,Investigated,2022,"Rate per 1,000",54.5,"per 1,000 children"
+Hyde,37095,Total,Substantiated,2022,"Rate per 1,000",8.7,"per 1,000 children"
+Hyde,37095,Total,Investigated,2023,"Rate per 1,000",48,"per 1,000 children"
+Hyde,37095,Total,Substantiated,2023,"Rate per 1,000",3.9,"per 1,000 children"
+Hyde,37095,Total,Investigated,2018,Number,24,
+Hyde,37095,Total,Substantiated,2018,Number,9,
+Hyde,37095,Total,Investigated,2019,Number,28,
+Hyde,37095,Total,Substantiated,2019,Number,5,
+Hyde,37095,Total,Investigated,2020,Number,30,
+Hyde,37095,Total,Substantiated,2020,Number,0,
+Hyde,37095,Total,Investigated,2021,Number,39,
+Hyde,37095,Total,Substantiated,2021,Number,4,
+Hyde,37095,Total,Investigated,2022,Number,44,
+Hyde,37095,Total,Substantiated,2022,Number,7,
+Hyde,37095,Total,Investigated,2023,Number,37,
+Hyde,37095,Total,Substantiated,2023,Number,3,
+Iredell,37097,Total,Investigated,2018,"Rate per 1,000",48.6,"per 1,000 children"
+Iredell,37097,Total,Substantiated,2018,"Rate per 1,000",14.5,"per 1,000 children"
+Iredell,37097,Total,Investigated,2019,"Rate per 1,000",43.6,"per 1,000 children"
+Iredell,37097,Total,Substantiated,2019,"Rate per 1,000",11.2,"per 1,000 children"
+Iredell,37097,Total,Investigated,2020,"Rate per 1,000",36.6,"per 1,000 children"
+Iredell,37097,Total,Substantiated,2020,"Rate per 1,000",8.4,"per 1,000 children"
+Iredell,37097,Total,Investigated,2021,"Rate per 1,000",32.4,"per 1,000 children"
+Iredell,37097,Total,Substantiated,2021,"Rate per 1,000",8.1,"per 1,000 children"
+Iredell,37097,Total,Investigated,2022,"Rate per 1,000",39.1,"per 1,000 children"
+Iredell,37097,Total,Substantiated,2022,"Rate per 1,000",9.6,"per 1,000 children"
+Iredell,37097,Total,Investigated,2023,"Rate per 1,000",39.1,"per 1,000 children"
+Iredell,37097,Total,Substantiated,2023,"Rate per 1,000",11.3,"per 1,000 children"
+Iredell,37097,Total,Investigated,2018,Number,2175,
+Iredell,37097,Total,Substantiated,2018,Number,650,
+Iredell,37097,Total,Investigated,2019,Number,1966,
+Iredell,37097,Total,Substantiated,2019,Number,506,
+Iredell,37097,Total,Investigated,2020,Number,1666,
+Iredell,37097,Total,Substantiated,2020,Number,384,
+Iredell,37097,Total,Investigated,2021,Number,1513,
+Iredell,37097,Total,Substantiated,2021,Number,377,
+Iredell,37097,Total,Investigated,2022,Number,1843,
+Iredell,37097,Total,Substantiated,2022,Number,450,
+Iredell,37097,Total,Investigated,2023,Number,1851,
+Iredell,37097,Total,Substantiated,2023,Number,535,
+Jackson,37099,Total,Investigated,2018,"Rate per 1,000",51.9,"per 1,000 children"
+Jackson,37099,Total,Substantiated,2018,"Rate per 1,000",12.6,"per 1,000 children"
+Jackson,37099,Total,Investigated,2019,"Rate per 1,000",50.1,"per 1,000 children"
+Jackson,37099,Total,Substantiated,2019,"Rate per 1,000",9.1,"per 1,000 children"
+Jackson,37099,Total,Investigated,2020,"Rate per 1,000",38.3,"per 1,000 children"
+Jackson,37099,Total,Substantiated,2020,"Rate per 1,000",6.5,"per 1,000 children"
+Jackson,37099,Total,Investigated,2021,"Rate per 1,000",38.2,"per 1,000 children"
+Jackson,37099,Total,Substantiated,2021,"Rate per 1,000",9.1,"per 1,000 children"
+Jackson,37099,Total,Investigated,2022,"Rate per 1,000",48.2,"per 1,000 children"
+Jackson,37099,Total,Substantiated,2022,"Rate per 1,000",6.9,"per 1,000 children"
+Jackson,37099,Total,Investigated,2023,"Rate per 1,000",47.4,"per 1,000 children"
+Jackson,37099,Total,Substantiated,2023,"Rate per 1,000",8.4,"per 1,000 children"
+Jackson,37099,Total,Investigated,2018,Number,528,
+Jackson,37099,Total,Substantiated,2018,Number,128,
+Jackson,37099,Total,Investigated,2019,Number,512,
+Jackson,37099,Total,Substantiated,2019,Number,93,
+Jackson,37099,Total,Investigated,2020,Number,390,
+Jackson,37099,Total,Substantiated,2020,Number,66,
+Jackson,37099,Total,Investigated,2021,Number,369,
+Jackson,37099,Total,Substantiated,2021,Number,88,
+Jackson,37099,Total,Investigated,2022,Number,462,
+Jackson,37099,Total,Substantiated,2022,Number,66,
+Jackson,37099,Total,Investigated,2023,Number,451,
+Jackson,37099,Total,Substantiated,2023,Number,80,
+Johnston,37101,Total,Investigated,2018,"Rate per 1,000",36,"per 1,000 children"
+Johnston,37101,Total,Substantiated,2018,"Rate per 1,000",6.1,"per 1,000 children"
+Johnston,37101,Total,Investigated,2019,"Rate per 1,000",34.8,"per 1,000 children"
+Johnston,37101,Total,Substantiated,2019,"Rate per 1,000",7.3,"per 1,000 children"
+Johnston,37101,Total,Investigated,2020,"Rate per 1,000",33.8,"per 1,000 children"
+Johnston,37101,Total,Substantiated,2020,"Rate per 1,000",8.5,"per 1,000 children"
+Johnston,37101,Total,Investigated,2021,"Rate per 1,000",24.4,"per 1,000 children"
+Johnston,37101,Total,Substantiated,2021,"Rate per 1,000",3.9,"per 1,000 children"
+Johnston,37101,Total,Investigated,2022,"Rate per 1,000",33.3,"per 1,000 children"
+Johnston,37101,Total,Substantiated,2022,"Rate per 1,000",5.4,"per 1,000 children"
+Johnston,37101,Total,Investigated,2023,"Rate per 1,000",34.7,"per 1,000 children"
+Johnston,37101,Total,Substantiated,2023,"Rate per 1,000",6.3,"per 1,000 children"
+Johnston,37101,Total,Investigated,2018,Number,1984,
+Johnston,37101,Total,Substantiated,2018,Number,334,
+Johnston,37101,Total,Investigated,2019,Number,1964,
+Johnston,37101,Total,Substantiated,2019,Number,410,
+Johnston,37101,Total,Investigated,2020,Number,1953,
+Johnston,37101,Total,Substantiated,2020,Number,490,
+Johnston,37101,Total,Investigated,2021,Number,1460,
+Johnston,37101,Total,Substantiated,2021,Number,236,
+Johnston,37101,Total,Investigated,2022,Number,2049,
+Johnston,37101,Total,Substantiated,2022,Number,331,
+Johnston,37101,Total,Investigated,2023,Number,2175,
+Johnston,37101,Total,Substantiated,2023,Number,395,
+Jones,37103,Total,Investigated,2018,"Rate per 1,000",82.5,"per 1,000 children"
+Jones,37103,Total,Substantiated,2018,"Rate per 1,000",14.2,"per 1,000 children"
+Jones,37103,Total,Investigated,2019,"Rate per 1,000",52,"per 1,000 children"
+Jones,37103,Total,Substantiated,2019,"Rate per 1,000",8.2,"per 1,000 children"
+Jones,37103,Total,Investigated,2020,"Rate per 1,000",79.9,"per 1,000 children"
+Jones,37103,Total,Substantiated,2020,"Rate per 1,000",13.2,"per 1,000 children"
+Jones,37103,Total,Investigated,2021,"Rate per 1,000",63,"per 1,000 children"
+Jones,37103,Total,Substantiated,2021,"Rate per 1,000",8.2,"per 1,000 children"
+Jones,37103,Total,Investigated,2022,"Rate per 1,000",71.2,"per 1,000 children"
+Jones,37103,Total,Substantiated,2022,"Rate per 1,000",17.4,"per 1,000 children"
+Jones,37103,Total,Investigated,2023,"Rate per 1,000",71,"per 1,000 children"
+Jones,37103,Total,Substantiated,2023,"Rate per 1,000",24.4,"per 1,000 children"
+Jones,37103,Total,Investigated,2018,Number,163,
+Jones,37103,Total,Substantiated,2018,Number,28,
+Jones,37103,Total,Investigated,2019,Number,102,
+Jones,37103,Total,Substantiated,2019,Number,16,
+Jones,37103,Total,Investigated,2020,Number,151,
+Jones,37103,Total,Substantiated,2020,Number,25,
+Jones,37103,Total,Investigated,2021,Number,115,
+Jones,37103,Total,Substantiated,2021,Number,15,
+Jones,37103,Total,Investigated,2022,Number,131,
+Jones,37103,Total,Substantiated,2022,Number,32,
+Jones,37103,Total,Investigated,2023,Number,131,
+Jones,37103,Total,Substantiated,2023,Number,45,
+Lee,37105,Total,Investigated,2018,"Rate per 1,000",36.3,"per 1,000 children"
+Lee,37105,Total,Substantiated,2018,"Rate per 1,000",4.1,"per 1,000 children"
+Lee,37105,Total,Investigated,2019,"Rate per 1,000",24.5,"per 1,000 children"
+Lee,37105,Total,Substantiated,2019,"Rate per 1,000",0.9,"per 1,000 children"
+Lee,37105,Total,Investigated,2020,"Rate per 1,000",25.2,"per 1,000 children"
+Lee,37105,Total,Substantiated,2020,"Rate per 1,000",2.5,"per 1,000 children"
+Lee,37105,Total,Investigated,2021,"Rate per 1,000",30.6,"per 1,000 children"
+Lee,37105,Total,Substantiated,2021,"Rate per 1,000",1.7,"per 1,000 children"
+Lee,37105,Total,Investigated,2022,"Rate per 1,000",36.8,"per 1,000 children"
+Lee,37105,Total,Substantiated,2022,"Rate per 1,000",3.7,"per 1,000 children"
+Lee,37105,Total,Investigated,2023,"Rate per 1,000",35,"per 1,000 children"
+Lee,37105,Total,Substantiated,2023,"Rate per 1,000",2.5,"per 1,000 children"
+Lee,37105,Total,Investigated,2018,Number,583,
+Lee,37105,Total,Substantiated,2018,Number,66,
+Lee,37105,Total,Investigated,2019,Number,397,
+Lee,37105,Total,Substantiated,2019,Number,15,
+Lee,37105,Total,Investigated,2020,Number,408,
+Lee,37105,Total,Substantiated,2020,Number,40,
+Lee,37105,Total,Investigated,2021,Number,511,
+Lee,37105,Total,Substantiated,2021,Number,28,
+Lee,37105,Total,Investigated,2022,Number,611,
+Lee,37105,Total,Substantiated,2022,Number,62,
+Lee,37105,Total,Investigated,2023,Number,585,
+Lee,37105,Total,Substantiated,2023,Number,41,
+Lenoir,37107,Total,Investigated,2018,"Rate per 1,000",65,"per 1,000 children"
+Lenoir,37107,Total,Substantiated,2018,"Rate per 1,000",8.9,"per 1,000 children"
+Lenoir,37107,Total,Investigated,2019,"Rate per 1,000",56.8,"per 1,000 children"
+Lenoir,37107,Total,Substantiated,2019,"Rate per 1,000",9.3,"per 1,000 children"
+Lenoir,37107,Total,Investigated,2020,"Rate per 1,000",56.4,"per 1,000 children"
+Lenoir,37107,Total,Substantiated,2020,"Rate per 1,000",10.5,"per 1,000 children"
+Lenoir,37107,Total,Investigated,2021,"Rate per 1,000",54.1,"per 1,000 children"
+Lenoir,37107,Total,Substantiated,2021,"Rate per 1,000",10.5,"per 1,000 children"
+Lenoir,37107,Total,Investigated,2022,"Rate per 1,000",62.8,"per 1,000 children"
+Lenoir,37107,Total,Substantiated,2022,"Rate per 1,000",8.8,"per 1,000 children"
+Lenoir,37107,Total,Investigated,2023,"Rate per 1,000",47.2,"per 1,000 children"
+Lenoir,37107,Total,Substantiated,2023,"Rate per 1,000",8,"per 1,000 children"
+Lenoir,37107,Total,Investigated,2018,Number,903,
+Lenoir,37107,Total,Substantiated,2018,Number,124,
+Lenoir,37107,Total,Investigated,2019,Number,785,
+Lenoir,37107,Total,Substantiated,2019,Number,129,
+Lenoir,37107,Total,Investigated,2020,Number,777,
+Lenoir,37107,Total,Substantiated,2020,Number,144,
+Lenoir,37107,Total,Investigated,2021,Number,734,
+Lenoir,37107,Total,Substantiated,2021,Number,142,
+Lenoir,37107,Total,Investigated,2022,Number,844,
+Lenoir,37107,Total,Substantiated,2022,Number,118,
+Lenoir,37107,Total,Investigated,2023,Number,636,
+Lenoir,37107,Total,Substantiated,2023,Number,108,
+Lincoln,37109,Total,Investigated,2018,"Rate per 1,000",61.6,"per 1,000 children"
+Lincoln,37109,Total,Substantiated,2018,"Rate per 1,000",11,"per 1,000 children"
+Lincoln,37109,Total,Investigated,2019,"Rate per 1,000",56.1,"per 1,000 children"
+Lincoln,37109,Total,Substantiated,2019,"Rate per 1,000",9.3,"per 1,000 children"
+Lincoln,37109,Total,Investigated,2020,"Rate per 1,000",56.9,"per 1,000 children"
+Lincoln,37109,Total,Substantiated,2020,"Rate per 1,000",8,"per 1,000 children"
+Lincoln,37109,Total,Investigated,2021,"Rate per 1,000",62,"per 1,000 children"
+Lincoln,37109,Total,Substantiated,2021,"Rate per 1,000",7.8,"per 1,000 children"
+Lincoln,37109,Total,Investigated,2022,"Rate per 1,000",58,"per 1,000 children"
+Lincoln,37109,Total,Substantiated,2022,"Rate per 1,000",8.3,"per 1,000 children"
+Lincoln,37109,Total,Investigated,2023,"Rate per 1,000",51.5,"per 1,000 children"
+Lincoln,37109,Total,Substantiated,2023,"Rate per 1,000",5.8,"per 1,000 children"
+Lincoln,37109,Total,Investigated,2018,Number,1191,
+Lincoln,37109,Total,Substantiated,2018,Number,213,
+Lincoln,37109,Total,Investigated,2019,Number,1095,
+Lincoln,37109,Total,Substantiated,2019,Number,182,
+Lincoln,37109,Total,Investigated,2020,Number,1135,
+Lincoln,37109,Total,Substantiated,2020,Number,159,
+Lincoln,37109,Total,Investigated,2021,Number,1237,
+Lincoln,37109,Total,Substantiated,2021,Number,156,
+Lincoln,37109,Total,Investigated,2022,Number,1178,
+Lincoln,37109,Total,Substantiated,2022,Number,168,
+Lincoln,37109,Total,Investigated,2023,Number,1073,
+Lincoln,37109,Total,Substantiated,2023,Number,120,
+McDowell,37111,Total,Investigated,2018,"Rate per 1,000",78.3,"per 1,000 children"
+McDowell,37111,Total,Substantiated,2018,"Rate per 1,000",19.2,"per 1,000 children"
+McDowell,37111,Total,Investigated,2019,"Rate per 1,000",68.2,"per 1,000 children"
+McDowell,37111,Total,Substantiated,2019,"Rate per 1,000",16.8,"per 1,000 children"
+McDowell,37111,Total,Investigated,2020,"Rate per 1,000",70.5,"per 1,000 children"
+McDowell,37111,Total,Substantiated,2020,"Rate per 1,000",14.5,"per 1,000 children"
+McDowell,37111,Total,Investigated,2021,"Rate per 1,000",65.7,"per 1,000 children"
+McDowell,37111,Total,Substantiated,2021,"Rate per 1,000",15.5,"per 1,000 children"
+McDowell,37111,Total,Investigated,2022,"Rate per 1,000",75.6,"per 1,000 children"
+McDowell,37111,Total,Substantiated,2022,"Rate per 1,000",16.3,"per 1,000 children"
+McDowell,37111,Total,Investigated,2023,"Rate per 1,000",72.4,"per 1,000 children"
+McDowell,37111,Total,Substantiated,2023,"Rate per 1,000",11.5,"per 1,000 children"
+McDowell,37111,Total,Investigated,2018,Number,789,
+McDowell,37111,Total,Substantiated,2018,Number,193,
+McDowell,37111,Total,Investigated,2019,Number,687,
+McDowell,37111,Total,Substantiated,2019,Number,169,
+McDowell,37111,Total,Investigated,2020,Number,705,
+McDowell,37111,Total,Substantiated,2020,Number,145,
+McDowell,37111,Total,Investigated,2021,Number,636,
+McDowell,37111,Total,Substantiated,2021,Number,150,
+McDowell,37111,Total,Investigated,2022,Number,722,
+McDowell,37111,Total,Substantiated,2022,Number,156,
+McDowell,37111,Total,Investigated,2023,Number,686,
+McDowell,37111,Total,Substantiated,2023,Number,109,
+Macon,37113,Total,Investigated,2018,"Rate per 1,000",69.9,"per 1,000 children"
+Macon,37113,Total,Substantiated,2018,"Rate per 1,000",12.1,"per 1,000 children"
+Macon,37113,Total,Investigated,2019,"Rate per 1,000",47.3,"per 1,000 children"
+Macon,37113,Total,Substantiated,2019,"Rate per 1,000",7.3,"per 1,000 children"
+Macon,37113,Total,Investigated,2020,"Rate per 1,000",53.8,"per 1,000 children"
+Macon,37113,Total,Substantiated,2020,"Rate per 1,000",7.9,"per 1,000 children"
+Macon,37113,Total,Investigated,2021,"Rate per 1,000",57.6,"per 1,000 children"
+Macon,37113,Total,Substantiated,2021,"Rate per 1,000",11.2,"per 1,000 children"
+Macon,37113,Total,Investigated,2022,"Rate per 1,000",60.9,"per 1,000 children"
+Macon,37113,Total,Substantiated,2022,"Rate per 1,000",10.4,"per 1,000 children"
+Macon,37113,Total,Investigated,2023,"Rate per 1,000",62.1,"per 1,000 children"
+Macon,37113,Total,Substantiated,2023,"Rate per 1,000",6.9,"per 1,000 children"
+Macon,37113,Total,Investigated,2018,Number,503,
+Macon,37113,Total,Substantiated,2018,Number,87,
+Macon,37113,Total,Investigated,2019,Number,343,
+Macon,37113,Total,Substantiated,2019,Number,53,
+Macon,37113,Total,Investigated,2020,Number,390,
+Macon,37113,Total,Substantiated,2020,Number,57,
+Macon,37113,Total,Investigated,2021,Number,433,
+Macon,37113,Total,Substantiated,2021,Number,84,
+Macon,37113,Total,Investigated,2022,Number,455,
+Macon,37113,Total,Substantiated,2022,Number,78,
+Macon,37113,Total,Investigated,2023,Number,467,
+Macon,37113,Total,Substantiated,2023,Number,52,
+Madison,37115,Total,Investigated,2018,"Rate per 1,000",55.8,"per 1,000 children"
+Madison,37115,Total,Substantiated,2018,"Rate per 1,000",15.1,"per 1,000 children"
+Madison,37115,Total,Investigated,2019,"Rate per 1,000",43.9,"per 1,000 children"
+Madison,37115,Total,Substantiated,2019,"Rate per 1,000",14.9,"per 1,000 children"
+Madison,37115,Total,Investigated,2020,"Rate per 1,000",37.8,"per 1,000 children"
+Madison,37115,Total,Substantiated,2020,"Rate per 1,000",6.2,"per 1,000 children"
+Madison,37115,Total,Investigated,2021,"Rate per 1,000",44.7,"per 1,000 children"
+Madison,37115,Total,Substantiated,2021,"Rate per 1,000",10.8,"per 1,000 children"
+Madison,37115,Total,Investigated,2022,"Rate per 1,000",40.2,"per 1,000 children"
+Madison,37115,Total,Substantiated,2022,"Rate per 1,000",7.1,"per 1,000 children"
+Madison,37115,Total,Investigated,2023,"Rate per 1,000",43.8,"per 1,000 children"
+Madison,37115,Total,Substantiated,2023,"Rate per 1,000",6.5,"per 1,000 children"
+Madison,37115,Total,Investigated,2018,Number,262,
+Madison,37115,Total,Substantiated,2018,Number,71,
+Madison,37115,Total,Investigated,2019,Number,203,
+Madison,37115,Total,Substantiated,2019,Number,69,
+Madison,37115,Total,Investigated,2020,Number,171,
+Madison,37115,Total,Substantiated,2020,Number,28,
+Madison,37115,Total,Investigated,2021,Number,195,
+Madison,37115,Total,Substantiated,2021,Number,47,
+Madison,37115,Total,Investigated,2022,Number,176,
+Madison,37115,Total,Substantiated,2022,Number,31,
+Madison,37115,Total,Investigated,2023,Number,189,
+Madison,37115,Total,Substantiated,2023,Number,28,
+Martin,37117,Total,Investigated,2018,"Rate per 1,000",51.9,"per 1,000 children"
+Martin,37117,Total,Substantiated,2018,"Rate per 1,000",7.8,"per 1,000 children"
+Martin,37117,Total,Investigated,2019,"Rate per 1,000",60.3,"per 1,000 children"
+Martin,37117,Total,Substantiated,2019,"Rate per 1,000",7.8,"per 1,000 children"
+Martin,37117,Total,Investigated,2020,"Rate per 1,000",50,"per 1,000 children"
+Martin,37117,Total,Substantiated,2020,"Rate per 1,000",5.2,"per 1,000 children"
+Martin,37117,Total,Investigated,2021,"Rate per 1,000",33.5,"per 1,000 children"
+Martin,37117,Total,Substantiated,2021,"Rate per 1,000",7,"per 1,000 children"
+Martin,37117,Total,Investigated,2022,"Rate per 1,000",43,"per 1,000 children"
+Martin,37117,Total,Substantiated,2022,"Rate per 1,000",0.2,"per 1,000 children"
+Martin,37117,Total,Investigated,2023,"Rate per 1,000",48.2,"per 1,000 children"
+Martin,37117,Total,Substantiated,2023,"Rate per 1,000",3.4,"per 1,000 children"
+Martin,37117,Total,Investigated,2018,Number,266,
+Martin,37117,Total,Substantiated,2018,Number,40,
+Martin,37117,Total,Investigated,2019,Number,308,
+Martin,37117,Total,Substantiated,2019,Number,40,
+Martin,37117,Total,Investigated,2020,Number,249,
+Martin,37117,Total,Substantiated,2020,Number,26,
+Martin,37117,Total,Investigated,2021,Number,164,
+Martin,37117,Total,Substantiated,2021,Number,34,
+Martin,37117,Total,Investigated,2022,Number,207,
+Martin,37117,Total,Substantiated,2022,Number,1,
+Martin,37117,Total,Investigated,2023,Number,228,
+Martin,37117,Total,Substantiated,2023,Number,16,
+Mecklenburg,37119,Total,Investigated,2018,"Rate per 1,000",49.8,"per 1,000 children"
+Mecklenburg,37119,Total,Substantiated,2018,"Rate per 1,000",6.6,"per 1,000 children"
+Mecklenburg,37119,Total,Investigated,2019,"Rate per 1,000",49.7,"per 1,000 children"
+Mecklenburg,37119,Total,Substantiated,2019,"Rate per 1,000",7,"per 1,000 children"
+Mecklenburg,37119,Total,Investigated,2020,"Rate per 1,000",42.8,"per 1,000 children"
+Mecklenburg,37119,Total,Substantiated,2020,"Rate per 1,000",7.4,"per 1,000 children"
+Mecklenburg,37119,Total,Investigated,2021,"Rate per 1,000",41.9,"per 1,000 children"
+Mecklenburg,37119,Total,Substantiated,2021,"Rate per 1,000",6.6,"per 1,000 children"
+Mecklenburg,37119,Total,Investigated,2022,"Rate per 1,000",46.1,"per 1,000 children"
+Mecklenburg,37119,Total,Substantiated,2022,"Rate per 1,000",7.7,"per 1,000 children"
+Mecklenburg,37119,Total,Investigated,2023,"Rate per 1,000",44.4,"per 1,000 children"
+Mecklenburg,37119,Total,Substantiated,2023,"Rate per 1,000",8.4,"per 1,000 children"
+Mecklenburg,37119,Total,Investigated,2018,Number,14179,
+Mecklenburg,37119,Total,Substantiated,2018,Number,1880,
+Mecklenburg,37119,Total,Investigated,2019,Number,14209,
+Mecklenburg,37119,Total,Substantiated,2019,Number,2014,
+Mecklenburg,37119,Total,Investigated,2020,Number,12283,
+Mecklenburg,37119,Total,Substantiated,2020,Number,2114,
+Mecklenburg,37119,Total,Investigated,2021,Number,11981,
+Mecklenburg,37119,Total,Substantiated,2021,Number,1896,
+Mecklenburg,37119,Total,Investigated,2022,Number,13118,
+Mecklenburg,37119,Total,Substantiated,2022,Number,2179,
+Mecklenburg,37119,Total,Investigated,2023,Number,12702,
+Mecklenburg,37119,Total,Substantiated,2023,Number,2404,
+Mitchell,37121,Total,Investigated,2018,"Rate per 1,000",95.1,"per 1,000 children"
+Mitchell,37121,Total,Substantiated,2018,"Rate per 1,000",24.4,"per 1,000 children"
+Mitchell,37121,Total,Investigated,2019,"Rate per 1,000",95.4,"per 1,000 children"
+Mitchell,37121,Total,Substantiated,2019,"Rate per 1,000",32.6,"per 1,000 children"
+Mitchell,37121,Total,Investigated,2020,"Rate per 1,000",60.7,"per 1,000 children"
+Mitchell,37121,Total,Substantiated,2020,"Rate per 1,000",10.4,"per 1,000 children"
+Mitchell,37121,Total,Investigated,2021,"Rate per 1,000",41.5,"per 1,000 children"
+Mitchell,37121,Total,Substantiated,2021,"Rate per 1,000",11,"per 1,000 children"
+Mitchell,37121,Total,Investigated,2022,"Rate per 1,000",46.2,"per 1,000 children"
+Mitchell,37121,Total,Substantiated,2022,"Rate per 1,000",7.3,"per 1,000 children"
+Mitchell,37121,Total,Investigated,2023,"Rate per 1,000",49.9,"per 1,000 children"
+Mitchell,37121,Total,Substantiated,2023,"Rate per 1,000",16.5,"per 1,000 children"
+Mitchell,37121,Total,Investigated,2018,Number,289,
+Mitchell,37121,Total,Substantiated,2018,Number,74,
+Mitchell,37121,Total,Investigated,2019,Number,287,
+Mitchell,37121,Total,Substantiated,2019,Number,98,
+Mitchell,37121,Total,Investigated,2020,Number,181,
+Mitchell,37121,Total,Substantiated,2020,Number,31,
+Mitchell,37121,Total,Investigated,2021,Number,124,
+Mitchell,37121,Total,Substantiated,2021,Number,33,
+Mitchell,37121,Total,Investigated,2022,Number,139,
+Mitchell,37121,Total,Substantiated,2022,Number,22,
+Mitchell,37121,Total,Investigated,2023,Number,151,
+Mitchell,37121,Total,Substantiated,2023,Number,50,
+Montgomery,37123,Total,Investigated,2018,"Rate per 1,000",65,"per 1,000 children"
+Montgomery,37123,Total,Substantiated,2018,"Rate per 1,000",9,"per 1,000 children"
+Montgomery,37123,Total,Investigated,2019,"Rate per 1,000",53,"per 1,000 children"
+Montgomery,37123,Total,Substantiated,2019,"Rate per 1,000",8.6,"per 1,000 children"
+Montgomery,37123,Total,Investigated,2020,"Rate per 1,000",53.2,"per 1,000 children"
+Montgomery,37123,Total,Substantiated,2020,"Rate per 1,000",5.3,"per 1,000 children"
+Montgomery,37123,Total,Investigated,2021,"Rate per 1,000",48.1,"per 1,000 children"
+Montgomery,37123,Total,Substantiated,2021,"Rate per 1,000",5.6,"per 1,000 children"
+Montgomery,37123,Total,Investigated,2022,"Rate per 1,000",44.8,"per 1,000 children"
+Montgomery,37123,Total,Substantiated,2022,"Rate per 1,000",8.6,"per 1,000 children"
+Montgomery,37123,Total,Investigated,2023,"Rate per 1,000",50.7,"per 1,000 children"
+Montgomery,37123,Total,Substantiated,2023,"Rate per 1,000",8.1,"per 1,000 children"
+Montgomery,37123,Total,Investigated,2018,Number,440,
+Montgomery,37123,Total,Substantiated,2018,Number,61,
+Montgomery,37123,Total,Investigated,2019,Number,352,
+Montgomery,37123,Total,Substantiated,2019,Number,57,
+Montgomery,37123,Total,Investigated,2020,Number,349,
+Montgomery,37123,Total,Substantiated,2020,Number,35,
+Montgomery,37123,Total,Investigated,2021,Number,299,
+Montgomery,37123,Total,Substantiated,2021,Number,35,
+Montgomery,37123,Total,Investigated,2022,Number,270,
+Montgomery,37123,Total,Substantiated,2022,Number,52,
+Montgomery,37123,Total,Investigated,2023,Number,300,
+Montgomery,37123,Total,Substantiated,2023,Number,48,
+Moore,37125,Total,Investigated,2018,"Rate per 1,000",50.8,"per 1,000 children"
+Moore,37125,Total,Substantiated,2018,"Rate per 1,000",3.6,"per 1,000 children"
+Moore,37125,Total,Investigated,2019,"Rate per 1,000",45.7,"per 1,000 children"
+Moore,37125,Total,Substantiated,2019,"Rate per 1,000",8.2,"per 1,000 children"
+Moore,37125,Total,Investigated,2020,"Rate per 1,000",48,"per 1,000 children"
+Moore,37125,Total,Substantiated,2020,"Rate per 1,000",7.4,"per 1,000 children"
+Moore,37125,Total,Investigated,2021,"Rate per 1,000",45.2,"per 1,000 children"
+Moore,37125,Total,Substantiated,2021,"Rate per 1,000",5.9,"per 1,000 children"
+Moore,37125,Total,Investigated,2022,"Rate per 1,000",36.5,"per 1,000 children"
+Moore,37125,Total,Substantiated,2022,"Rate per 1,000",8.9,"per 1,000 children"
+Moore,37125,Total,Investigated,2023,"Rate per 1,000",35.9,"per 1,000 children"
+Moore,37125,Total,Substantiated,2023,"Rate per 1,000",6.9,"per 1,000 children"
+Moore,37125,Total,Investigated,2018,Number,1146,
+Moore,37125,Total,Substantiated,2018,Number,81,
+Moore,37125,Total,Investigated,2019,Number,1049,
+Moore,37125,Total,Substantiated,2019,Number,188,
+Moore,37125,Total,Investigated,2020,Number,1125,
+Moore,37125,Total,Substantiated,2020,Number,173,
+Moore,37125,Total,Investigated,2021,Number,1061,
+Moore,37125,Total,Substantiated,2021,Number,138,
+Moore,37125,Total,Investigated,2022,Number,877,
+Moore,37125,Total,Substantiated,2022,Number,213,
+Moore,37125,Total,Investigated,2023,Number,885,
+Moore,37125,Total,Substantiated,2023,Number,171,
+Nash,37127,Total,Investigated,2018,"Rate per 1,000",42.3,"per 1,000 children"
+Nash,37127,Total,Substantiated,2018,"Rate per 1,000",7.3,"per 1,000 children"
+Nash,37127,Total,Investigated,2019,"Rate per 1,000",45.6,"per 1,000 children"
+Nash,37127,Total,Substantiated,2019,"Rate per 1,000",7.2,"per 1,000 children"
+Nash,37127,Total,Investigated,2020,"Rate per 1,000",42,"per 1,000 children"
+Nash,37127,Total,Substantiated,2020,"Rate per 1,000",6.4,"per 1,000 children"
+Nash,37127,Total,Investigated,2021,"Rate per 1,000",39,"per 1,000 children"
+Nash,37127,Total,Substantiated,2021,"Rate per 1,000",9.2,"per 1,000 children"
+Nash,37127,Total,Investigated,2022,"Rate per 1,000",45.9,"per 1,000 children"
+Nash,37127,Total,Substantiated,2022,"Rate per 1,000",10.2,"per 1,000 children"
+Nash,37127,Total,Investigated,2023,"Rate per 1,000",50.6,"per 1,000 children"
+Nash,37127,Total,Substantiated,2023,"Rate per 1,000",12.4,"per 1,000 children"
+Nash,37127,Total,Investigated,2018,Number,987,
+Nash,37127,Total,Substantiated,2018,Number,170,
+Nash,37127,Total,Investigated,2019,Number,1055,
+Nash,37127,Total,Substantiated,2019,Number,166,
+Nash,37127,Total,Investigated,2020,Number,969,
+Nash,37127,Total,Substantiated,2020,Number,147,
+Nash,37127,Total,Investigated,2021,Number,903,
+Nash,37127,Total,Substantiated,2021,Number,212,
+Nash,37127,Total,Investigated,2022,Number,1052,
+Nash,37127,Total,Substantiated,2022,Number,234,
+Nash,37127,Total,Investigated,2023,Number,1161,
+Nash,37127,Total,Substantiated,2023,Number,284,
+New Hanover,37129,Total,Investigated,2018,"Rate per 1,000",67.7,"per 1,000 children"
+New Hanover,37129,Total,Substantiated,2018,"Rate per 1,000",14.2,"per 1,000 children"
+New Hanover,37129,Total,Investigated,2019,"Rate per 1,000",59,"per 1,000 children"
+New Hanover,37129,Total,Substantiated,2019,"Rate per 1,000",12.7,"per 1,000 children"
+New Hanover,37129,Total,Investigated,2020,"Rate per 1,000",56.7,"per 1,000 children"
+New Hanover,37129,Total,Substantiated,2020,"Rate per 1,000",12.4,"per 1,000 children"
+New Hanover,37129,Total,Investigated,2021,"Rate per 1,000",62.5,"per 1,000 children"
+New Hanover,37129,Total,Substantiated,2021,"Rate per 1,000",13.8,"per 1,000 children"
+New Hanover,37129,Total,Investigated,2022,"Rate per 1,000",56.6,"per 1,000 children"
+New Hanover,37129,Total,Substantiated,2022,"Rate per 1,000",11.1,"per 1,000 children"
+New Hanover,37129,Total,Investigated,2023,"Rate per 1,000",57.3,"per 1,000 children"
+New Hanover,37129,Total,Substantiated,2023,"Rate per 1,000",10.1,"per 1,000 children"
+New Hanover,37129,Total,Investigated,2018,Number,3436,
+New Hanover,37129,Total,Substantiated,2018,Number,722,
+New Hanover,37129,Total,Investigated,2019,Number,3011,
+New Hanover,37129,Total,Substantiated,2019,Number,647,
+New Hanover,37129,Total,Investigated,2020,Number,2869,
+New Hanover,37129,Total,Substantiated,2020,Number,628,
+New Hanover,37129,Total,Investigated,2021,Number,3016,
+New Hanover,37129,Total,Substantiated,2021,Number,666,
+New Hanover,37129,Total,Investigated,2022,Number,2727,
+New Hanover,37129,Total,Substantiated,2022,Number,534,
+New Hanover,37129,Total,Investigated,2023,Number,2756,
+New Hanover,37129,Total,Substantiated,2023,Number,485,
+Northampton,37131,Total,Investigated,2018,"Rate per 1,000",34.3,"per 1,000 children"
+Northampton,37131,Total,Substantiated,2018,"Rate per 1,000",3.6,"per 1,000 children"
+Northampton,37131,Total,Investigated,2019,"Rate per 1,000",33.9,"per 1,000 children"
+Northampton,37131,Total,Substantiated,2019,"Rate per 1,000",2.4,"per 1,000 children"
+Northampton,37131,Total,Investigated,2020,"Rate per 1,000",39.8,"per 1,000 children"
+Northampton,37131,Total,Substantiated,2020,"Rate per 1,000",3.2,"per 1,000 children"
+Northampton,37131,Total,Investigated,2021,"Rate per 1,000",46.3,"per 1,000 children"
+Northampton,37131,Total,Substantiated,2021,"Rate per 1,000",6.2,"per 1,000 children"
+Northampton,37131,Total,Investigated,2022,"Rate per 1,000",47.7,"per 1,000 children"
+Northampton,37131,Total,Substantiated,2022,"Rate per 1,000",7.6,"per 1,000 children"
+Northampton,37131,Total,Investigated,2023,"Rate per 1,000",59.1,"per 1,000 children"
+Northampton,37131,Total,Substantiated,2023,"Rate per 1,000",10.3,"per 1,000 children"
+Northampton,37131,Total,Investigated,2018,Number,134,
+Northampton,37131,Total,Substantiated,2018,Number,14,
+Northampton,37131,Total,Investigated,2019,Number,128,
+Northampton,37131,Total,Substantiated,2019,Number,9,
+Northampton,37131,Total,Investigated,2020,Number,147,
+Northampton,37131,Total,Substantiated,2020,Number,12,
+Northampton,37131,Total,Investigated,2021,Number,158,
+Northampton,37131,Total,Substantiated,2021,Number,21,
+Northampton,37131,Total,Investigated,2022,Number,156,
+Northampton,37131,Total,Substantiated,2022,Number,25,
+Northampton,37131,Total,Investigated,2023,Number,189,
+Northampton,37131,Total,Substantiated,2023,Number,33,
+Onslow,37133,Total,Investigated,2018,"Rate per 1,000",63,"per 1,000 children"
+Onslow,37133,Total,Substantiated,2018,"Rate per 1,000",10.3,"per 1,000 children"
+Onslow,37133,Total,Investigated,2019,"Rate per 1,000",61,"per 1,000 children"
+Onslow,37133,Total,Substantiated,2019,"Rate per 1,000",9.2,"per 1,000 children"
+Onslow,37133,Total,Investigated,2020,"Rate per 1,000",61.4,"per 1,000 children"
+Onslow,37133,Total,Substantiated,2020,"Rate per 1,000",8.9,"per 1,000 children"
+Onslow,37133,Total,Investigated,2021,"Rate per 1,000",56.6,"per 1,000 children"
+Onslow,37133,Total,Substantiated,2021,"Rate per 1,000",9.6,"per 1,000 children"
+Onslow,37133,Total,Investigated,2022,"Rate per 1,000",52.3,"per 1,000 children"
+Onslow,37133,Total,Substantiated,2022,"Rate per 1,000",10.3,"per 1,000 children"
+Onslow,37133,Total,Investigated,2023,"Rate per 1,000",49.8,"per 1,000 children"
+Onslow,37133,Total,Substantiated,2023,"Rate per 1,000",9.1,"per 1,000 children"
+Onslow,37133,Total,Investigated,2018,Number,3532,
+Onslow,37133,Total,Substantiated,2018,Number,577,
+Onslow,37133,Total,Investigated,2019,Number,3480,
+Onslow,37133,Total,Substantiated,2019,Number,524,
+Onslow,37133,Total,Investigated,2020,Number,3568,
+Onslow,37133,Total,Substantiated,2020,Number,516,
+Onslow,37133,Total,Investigated,2021,Number,3360,
+Onslow,37133,Total,Substantiated,2021,Number,571,
+Onslow,37133,Total,Investigated,2022,Number,3094,
+Onslow,37133,Total,Substantiated,2022,Number,608,
+Onslow,37133,Total,Investigated,2023,Number,2995,
+Onslow,37133,Total,Substantiated,2023,Number,550,
+Orange,37135,Total,Investigated,2018,"Rate per 1,000",27.6,"per 1,000 children"
+Orange,37135,Total,Substantiated,2018,"Rate per 1,000",8.5,"per 1,000 children"
+Orange,37135,Total,Investigated,2019,"Rate per 1,000",24.4,"per 1,000 children"
+Orange,37135,Total,Substantiated,2019,"Rate per 1,000",9.6,"per 1,000 children"
+Orange,37135,Total,Investigated,2020,"Rate per 1,000",26.7,"per 1,000 children"
+Orange,37135,Total,Substantiated,2020,"Rate per 1,000",7.8,"per 1,000 children"
+Orange,37135,Total,Investigated,2021,"Rate per 1,000",23.6,"per 1,000 children"
+Orange,37135,Total,Substantiated,2021,"Rate per 1,000",6.5,"per 1,000 children"
+Orange,37135,Total,Investigated,2022,"Rate per 1,000",26.5,"per 1,000 children"
+Orange,37135,Total,Substantiated,2022,"Rate per 1,000",7.5,"per 1,000 children"
+Orange,37135,Total,Investigated,2023,"Rate per 1,000",27.2,"per 1,000 children"
+Orange,37135,Total,Substantiated,2023,"Rate per 1,000",5.9,"per 1,000 children"
+Orange,37135,Total,Investigated,2018,Number,996,
+Orange,37135,Total,Substantiated,2018,Number,308,
+Orange,37135,Total,Investigated,2019,Number,923,
+Orange,37135,Total,Substantiated,2019,Number,361,
+Orange,37135,Total,Investigated,2020,Number,1002,
+Orange,37135,Total,Substantiated,2020,Number,292,
+Orange,37135,Total,Investigated,2021,Number,820,
+Orange,37135,Total,Substantiated,2021,Number,226,
+Orange,37135,Total,Investigated,2022,Number,978,
+Orange,37135,Total,Substantiated,2022,Number,278,
+Orange,37135,Total,Investigated,2023,Number,1005,
+Orange,37135,Total,Substantiated,2023,Number,217,
+Pamlico,37137,Total,Investigated,2018,"Rate per 1,000",49.7,"per 1,000 children"
+Pamlico,37137,Total,Substantiated,2018,"Rate per 1,000",9.7,"per 1,000 children"
+Pamlico,37137,Total,Investigated,2019,"Rate per 1,000",61.3,"per 1,000 children"
+Pamlico,37137,Total,Substantiated,2019,"Rate per 1,000",5.3,"per 1,000 children"
+Pamlico,37137,Total,Investigated,2020,"Rate per 1,000",57,"per 1,000 children"
+Pamlico,37137,Total,Substantiated,2020,"Rate per 1,000",6.7,"per 1,000 children"
+Pamlico,37137,Total,Investigated,2021,"Rate per 1,000",53.5,"per 1,000 children"
+Pamlico,37137,Total,Substantiated,2021,"Rate per 1,000",5.9,"per 1,000 children"
+Pamlico,37137,Total,Investigated,2022,"Rate per 1,000",51.7,"per 1,000 children"
+Pamlico,37137,Total,Substantiated,2022,"Rate per 1,000",10.6,"per 1,000 children"
+Pamlico,37137,Total,Investigated,2023,"Rate per 1,000",62.4,"per 1,000 children"
+Pamlico,37137,Total,Substantiated,2023,"Rate per 1,000",8.9,"per 1,000 children"
+Pamlico,37137,Total,Investigated,2018,Number,107,
+Pamlico,37137,Total,Substantiated,2018,Number,21,
+Pamlico,37137,Total,Investigated,2019,Number,128,
+Pamlico,37137,Total,Substantiated,2019,Number,11,
+Pamlico,37137,Total,Investigated,2020,Number,119,
+Pamlico,37137,Total,Substantiated,2020,Number,14,
+Pamlico,37137,Total,Investigated,2021,Number,109,
+Pamlico,37137,Total,Substantiated,2021,Number,12,
+Pamlico,37137,Total,Investigated,2022,Number,102,
+Pamlico,37137,Total,Substantiated,2022,Number,21,
+Pamlico,37137,Total,Investigated,2023,Number,119,
+Pamlico,37137,Total,Substantiated,2023,Number,17,
+Pasquotank,37139,Total,Investigated,2018,"Rate per 1,000",49.7,"per 1,000 children"
+Pasquotank,37139,Total,Substantiated,2018,"Rate per 1,000",5.3,"per 1,000 children"
+Pasquotank,37139,Total,Investigated,2019,"Rate per 1,000",37.7,"per 1,000 children"
+Pasquotank,37139,Total,Substantiated,2019,"Rate per 1,000",2.9,"per 1,000 children"
+Pasquotank,37139,Total,Investigated,2020,"Rate per 1,000",35.4,"per 1,000 children"
+Pasquotank,37139,Total,Substantiated,2020,"Rate per 1,000",4.8,"per 1,000 children"
+Pasquotank,37139,Total,Investigated,2021,"Rate per 1,000",34,"per 1,000 children"
+Pasquotank,37139,Total,Substantiated,2021,"Rate per 1,000",5.2,"per 1,000 children"
+Pasquotank,37139,Total,Investigated,2022,"Rate per 1,000",43.3,"per 1,000 children"
+Pasquotank,37139,Total,Substantiated,2022,"Rate per 1,000",5.6,"per 1,000 children"
+Pasquotank,37139,Total,Investigated,2023,"Rate per 1,000",35.1,"per 1,000 children"
+Pasquotank,37139,Total,Substantiated,2023,"Rate per 1,000",5.4,"per 1,000 children"
+Pasquotank,37139,Total,Investigated,2018,Number,487,
+Pasquotank,37139,Total,Substantiated,2018,Number,52,
+Pasquotank,37139,Total,Investigated,2019,Number,373,
+Pasquotank,37139,Total,Substantiated,2019,Number,29,
+Pasquotank,37139,Total,Investigated,2020,Number,353,
+Pasquotank,37139,Total,Substantiated,2020,Number,48,
+Pasquotank,37139,Total,Investigated,2021,Number,338,
+Pasquotank,37139,Total,Substantiated,2021,Number,52,
+Pasquotank,37139,Total,Investigated,2022,Number,427,
+Pasquotank,37139,Total,Substantiated,2022,Number,55,
+Pasquotank,37139,Total,Investigated,2023,Number,344,
+Pasquotank,37139,Total,Substantiated,2023,Number,53,
+Pender,37141,Total,Investigated,2018,"Rate per 1,000",53.5,"per 1,000 children"
+Pender,37141,Total,Substantiated,2018,"Rate per 1,000",11.9,"per 1,000 children"
+Pender,37141,Total,Investigated,2019,"Rate per 1,000",52.2,"per 1,000 children"
+Pender,37141,Total,Substantiated,2019,"Rate per 1,000",7.5,"per 1,000 children"
+Pender,37141,Total,Investigated,2020,"Rate per 1,000",43.6,"per 1,000 children"
+Pender,37141,Total,Substantiated,2020,"Rate per 1,000",5.1,"per 1,000 children"
+Pender,37141,Total,Investigated,2021,"Rate per 1,000",54,"per 1,000 children"
+Pender,37141,Total,Substantiated,2021,"Rate per 1,000",6.1,"per 1,000 children"
+Pender,37141,Total,Investigated,2022,"Rate per 1,000",48.6,"per 1,000 children"
+Pender,37141,Total,Substantiated,2022,"Rate per 1,000",5.6,"per 1,000 children"
+Pender,37141,Total,Investigated,2023,"Rate per 1,000",51.5,"per 1,000 children"
+Pender,37141,Total,Substantiated,2023,"Rate per 1,000",8.2,"per 1,000 children"
+Pender,37141,Total,Investigated,2018,Number,796,
+Pender,37141,Total,Substantiated,2018,Number,177,
+Pender,37141,Total,Investigated,2019,Number,784,
+Pender,37141,Total,Substantiated,2019,Number,113,
+Pender,37141,Total,Investigated,2020,Number,667,
+Pender,37141,Total,Substantiated,2020,Number,78,
+Pender,37141,Total,Investigated,2021,Number,791,
+Pender,37141,Total,Substantiated,2021,Number,89,
+Pender,37141,Total,Investigated,2022,Number,736,
+Pender,37141,Total,Substantiated,2022,Number,84,
+Pender,37141,Total,Investigated,2023,Number,814,
+Pender,37141,Total,Substantiated,2023,Number,130,
+Perquimans,37143,Total,Investigated,2018,"Rate per 1,000",36.4,"per 1,000 children"
+Perquimans,37143,Total,Substantiated,2018,"Rate per 1,000",6.8,"per 1,000 children"
+Perquimans,37143,Total,Investigated,2019,"Rate per 1,000",45.8,"per 1,000 children"
+Perquimans,37143,Total,Substantiated,2019,"Rate per 1,000",9.2,"per 1,000 children"
+Perquimans,37143,Total,Investigated,2020,"Rate per 1,000",50.8,"per 1,000 children"
+Perquimans,37143,Total,Substantiated,2020,"Rate per 1,000",7.9,"per 1,000 children"
+Perquimans,37143,Total,Investigated,2021,"Rate per 1,000",33.4,"per 1,000 children"
+Perquimans,37143,Total,Substantiated,2021,"Rate per 1,000",4.5,"per 1,000 children"
+Perquimans,37143,Total,Investigated,2022,"Rate per 1,000",44.2,"per 1,000 children"
+Perquimans,37143,Total,Substantiated,2022,"Rate per 1,000",12.5,"per 1,000 children"
+Perquimans,37143,Total,Investigated,2023,"Rate per 1,000",31.2,"per 1,000 children"
+Perquimans,37143,Total,Substantiated,2023,"Rate per 1,000",3.8,"per 1,000 children"
+Perquimans,37143,Total,Investigated,2018,Number,102,
+Perquimans,37143,Total,Substantiated,2018,Number,19,
+Perquimans,37143,Total,Investigated,2019,Number,125,
+Perquimans,37143,Total,Substantiated,2019,Number,25,
+Perquimans,37143,Total,Investigated,2020,Number,141,
+Perquimans,37143,Total,Substantiated,2020,Number,22,
+Perquimans,37143,Total,Investigated,2021,Number,89,
+Perquimans,37143,Total,Substantiated,2021,Number,12,
+Perquimans,37143,Total,Investigated,2022,Number,117,
+Perquimans,37143,Total,Substantiated,2022,Number,33,
+Perquimans,37143,Total,Investigated,2023,Number,83,
+Perquimans,37143,Total,Substantiated,2023,Number,10,
+Person,37145,Total,Investigated,2018,"Rate per 1,000",55.1,"per 1,000 children"
+Person,37145,Total,Substantiated,2018,"Rate per 1,000",13.9,"per 1,000 children"
+Person,37145,Total,Investigated,2019,"Rate per 1,000",50.8,"per 1,000 children"
+Person,37145,Total,Substantiated,2019,"Rate per 1,000",11.8,"per 1,000 children"
+Person,37145,Total,Investigated,2020,"Rate per 1,000",40.9,"per 1,000 children"
+Person,37145,Total,Substantiated,2020,"Rate per 1,000",11.5,"per 1,000 children"
+Person,37145,Total,Investigated,2021,"Rate per 1,000",63.1,"per 1,000 children"
+Person,37145,Total,Substantiated,2021,"Rate per 1,000",15.6,"per 1,000 children"
+Person,37145,Total,Investigated,2022,"Rate per 1,000",61.9,"per 1,000 children"
+Person,37145,Total,Substantiated,2022,"Rate per 1,000",17.6,"per 1,000 children"
+Person,37145,Total,Investigated,2023,"Rate per 1,000",52.6,"per 1,000 children"
+Person,37145,Total,Substantiated,2023,"Rate per 1,000",16.2,"per 1,000 children"
+Person,37145,Total,Investigated,2018,Number,505,
+Person,37145,Total,Substantiated,2018,Number,127,
+Person,37145,Total,Investigated,2019,Number,462,
+Person,37145,Total,Substantiated,2019,Number,107,
+Person,37145,Total,Investigated,2020,Number,367,
+Person,37145,Total,Substantiated,2020,Number,103,
+Person,37145,Total,Investigated,2021,Number,560,
+Person,37145,Total,Substantiated,2021,Number,138,
+Person,37145,Total,Investigated,2022,Number,542,
+Person,37145,Total,Substantiated,2022,Number,154,
+Person,37145,Total,Investigated,2023,Number,462,
+Person,37145,Total,Substantiated,2023,Number,142,
+Pitt,37147,Total,Investigated,2018,"Rate per 1,000",37.3,"per 1,000 children"
+Pitt,37147,Total,Substantiated,2018,"Rate per 1,000",7.3,"per 1,000 children"
+Pitt,37147,Total,Investigated,2019,"Rate per 1,000",39.6,"per 1,000 children"
+Pitt,37147,Total,Substantiated,2019,"Rate per 1,000",8.3,"per 1,000 children"
+Pitt,37147,Total,Investigated,2020,"Rate per 1,000",36.3,"per 1,000 children"
+Pitt,37147,Total,Substantiated,2020,"Rate per 1,000",12.1,"per 1,000 children"
+Pitt,37147,Total,Investigated,2021,"Rate per 1,000",36.4,"per 1,000 children"
+Pitt,37147,Total,Substantiated,2021,"Rate per 1,000",10.4,"per 1,000 children"
+Pitt,37147,Total,Investigated,2022,"Rate per 1,000",44.1,"per 1,000 children"
+Pitt,37147,Total,Substantiated,2022,"Rate per 1,000",10,"per 1,000 children"
+Pitt,37147,Total,Investigated,2023,"Rate per 1,000",44.2,"per 1,000 children"
+Pitt,37147,Total,Substantiated,2023,"Rate per 1,000",11.4,"per 1,000 children"
+Pitt,37147,Total,Investigated,2018,Number,1752,
+Pitt,37147,Total,Substantiated,2018,Number,345,
+Pitt,37147,Total,Investigated,2019,Number,1848,
+Pitt,37147,Total,Substantiated,2019,Number,389,
+Pitt,37147,Total,Investigated,2020,Number,1705,
+Pitt,37147,Total,Substantiated,2020,Number,568,
+Pitt,37147,Total,Investigated,2021,Number,1584,
+Pitt,37147,Total,Substantiated,2021,Number,455,
+Pitt,37147,Total,Investigated,2022,Number,1927,
+Pitt,37147,Total,Substantiated,2022,Number,437,
+Pitt,37147,Total,Investigated,2023,Number,1934,
+Pitt,37147,Total,Substantiated,2023,Number,499,
+Polk,37149,Total,Investigated,2018,"Rate per 1,000",56.7,"per 1,000 children"
+Polk,37149,Total,Substantiated,2018,"Rate per 1,000",9.1,"per 1,000 children"
+Polk,37149,Total,Investigated,2019,"Rate per 1,000",61.5,"per 1,000 children"
+Polk,37149,Total,Substantiated,2019,"Rate per 1,000",19.5,"per 1,000 children"
+Polk,37149,Total,Investigated,2020,"Rate per 1,000",72.9,"per 1,000 children"
+Polk,37149,Total,Substantiated,2020,"Rate per 1,000",15.4,"per 1,000 children"
+Polk,37149,Total,Investigated,2021,"Rate per 1,000",78.4,"per 1,000 children"
+Polk,37149,Total,Substantiated,2021,"Rate per 1,000",23.1,"per 1,000 children"
+Polk,37149,Total,Investigated,2022,"Rate per 1,000",89,"per 1,000 children"
+Polk,37149,Total,Substantiated,2022,"Rate per 1,000",19.7,"per 1,000 children"
+Polk,37149,Total,Investigated,2023,"Rate per 1,000",64.8,"per 1,000 children"
+Polk,37149,Total,Substantiated,2023,"Rate per 1,000",15.7,"per 1,000 children"
+Polk,37149,Total,Investigated,2018,Number,212,
+Polk,37149,Total,Substantiated,2018,Number,34,
+Polk,37149,Total,Investigated,2019,Number,230,
+Polk,37149,Total,Substantiated,2019,Number,73,
+Polk,37149,Total,Investigated,2020,Number,265,
+Polk,37149,Total,Substantiated,2020,Number,56,
+Polk,37149,Total,Investigated,2021,Number,265,
+Polk,37149,Total,Substantiated,2021,Number,78,
+Polk,37149,Total,Investigated,2022,Number,303,
+Polk,37149,Total,Substantiated,2022,Number,67,
+Polk,37149,Total,Investigated,2023,Number,223,
+Polk,37149,Total,Substantiated,2023,Number,54,
+Randolph,37151,Total,Investigated,2018,"Rate per 1,000",53,"per 1,000 children"
+Randolph,37151,Total,Substantiated,2018,"Rate per 1,000",6.8,"per 1,000 children"
+Randolph,37151,Total,Investigated,2019,"Rate per 1,000",54.4,"per 1,000 children"
+Randolph,37151,Total,Substantiated,2019,"Rate per 1,000",7.7,"per 1,000 children"
+Randolph,37151,Total,Investigated,2020,"Rate per 1,000",54.8,"per 1,000 children"
+Randolph,37151,Total,Substantiated,2020,"Rate per 1,000",9.4,"per 1,000 children"
+Randolph,37151,Total,Investigated,2021,"Rate per 1,000",53.1,"per 1,000 children"
+Randolph,37151,Total,Substantiated,2021,"Rate per 1,000",12.4,"per 1,000 children"
+Randolph,37151,Total,Investigated,2022,"Rate per 1,000",59,"per 1,000 children"
+Randolph,37151,Total,Substantiated,2022,"Rate per 1,000",11.2,"per 1,000 children"
+Randolph,37151,Total,Investigated,2023,"Rate per 1,000",52.1,"per 1,000 children"
+Randolph,37151,Total,Substantiated,2023,"Rate per 1,000",7.9,"per 1,000 children"
+Randolph,37151,Total,Investigated,2018,Number,1907,
+Randolph,37151,Total,Substantiated,2018,Number,245,
+Randolph,37151,Total,Investigated,2019,Number,1934,
+Randolph,37151,Total,Substantiated,2019,Number,275,
+Randolph,37151,Total,Investigated,2020,Number,1930,
+Randolph,37151,Total,Substantiated,2020,Number,333,
+Randolph,37151,Total,Investigated,2021,Number,1882,
+Randolph,37151,Total,Substantiated,2021,Number,439,
+Randolph,37151,Total,Investigated,2022,Number,2081,
+Randolph,37151,Total,Substantiated,2022,Number,394,
+Randolph,37151,Total,Investigated,2023,Number,1838,
+Randolph,37151,Total,Substantiated,2023,Number,277,
+Richmond,37153,Total,Investigated,2018,"Rate per 1,000",65.1,"per 1,000 children"
+Richmond,37153,Total,Substantiated,2018,"Rate per 1,000",7,"per 1,000 children"
+Richmond,37153,Total,Investigated,2019,"Rate per 1,000",78,"per 1,000 children"
+Richmond,37153,Total,Substantiated,2019,"Rate per 1,000",12.8,"per 1,000 children"
+Richmond,37153,Total,Investigated,2020,"Rate per 1,000",79.7,"per 1,000 children"
+Richmond,37153,Total,Substantiated,2020,"Rate per 1,000",14,"per 1,000 children"
+Richmond,37153,Total,Investigated,2021,"Rate per 1,000",74.2,"per 1,000 children"
+Richmond,37153,Total,Substantiated,2021,"Rate per 1,000",16.1,"per 1,000 children"
+Richmond,37153,Total,Investigated,2022,"Rate per 1,000",70.3,"per 1,000 children"
+Richmond,37153,Total,Substantiated,2022,"Rate per 1,000",13,"per 1,000 children"
+Richmond,37153,Total,Investigated,2023,"Rate per 1,000",77.6,"per 1,000 children"
+Richmond,37153,Total,Substantiated,2023,"Rate per 1,000",13.4,"per 1,000 children"
+Richmond,37153,Total,Investigated,2018,Number,735,
+Richmond,37153,Total,Substantiated,2018,Number,79,
+Richmond,37153,Total,Investigated,2019,Number,886,
+Richmond,37153,Total,Substantiated,2019,Number,146,
+Richmond,37153,Total,Investigated,2020,Number,905,
+Richmond,37153,Total,Substantiated,2020,Number,159,
+Richmond,37153,Total,Investigated,2021,Number,815,
+Richmond,37153,Total,Substantiated,2021,Number,177,
+Richmond,37153,Total,Investigated,2022,Number,766,
+Richmond,37153,Total,Substantiated,2022,Number,142,
+Richmond,37153,Total,Investigated,2023,Number,849,
+Richmond,37153,Total,Substantiated,2023,Number,146,
+Robeson,37155,Total,Investigated,2018,"Rate per 1,000",80.6,"per 1,000 children"
+Robeson,37155,Total,Substantiated,2018,"Rate per 1,000",21.2,"per 1,000 children"
+Robeson,37155,Total,Investigated,2019,"Rate per 1,000",77.7,"per 1,000 children"
+Robeson,37155,Total,Substantiated,2019,"Rate per 1,000",20.8,"per 1,000 children"
+Robeson,37155,Total,Investigated,2020,"Rate per 1,000",80.2,"per 1,000 children"
+Robeson,37155,Total,Substantiated,2020,"Rate per 1,000",28.3,"per 1,000 children"
+Robeson,37155,Total,Investigated,2021,"Rate per 1,000",84.1,"per 1,000 children"
+Robeson,37155,Total,Substantiated,2021,"Rate per 1,000",29.2,"per 1,000 children"
+Robeson,37155,Total,Investigated,2022,"Rate per 1,000",83.8,"per 1,000 children"
+Robeson,37155,Total,Substantiated,2022,"Rate per 1,000",27.4,"per 1,000 children"
+Robeson,37155,Total,Investigated,2023,"Rate per 1,000",82.4,"per 1,000 children"
+Robeson,37155,Total,Substantiated,2023,"Rate per 1,000",21.5,"per 1,000 children"
+Robeson,37155,Total,Investigated,2018,Number,3053,
+Robeson,37155,Total,Substantiated,2018,Number,803,
+Robeson,37155,Total,Investigated,2019,Number,2904,
+Robeson,37155,Total,Substantiated,2019,Number,778,
+Robeson,37155,Total,Investigated,2020,Number,2940,
+Robeson,37155,Total,Substantiated,2020,Number,1039,
+Robeson,37155,Total,Investigated,2021,Number,2760,
+Robeson,37155,Total,Substantiated,2021,Number,959,
+Robeson,37155,Total,Investigated,2022,Number,2750,
+Robeson,37155,Total,Substantiated,2022,Number,900,
+Robeson,37155,Total,Investigated,2023,Number,2736,
+Robeson,37155,Total,Substantiated,2023,Number,715,
+Rockingham,37157,Total,Investigated,2018,"Rate per 1,000",53,"per 1,000 children"
+Rockingham,37157,Total,Substantiated,2018,"Rate per 1,000",12.3,"per 1,000 children"
+Rockingham,37157,Total,Investigated,2019,"Rate per 1,000",64,"per 1,000 children"
+Rockingham,37157,Total,Substantiated,2019,"Rate per 1,000",16.5,"per 1,000 children"
+Rockingham,37157,Total,Investigated,2020,"Rate per 1,000",58.9,"per 1,000 children"
+Rockingham,37157,Total,Substantiated,2020,"Rate per 1,000",15.2,"per 1,000 children"
+Rockingham,37157,Total,Investigated,2021,"Rate per 1,000",45.7,"per 1,000 children"
+Rockingham,37157,Total,Substantiated,2021,"Rate per 1,000",11.5,"per 1,000 children"
+Rockingham,37157,Total,Investigated,2022,"Rate per 1,000",59.4,"per 1,000 children"
+Rockingham,37157,Total,Substantiated,2022,"Rate per 1,000",10.7,"per 1,000 children"
+Rockingham,37157,Total,Investigated,2023,"Rate per 1,000",57.6,"per 1,000 children"
+Rockingham,37157,Total,Substantiated,2023,"Rate per 1,000",11.9,"per 1,000 children"
+Rockingham,37157,Total,Investigated,2018,Number,1081,
+Rockingham,37157,Total,Substantiated,2018,Number,251,
+Rockingham,37157,Total,Investigated,2019,Number,1298,
+Rockingham,37157,Total,Substantiated,2019,Number,335,
+Rockingham,37157,Total,Investigated,2020,Number,1192,
+Rockingham,37157,Total,Substantiated,2020,Number,308,
+Rockingham,37157,Total,Investigated,2021,Number,929,
+Rockingham,37157,Total,Substantiated,2021,Number,233,
+Rockingham,37157,Total,Investigated,2022,Number,1194,
+Rockingham,37157,Total,Substantiated,2022,Number,214,
+Rockingham,37157,Total,Investigated,2023,Number,1165,
+Rockingham,37157,Total,Substantiated,2023,Number,241,
+Rowan,37159,Total,Investigated,2018,"Rate per 1,000",74.4,"per 1,000 children"
+Rowan,37159,Total,Substantiated,2018,"Rate per 1,000",10.4,"per 1,000 children"
+Rowan,37159,Total,Investigated,2019,"Rate per 1,000",50.5,"per 1,000 children"
+Rowan,37159,Total,Substantiated,2019,"Rate per 1,000",7.2,"per 1,000 children"
+Rowan,37159,Total,Investigated,2020,"Rate per 1,000",63.7,"per 1,000 children"
+Rowan,37159,Total,Substantiated,2020,"Rate per 1,000",11,"per 1,000 children"
+Rowan,37159,Total,Investigated,2021,"Rate per 1,000",57,"per 1,000 children"
+Rowan,37159,Total,Substantiated,2021,"Rate per 1,000",7,"per 1,000 children"
+Rowan,37159,Total,Investigated,2022,"Rate per 1,000",58.3,"per 1,000 children"
+Rowan,37159,Total,Substantiated,2022,"Rate per 1,000",7.8,"per 1,000 children"
+Rowan,37159,Total,Investigated,2023,"Rate per 1,000",67.4,"per 1,000 children"
+Rowan,37159,Total,Substantiated,2023,"Rate per 1,000",12.9,"per 1,000 children"
+Rowan,37159,Total,Investigated,2018,Number,2599,
+Rowan,37159,Total,Substantiated,2018,Number,363,
+Rowan,37159,Total,Investigated,2019,Number,1758,
+Rowan,37159,Total,Substantiated,2019,Number,252,
+Rowan,37159,Total,Investigated,2020,Number,2220,
+Rowan,37159,Total,Substantiated,2020,Number,382,
+Rowan,37159,Total,Investigated,2021,Number,2072,
+Rowan,37159,Total,Substantiated,2021,Number,253,
+Rowan,37159,Total,Investigated,2022,Number,2101,
+Rowan,37159,Total,Substantiated,2022,Number,281,
+Rowan,37159,Total,Investigated,2023,Number,2437,
+Rowan,37159,Total,Substantiated,2023,Number,468,
+Rutherford,37161,Total,Investigated,2018,"Rate per 1,000",74.7,"per 1,000 children"
+Rutherford,37161,Total,Substantiated,2018,"Rate per 1,000",14.7,"per 1,000 children"
+Rutherford,37161,Total,Investigated,2019,"Rate per 1,000",85.2,"per 1,000 children"
+Rutherford,37161,Total,Substantiated,2019,"Rate per 1,000",20.6,"per 1,000 children"
+Rutherford,37161,Total,Investigated,2020,"Rate per 1,000",75.1,"per 1,000 children"
+Rutherford,37161,Total,Substantiated,2020,"Rate per 1,000",10.8,"per 1,000 children"
+Rutherford,37161,Total,Investigated,2021,"Rate per 1,000",83,"per 1,000 children"
+Rutherford,37161,Total,Substantiated,2021,"Rate per 1,000",14.3,"per 1,000 children"
+Rutherford,37161,Total,Investigated,2022,"Rate per 1,000",75.1,"per 1,000 children"
+Rutherford,37161,Total,Substantiated,2022,"Rate per 1,000",13.6,"per 1,000 children"
+Rutherford,37161,Total,Investigated,2023,"Rate per 1,000",75.4,"per 1,000 children"
+Rutherford,37161,Total,Substantiated,2023,"Rate per 1,000",16,"per 1,000 children"
+Rutherford,37161,Total,Investigated,2018,Number,1136,
+Rutherford,37161,Total,Substantiated,2018,Number,224,
+Rutherford,37161,Total,Investigated,2019,Number,1288,
+Rutherford,37161,Total,Substantiated,2019,Number,312,
+Rutherford,37161,Total,Investigated,2020,Number,1132,
+Rutherford,37161,Total,Substantiated,2020,Number,162,
+Rutherford,37161,Total,Investigated,2021,Number,1198,
+Rutherford,37161,Total,Substantiated,2021,Number,206,
+Rutherford,37161,Total,Investigated,2022,Number,1068,
+Rutherford,37161,Total,Substantiated,2022,Number,194,
+Rutherford,37161,Total,Investigated,2023,Number,1072,
+Rutherford,37161,Total,Substantiated,2023,Number,227,
+Sampson,37163,Total,Investigated,2018,"Rate per 1,000",46.1,"per 1,000 children"
+Sampson,37163,Total,Substantiated,2018,"Rate per 1,000",12.5,"per 1,000 children"
+Sampson,37163,Total,Investigated,2019,"Rate per 1,000",49.1,"per 1,000 children"
+Sampson,37163,Total,Substantiated,2019,"Rate per 1,000",12,"per 1,000 children"
+Sampson,37163,Total,Investigated,2020,"Rate per 1,000",49.8,"per 1,000 children"
+Sampson,37163,Total,Substantiated,2020,"Rate per 1,000",8.7,"per 1,000 children"
+Sampson,37163,Total,Investigated,2021,"Rate per 1,000",56.5,"per 1,000 children"
+Sampson,37163,Total,Substantiated,2021,"Rate per 1,000",13.5,"per 1,000 children"
+Sampson,37163,Total,Investigated,2022,"Rate per 1,000",59.5,"per 1,000 children"
+Sampson,37163,Total,Substantiated,2022,"Rate per 1,000",12.9,"per 1,000 children"
+Sampson,37163,Total,Investigated,2023,"Rate per 1,000",62.4,"per 1,000 children"
+Sampson,37163,Total,Substantiated,2023,"Rate per 1,000",10.6,"per 1,000 children"
+Sampson,37163,Total,Investigated,2018,Number,786,
+Sampson,37163,Total,Substantiated,2018,Number,214,
+Sampson,37163,Total,Investigated,2019,Number,836,
+Sampson,37163,Total,Substantiated,2019,Number,205,
+Sampson,37163,Total,Investigated,2020,Number,847,
+Sampson,37163,Total,Substantiated,2020,Number,148,
+Sampson,37163,Total,Investigated,2021,Number,894,
+Sampson,37163,Total,Substantiated,2021,Number,214,
+Sampson,37163,Total,Investigated,2022,Number,935,
+Sampson,37163,Total,Substantiated,2022,Number,203,
+Sampson,37163,Total,Investigated,2023,Number,981,
+Sampson,37163,Total,Substantiated,2023,Number,166,
+Scotland,37165,Total,Investigated,2018,"Rate per 1,000",77.2,"per 1,000 children"
+Scotland,37165,Total,Substantiated,2018,"Rate per 1,000",14.7,"per 1,000 children"
+Scotland,37165,Total,Investigated,2019,"Rate per 1,000",88.1,"per 1,000 children"
+Scotland,37165,Total,Substantiated,2019,"Rate per 1,000",29,"per 1,000 children"
+Scotland,37165,Total,Investigated,2020,"Rate per 1,000",75.6,"per 1,000 children"
+Scotland,37165,Total,Substantiated,2020,"Rate per 1,000",21.7,"per 1,000 children"
+Scotland,37165,Total,Investigated,2021,"Rate per 1,000",86.2,"per 1,000 children"
+Scotland,37165,Total,Substantiated,2021,"Rate per 1,000",22.8,"per 1,000 children"
+Scotland,37165,Total,Investigated,2022,"Rate per 1,000",103.9,"per 1,000 children"
+Scotland,37165,Total,Substantiated,2022,"Rate per 1,000",22.8,"per 1,000 children"
+Scotland,37165,Total,Investigated,2023,"Rate per 1,000",93.9,"per 1,000 children"
+Scotland,37165,Total,Substantiated,2023,"Rate per 1,000",22.4,"per 1,000 children"
+Scotland,37165,Total,Investigated,2018,Number,699,
+Scotland,37165,Total,Substantiated,2018,Number,133,
+Scotland,37165,Total,Investigated,2019,Number,775,
+Scotland,37165,Total,Substantiated,2019,Number,255,
+Scotland,37165,Total,Investigated,2020,Number,673,
+Scotland,37165,Total,Substantiated,2020,Number,193,
+Scotland,37165,Total,Investigated,2021,Number,740,
+Scotland,37165,Total,Substantiated,2021,Number,196,
+Scotland,37165,Total,Investigated,2022,Number,897,
+Scotland,37165,Total,Substantiated,2022,Number,197,
+Scotland,37165,Total,Investigated,2023,Number,815,
+Scotland,37165,Total,Substantiated,2023,Number,194,
+Stanly,37167,Total,Investigated,2018,"Rate per 1,000",51.6,"per 1,000 children"
+Stanly,37167,Total,Substantiated,2018,"Rate per 1,000",12.7,"per 1,000 children"
+Stanly,37167,Total,Investigated,2019,"Rate per 1,000",60.5,"per 1,000 children"
+Stanly,37167,Total,Substantiated,2019,"Rate per 1,000",15.1,"per 1,000 children"
+Stanly,37167,Total,Investigated,2020,"Rate per 1,000",53.7,"per 1,000 children"
+Stanly,37167,Total,Substantiated,2020,"Rate per 1,000",13.5,"per 1,000 children"
+Stanly,37167,Total,Investigated,2021,"Rate per 1,000",46.3,"per 1,000 children"
+Stanly,37167,Total,Substantiated,2021,"Rate per 1,000",10.9,"per 1,000 children"
+Stanly,37167,Total,Investigated,2022,"Rate per 1,000",44.2,"per 1,000 children"
+Stanly,37167,Total,Substantiated,2022,"Rate per 1,000",8.7,"per 1,000 children"
+Stanly,37167,Total,Investigated,2023,"Rate per 1,000",45.1,"per 1,000 children"
+Stanly,37167,Total,Substantiated,2023,"Rate per 1,000",9.3,"per 1,000 children"
+Stanly,37167,Total,Investigated,2018,Number,765,
+Stanly,37167,Total,Substantiated,2018,Number,189,
+Stanly,37167,Total,Investigated,2019,Number,903,
+Stanly,37167,Total,Substantiated,2019,Number,226,
+Stanly,37167,Total,Investigated,2020,Number,806,
+Stanly,37167,Total,Substantiated,2020,Number,203,
+Stanly,37167,Total,Investigated,2021,Number,690,
+Stanly,37167,Total,Substantiated,2021,Number,162,
+Stanly,37167,Total,Investigated,2022,Number,660,
+Stanly,37167,Total,Substantiated,2022,Number,130,
+Stanly,37167,Total,Investigated,2023,Number,687,
+Stanly,37167,Total,Substantiated,2023,Number,142,
+Stokes,37169,Total,Investigated,2018,"Rate per 1,000",50.1,"per 1,000 children"
+Stokes,37169,Total,Substantiated,2018,"Rate per 1,000",14.7,"per 1,000 children"
+Stokes,37169,Total,Investigated,2019,"Rate per 1,000",53.6,"per 1,000 children"
+Stokes,37169,Total,Substantiated,2019,"Rate per 1,000",14,"per 1,000 children"
+Stokes,37169,Total,Investigated,2020,"Rate per 1,000",52.5,"per 1,000 children"
+Stokes,37169,Total,Substantiated,2020,"Rate per 1,000",13.5,"per 1,000 children"
+Stokes,37169,Total,Investigated,2021,"Rate per 1,000",43.2,"per 1,000 children"
+Stokes,37169,Total,Substantiated,2021,"Rate per 1,000",13.7,"per 1,000 children"
+Stokes,37169,Total,Investigated,2022,"Rate per 1,000",51,"per 1,000 children"
+Stokes,37169,Total,Substantiated,2022,"Rate per 1,000",15.7,"per 1,000 children"
+Stokes,37169,Total,Investigated,2023,"Rate per 1,000",56.5,"per 1,000 children"
+Stokes,37169,Total,Substantiated,2023,"Rate per 1,000",16.5,"per 1,000 children"
+Stokes,37169,Total,Investigated,2018,Number,483,
+Stokes,37169,Total,Substantiated,2018,Number,142,
+Stokes,37169,Total,Investigated,2019,Number,505,
+Stokes,37169,Total,Substantiated,2019,Number,132,
+Stokes,37169,Total,Investigated,2020,Number,488,
+Stokes,37169,Total,Substantiated,2020,Number,126,
+Stokes,37169,Total,Investigated,2021,Number,394,
+Stokes,37169,Total,Substantiated,2021,Number,125,
+Stokes,37169,Total,Investigated,2022,Number,457,
+Stokes,37169,Total,Substantiated,2022,Number,141,
+Stokes,37169,Total,Investigated,2023,Number,516,
+Stokes,37169,Total,Substantiated,2023,Number,151,
+Surry,37171,Total,Investigated,2018,"Rate per 1,000",38.6,"per 1,000 children"
+Surry,37171,Total,Substantiated,2018,"Rate per 1,000",11.5,"per 1,000 children"
+Surry,37171,Total,Investigated,2019,"Rate per 1,000",33.8,"per 1,000 children"
+Surry,37171,Total,Substantiated,2019,"Rate per 1,000",7.8,"per 1,000 children"
+Surry,37171,Total,Investigated,2020,"Rate per 1,000",41.1,"per 1,000 children"
+Surry,37171,Total,Substantiated,2020,"Rate per 1,000",14.6,"per 1,000 children"
+Surry,37171,Total,Investigated,2021,"Rate per 1,000",51.4,"per 1,000 children"
+Surry,37171,Total,Substantiated,2021,"Rate per 1,000",19.7,"per 1,000 children"
+Surry,37171,Total,Investigated,2022,"Rate per 1,000",38.6,"per 1,000 children"
+Surry,37171,Total,Substantiated,2022,"Rate per 1,000",14.4,"per 1,000 children"
+Surry,37171,Total,Investigated,2023,"Rate per 1,000",49.2,"per 1,000 children"
+Surry,37171,Total,Substantiated,2023,"Rate per 1,000",11.1,"per 1,000 children"
+Surry,37171,Total,Investigated,2018,Number,661,
+Surry,37171,Total,Substantiated,2018,Number,197,
+Surry,37171,Total,Investigated,2019,Number,570,
+Surry,37171,Total,Substantiated,2019,Number,132,
+Surry,37171,Total,Investigated,2020,Number,683,
+Surry,37171,Total,Substantiated,2020,Number,243,
+Surry,37171,Total,Investigated,2021,Number,850,
+Surry,37171,Total,Substantiated,2021,Number,326,
+Surry,37171,Total,Investigated,2022,Number,631,
+Surry,37171,Total,Substantiated,2022,Number,236,
+Surry,37171,Total,Investigated,2023,Number,805,
+Surry,37171,Total,Substantiated,2023,Number,182,
+Swain,37173,Total,Investigated,2018,"Rate per 1,000",62.3,"per 1,000 children"
+Swain,37173,Total,Substantiated,2018,"Rate per 1,000",10.1,"per 1,000 children"
+Swain,37173,Total,Investigated,2019,"Rate per 1,000",69,"per 1,000 children"
+Swain,37173,Total,Substantiated,2019,"Rate per 1,000",11.8,"per 1,000 children"
+Swain,37173,Total,Investigated,2020,"Rate per 1,000",66.6,"per 1,000 children"
+Swain,37173,Total,Substantiated,2020,"Rate per 1,000",9.4,"per 1,000 children"
+Swain,37173,Total,Investigated,2021,"Rate per 1,000",73.5,"per 1,000 children"
+Swain,37173,Total,Substantiated,2021,"Rate per 1,000",21,"per 1,000 children"
+Swain,37173,Total,Investigated,2022,"Rate per 1,000",43.1,"per 1,000 children"
+Swain,37173,Total,Substantiated,2022,"Rate per 1,000",12.7,"per 1,000 children"
+Swain,37173,Total,Investigated,2023,"Rate per 1,000",57.1,"per 1,000 children"
+Swain,37173,Total,Substantiated,2023,"Rate per 1,000",11.8,"per 1,000 children"
+Swain,37173,Total,Investigated,2018,Number,217,
+Swain,37173,Total,Substantiated,2018,Number,35,
+Swain,37173,Total,Investigated,2019,Number,239,
+Swain,37173,Total,Substantiated,2019,Number,41,
+Swain,37173,Total,Investigated,2020,Number,233,
+Swain,37173,Total,Substantiated,2020,Number,33,
+Swain,37173,Total,Investigated,2021,Number,252,
+Swain,37173,Total,Substantiated,2021,Number,72,
+Swain,37173,Total,Investigated,2022,Number,149,
+Swain,37173,Total,Substantiated,2022,Number,44,
+Swain,37173,Total,Investigated,2023,Number,193,
+Swain,37173,Total,Substantiated,2023,Number,40,
+Transylvania,37175,Total,Investigated,2018,"Rate per 1,000",86.5,"per 1,000 children"
+Transylvania,37175,Total,Substantiated,2018,"Rate per 1,000",6.2,"per 1,000 children"
+Transylvania,37175,Total,Investigated,2019,"Rate per 1,000",75.1,"per 1,000 children"
+Transylvania,37175,Total,Substantiated,2019,"Rate per 1,000",11.3,"per 1,000 children"
+Transylvania,37175,Total,Investigated,2020,"Rate per 1,000",79.1,"per 1,000 children"
+Transylvania,37175,Total,Substantiated,2020,"Rate per 1,000",12.3,"per 1,000 children"
+Transylvania,37175,Total,Investigated,2021,"Rate per 1,000",79.6,"per 1,000 children"
+Transylvania,37175,Total,Substantiated,2021,"Rate per 1,000",21.4,"per 1,000 children"
+Transylvania,37175,Total,Investigated,2022,"Rate per 1,000",80.2,"per 1,000 children"
+Transylvania,37175,Total,Substantiated,2022,"Rate per 1,000",8,"per 1,000 children"
+Transylvania,37175,Total,Investigated,2023,"Rate per 1,000",93.6,"per 1,000 children"
+Transylvania,37175,Total,Substantiated,2023,"Rate per 1,000",8.9,"per 1,000 children"
+Transylvania,37175,Total,Investigated,2018,Number,529,
+Transylvania,37175,Total,Substantiated,2018,Number,38,
+Transylvania,37175,Total,Investigated,2019,Number,463,
+Transylvania,37175,Total,Substantiated,2019,Number,70,
+Transylvania,37175,Total,Investigated,2020,Number,483,
+Transylvania,37175,Total,Substantiated,2020,Number,75,
+Transylvania,37175,Total,Investigated,2021,Number,469,
+Transylvania,37175,Total,Substantiated,2021,Number,126,
+Transylvania,37175,Total,Investigated,2022,Number,470,
+Transylvania,37175,Total,Substantiated,2022,Number,47,
+Transylvania,37175,Total,Investigated,2023,Number,537,
+Transylvania,37175,Total,Substantiated,2023,Number,51,
+Tyrrell,37177,Total,Investigated,2018,"Rate per 1,000",66.4,"per 1,000 children"
+Tyrrell,37177,Total,Substantiated,2018,"Rate per 1,000",9.5,"per 1,000 children"
+Tyrrell,37177,Total,Investigated,2019,"Rate per 1,000",60,"per 1,000 children"
+Tyrrell,37177,Total,Substantiated,2019,"Rate per 1,000",2.4,"per 1,000 children"
+Tyrrell,37177,Total,Investigated,2020,"Rate per 1,000",57,"per 1,000 children"
+Tyrrell,37177,Total,Substantiated,2020,"Rate per 1,000",8.9,"per 1,000 children"
+Tyrrell,37177,Total,Investigated,2021,"Rate per 1,000",74.4,"per 1,000 children"
+Tyrrell,37177,Total,Substantiated,2021,"Rate per 1,000",13.1,"per 1,000 children"
+Tyrrell,37177,Total,Investigated,2022,"Rate per 1,000",56.8,"per 1,000 children"
+Tyrrell,37177,Total,Substantiated,2022,"Rate per 1,000",20.2,"per 1,000 children"
+Tyrrell,37177,Total,Investigated,2023,"Rate per 1,000",40.4,"per 1,000 children"
+Tyrrell,37177,Total,Substantiated,2023,"Rate per 1,000",10.1,"per 1,000 children"
+Tyrrell,37177,Total,Investigated,2018,Number,56,
+Tyrrell,37177,Total,Substantiated,2018,Number,8,
+Tyrrell,37177,Total,Investigated,2019,Number,50,
+Tyrrell,37177,Total,Substantiated,2019,Number,2,
+Tyrrell,37177,Total,Investigated,2020,Number,45,
+Tyrrell,37177,Total,Substantiated,2020,Number,7,
+Tyrrell,37177,Total,Investigated,2021,Number,57,
+Tyrrell,37177,Total,Substantiated,2021,Number,10,
+Tyrrell,37177,Total,Investigated,2022,Number,45,
+Tyrrell,37177,Total,Substantiated,2022,Number,16,
+Tyrrell,37177,Total,Investigated,2023,Number,32,
+Tyrrell,37177,Total,Substantiated,2023,Number,8,
+Union,37179,Total,Investigated,2018,"Rate per 1,000",29.8,"per 1,000 children"
+Union,37179,Total,Substantiated,2018,"Rate per 1,000",3,"per 1,000 children"
+Union,37179,Total,Investigated,2019,"Rate per 1,000",29.3,"per 1,000 children"
+Union,37179,Total,Substantiated,2019,"Rate per 1,000",3.8,"per 1,000 children"
+Union,37179,Total,Investigated,2020,"Rate per 1,000",25,"per 1,000 children"
+Union,37179,Total,Substantiated,2020,"Rate per 1,000",4.1,"per 1,000 children"
+Union,37179,Total,Investigated,2021,"Rate per 1,000",24.9,"per 1,000 children"
+Union,37179,Total,Substantiated,2021,"Rate per 1,000",3.4,"per 1,000 children"
+Union,37179,Total,Investigated,2022,"Rate per 1,000",27.3,"per 1,000 children"
+Union,37179,Total,Substantiated,2022,"Rate per 1,000",3.7,"per 1,000 children"
+Union,37179,Total,Investigated,2023,"Rate per 1,000",25.2,"per 1,000 children"
+Union,37179,Total,Substantiated,2023,"Rate per 1,000",4,"per 1,000 children"
+Union,37179,Total,Investigated,2018,Number,2094,
+Union,37179,Total,Substantiated,2018,Number,208,
+Union,37179,Total,Investigated,2019,Number,2081,
+Union,37179,Total,Substantiated,2019,Number,271,
+Union,37179,Total,Investigated,2020,Number,1780,
+Union,37179,Total,Substantiated,2020,Number,290,
+Union,37179,Total,Investigated,2021,Number,1751,
+Union,37179,Total,Substantiated,2021,Number,236,
+Union,37179,Total,Investigated,2022,Number,1925,
+Union,37179,Total,Substantiated,2022,Number,264,
+Union,37179,Total,Investigated,2023,Number,1779,
+Union,37179,Total,Substantiated,2023,Number,280,
+Vance,37181,Total,Investigated,2018,"Rate per 1,000",66.4,"per 1,000 children"
+Vance,37181,Total,Substantiated,2018,"Rate per 1,000",13.4,"per 1,000 children"
+Vance,37181,Total,Investigated,2019,"Rate per 1,000",68.1,"per 1,000 children"
+Vance,37181,Total,Substantiated,2019,"Rate per 1,000",12.7,"per 1,000 children"
+Vance,37181,Total,Investigated,2020,"Rate per 1,000",60.1,"per 1,000 children"
+Vance,37181,Total,Substantiated,2020,"Rate per 1,000",7.6,"per 1,000 children"
+Vance,37181,Total,Investigated,2021,"Rate per 1,000",71.6,"per 1,000 children"
+Vance,37181,Total,Substantiated,2021,"Rate per 1,000",8.2,"per 1,000 children"
+Vance,37181,Total,Investigated,2022,"Rate per 1,000",66.4,"per 1,000 children"
+Vance,37181,Total,Substantiated,2022,"Rate per 1,000",11.7,"per 1,000 children"
+Vance,37181,Total,Investigated,2023,"Rate per 1,000",46.7,"per 1,000 children"
+Vance,37181,Total,Substantiated,2023,"Rate per 1,000",6.8,"per 1,000 children"
+Vance,37181,Total,Investigated,2018,Number,773,
+Vance,37181,Total,Substantiated,2018,Number,156,
+Vance,37181,Total,Investigated,2019,Number,798,
+Vance,37181,Total,Substantiated,2019,Number,149,
+Vance,37181,Total,Investigated,2020,Number,699,
+Vance,37181,Total,Substantiated,2020,Number,89,
+Vance,37181,Total,Investigated,2021,Number,798,
+Vance,37181,Total,Substantiated,2021,Number,91,
+Vance,37181,Total,Investigated,2022,Number,726,
+Vance,37181,Total,Substantiated,2022,Number,128,
+Vance,37181,Total,Investigated,2023,Number,512,
+Vance,37181,Total,Substantiated,2023,Number,75,
+Wake,37183,Total,Investigated,2018,"Rate per 1,000",24.5,"per 1,000 children"
+Wake,37183,Total,Substantiated,2018,"Rate per 1,000",4.8,"per 1,000 children"
+Wake,37183,Total,Investigated,2019,"Rate per 1,000",23.5,"per 1,000 children"
+Wake,37183,Total,Substantiated,2019,"Rate per 1,000",4.6,"per 1,000 children"
+Wake,37183,Total,Investigated,2020,"Rate per 1,000",20.4,"per 1,000 children"
+Wake,37183,Total,Substantiated,2020,"Rate per 1,000",3.2,"per 1,000 children"
+Wake,37183,Total,Investigated,2021,"Rate per 1,000",19.6,"per 1,000 children"
+Wake,37183,Total,Substantiated,2021,"Rate per 1,000",3.4,"per 1,000 children"
+Wake,37183,Total,Investigated,2022,"Rate per 1,000",20.5,"per 1,000 children"
+Wake,37183,Total,Substantiated,2022,"Rate per 1,000",2.1,"per 1,000 children"
+Wake,37183,Total,Investigated,2023,"Rate per 1,000",19.1,"per 1,000 children"
+Wake,37183,Total,Substantiated,2023,"Rate per 1,000",1.6,"per 1,000 children"
+Wake,37183,Total,Investigated,2018,Number,7083,
+Wake,37183,Total,Substantiated,2018,Number,1383,
+Wake,37183,Total,Investigated,2019,Number,6848,
+Wake,37183,Total,Substantiated,2019,Number,1334,
+Wake,37183,Total,Investigated,2020,Number,5994,
+Wake,37183,Total,Substantiated,2020,Number,953,
+Wake,37183,Total,Investigated,2021,Number,5797,
+Wake,37183,Total,Substantiated,2021,Number,1001,
+Wake,37183,Total,Investigated,2022,Number,6080,
+Wake,37183,Total,Substantiated,2022,Number,634,
+Wake,37183,Total,Investigated,2023,Number,5702,
+Wake,37183,Total,Substantiated,2023,Number,471,
+Warren,37185,Total,Investigated,2018,"Rate per 1,000",34.5,"per 1,000 children"
+Warren,37185,Total,Substantiated,2018,"Rate per 1,000",5,"per 1,000 children"
+Warren,37185,Total,Investigated,2019,"Rate per 1,000",35.7,"per 1,000 children"
+Warren,37185,Total,Substantiated,2019,"Rate per 1,000",2.3,"per 1,000 children"
+Warren,37185,Total,Investigated,2020,"Rate per 1,000",30.5,"per 1,000 children"
+Warren,37185,Total,Substantiated,2020,"Rate per 1,000",2.3,"per 1,000 children"
+Warren,37185,Total,Investigated,2021,"Rate per 1,000",34.9,"per 1,000 children"
+Warren,37185,Total,Substantiated,2021,"Rate per 1,000",3.3,"per 1,000 children"
+Warren,37185,Total,Investigated,2022,"Rate per 1,000",37.6,"per 1,000 children"
+Warren,37185,Total,Substantiated,2022,"Rate per 1,000",5.7,"per 1,000 children"
+Warren,37185,Total,Investigated,2023,"Rate per 1,000",55.2,"per 1,000 children"
+Warren,37185,Total,Substantiated,2023,"Rate per 1,000",9.5,"per 1,000 children"
+Warren,37185,Total,Investigated,2018,Number,138,
+Warren,37185,Total,Substantiated,2018,Number,20,
+Warren,37185,Total,Investigated,2019,Number,142,
+Warren,37185,Total,Substantiated,2019,Number,9,
+Warren,37185,Total,Investigated,2020,Number,118,
+Warren,37185,Total,Substantiated,2020,Number,9,
+Warren,37185,Total,Investigated,2021,Number,127,
+Warren,37185,Total,Substantiated,2021,Number,12,
+Warren,37185,Total,Investigated,2022,Number,138,
+Warren,37185,Total,Substantiated,2022,Number,21,
+Warren,37185,Total,Investigated,2023,Number,198,
+Warren,37185,Total,Substantiated,2023,Number,34,
+Washington,37187,Total,Investigated,2018,"Rate per 1,000",46.7,"per 1,000 children"
+Washington,37187,Total,Substantiated,2018,"Rate per 1,000",18.7,"per 1,000 children"
+Washington,37187,Total,Investigated,2019,"Rate per 1,000",47.1,"per 1,000 children"
+Washington,37187,Total,Substantiated,2019,"Rate per 1,000",8.4,"per 1,000 children"
+Washington,37187,Total,Investigated,2020,"Rate per 1,000",26.7,"per 1,000 children"
+Washington,37187,Total,Substantiated,2020,"Rate per 1,000",7.8,"per 1,000 children"
+Washington,37187,Total,Investigated,2021,"Rate per 1,000",42.4,"per 1,000 children"
+Washington,37187,Total,Substantiated,2021,"Rate per 1,000",7.7,"per 1,000 children"
+Washington,37187,Total,Investigated,2022,"Rate per 1,000",41,"per 1,000 children"
+Washington,37187,Total,Substantiated,2022,"Rate per 1,000",16.8,"per 1,000 children"
+Washington,37187,Total,Investigated,2023,"Rate per 1,000",39.3,"per 1,000 children"
+Washington,37187,Total,Substantiated,2023,"Rate per 1,000",5.9,"per 1,000 children"
+Washington,37187,Total,Investigated,2018,Number,125,
+Washington,37187,Total,Substantiated,2018,Number,50,
+Washington,37187,Total,Investigated,2019,Number,123,
+Washington,37187,Total,Substantiated,2019,Number,22,
+Washington,37187,Total,Investigated,2020,Number,68,
+Washington,37187,Total,Substantiated,2020,Number,20,
+Washington,37187,Total,Investigated,2021,Number,104,
+Washington,37187,Total,Substantiated,2021,Number,19,
+Washington,37187,Total,Investigated,2022,Number,98,
+Washington,37187,Total,Substantiated,2022,Number,40,
+Washington,37187,Total,Investigated,2023,Number,93,
+Washington,37187,Total,Substantiated,2023,Number,14,
+Watauga,37189,Total,Investigated,2018,"Rate per 1,000",18.5,"per 1,000 children"
+Watauga,37189,Total,Substantiated,2018,"Rate per 1,000",7.5,"per 1,000 children"
+Watauga,37189,Total,Investigated,2019,"Rate per 1,000",18.4,"per 1,000 children"
+Watauga,37189,Total,Substantiated,2019,"Rate per 1,000",5,"per 1,000 children"
+Watauga,37189,Total,Investigated,2020,"Rate per 1,000",20.3,"per 1,000 children"
+Watauga,37189,Total,Substantiated,2020,"Rate per 1,000",4.4,"per 1,000 children"
+Watauga,37189,Total,Investigated,2021,"Rate per 1,000",21.5,"per 1,000 children"
+Watauga,37189,Total,Substantiated,2021,"Rate per 1,000",6,"per 1,000 children"
+Watauga,37189,Total,Investigated,2022,"Rate per 1,000",20.6,"per 1,000 children"
+Watauga,37189,Total,Substantiated,2022,"Rate per 1,000",3.5,"per 1,000 children"
+Watauga,37189,Total,Investigated,2023,"Rate per 1,000",21.2,"per 1,000 children"
+Watauga,37189,Total,Substantiated,2023,"Rate per 1,000",3,"per 1,000 children"
+Watauga,37189,Total,Investigated,2018,Number,219,
+Watauga,37189,Total,Substantiated,2018,Number,89,
+Watauga,37189,Total,Investigated,2019,Number,219,
+Watauga,37189,Total,Substantiated,2019,Number,60,
+Watauga,37189,Total,Investigated,2020,Number,240,
+Watauga,37189,Total,Substantiated,2020,Number,52,
+Watauga,37189,Total,Investigated,2021,Number,260,
+Watauga,37189,Total,Substantiated,2021,Number,73,
+Watauga,37189,Total,Investigated,2022,Number,256,
+Watauga,37189,Total,Substantiated,2022,Number,43,
+Watauga,37189,Total,Investigated,2023,Number,263,
+Watauga,37189,Total,Substantiated,2023,Number,37,
+Wayne,37191,Total,Investigated,2018,"Rate per 1,000",41.9,"per 1,000 children"
+Wayne,37191,Total,Substantiated,2018,"Rate per 1,000",7.3,"per 1,000 children"
+Wayne,37191,Total,Investigated,2019,"Rate per 1,000",38.2,"per 1,000 children"
+Wayne,37191,Total,Substantiated,2019,"Rate per 1,000",2.3,"per 1,000 children"
+Wayne,37191,Total,Investigated,2020,"Rate per 1,000",37.3,"per 1,000 children"
+Wayne,37191,Total,Substantiated,2020,"Rate per 1,000",3.6,"per 1,000 children"
+Wayne,37191,Total,Investigated,2021,"Rate per 1,000",41.3,"per 1,000 children"
+Wayne,37191,Total,Substantiated,2021,"Rate per 1,000",2.8,"per 1,000 children"
+Wayne,37191,Total,Investigated,2022,"Rate per 1,000",38.6,"per 1,000 children"
+Wayne,37191,Total,Substantiated,2022,"Rate per 1,000",2.4,"per 1,000 children"
+Wayne,37191,Total,Investigated,2023,"Rate per 1,000",43.6,"per 1,000 children"
+Wayne,37191,Total,Substantiated,2023,"Rate per 1,000",2.9,"per 1,000 children"
+Wayne,37191,Total,Investigated,2018,Number,1357,
+Wayne,37191,Total,Substantiated,2018,Number,237,
+Wayne,37191,Total,Investigated,2019,Number,1237,
+Wayne,37191,Total,Substantiated,2019,Number,74,
+Wayne,37191,Total,Investigated,2020,Number,1208,
+Wayne,37191,Total,Substantiated,2020,Number,116,
+Wayne,37191,Total,Investigated,2021,Number,1264,
+Wayne,37191,Total,Substantiated,2021,Number,87,
+Wayne,37191,Total,Investigated,2022,Number,1165,
+Wayne,37191,Total,Substantiated,2022,Number,71,
+Wayne,37191,Total,Investigated,2023,Number,1329,
+Wayne,37191,Total,Substantiated,2023,Number,87,
+Wilkes,37193,Total,Investigated,2018,"Rate per 1,000",73.2,"per 1,000 children"
+Wilkes,37193,Total,Substantiated,2018,"Rate per 1,000",21.3,"per 1,000 children"
+Wilkes,37193,Total,Investigated,2019,"Rate per 1,000",60.2,"per 1,000 children"
+Wilkes,37193,Total,Substantiated,2019,"Rate per 1,000",17.6,"per 1,000 children"
+Wilkes,37193,Total,Investigated,2020,"Rate per 1,000",57.9,"per 1,000 children"
+Wilkes,37193,Total,Substantiated,2020,"Rate per 1,000",16.5,"per 1,000 children"
+Wilkes,37193,Total,Investigated,2021,"Rate per 1,000",57.2,"per 1,000 children"
+Wilkes,37193,Total,Substantiated,2021,"Rate per 1,000",16.9,"per 1,000 children"
+Wilkes,37193,Total,Investigated,2022,"Rate per 1,000",55.1,"per 1,000 children"
+Wilkes,37193,Total,Substantiated,2022,"Rate per 1,000",14.7,"per 1,000 children"
+Wilkes,37193,Total,Investigated,2023,"Rate per 1,000",59.2,"per 1,000 children"
+Wilkes,37193,Total,Substantiated,2023,"Rate per 1,000",15.1,"per 1,000 children"
+Wilkes,37193,Total,Investigated,2018,Number,1139,
+Wilkes,37193,Total,Substantiated,2018,Number,332,
+Wilkes,37193,Total,Investigated,2019,Number,935,
+Wilkes,37193,Total,Substantiated,2019,Number,273,
+Wilkes,37193,Total,Investigated,2020,Number,881,
+Wilkes,37193,Total,Substantiated,2020,Number,251,
+Wilkes,37193,Total,Investigated,2021,Number,841,
+Wilkes,37193,Total,Substantiated,2021,Number,249,
+Wilkes,37193,Total,Investigated,2022,Number,794,
+Wilkes,37193,Total,Substantiated,2022,Number,212,
+Wilkes,37193,Total,Investigated,2023,Number,838,
+Wilkes,37193,Total,Substantiated,2023,Number,214,
+Wilson,37195,Total,Investigated,2018,"Rate per 1,000",39.8,"per 1,000 children"
+Wilson,37195,Total,Substantiated,2018,"Rate per 1,000",3.5,"per 1,000 children"
+Wilson,37195,Total,Investigated,2019,"Rate per 1,000",56.1,"per 1,000 children"
+Wilson,37195,Total,Substantiated,2019,"Rate per 1,000",5.5,"per 1,000 children"
+Wilson,37195,Total,Investigated,2020,"Rate per 1,000",42,"per 1,000 children"
+Wilson,37195,Total,Substantiated,2020,"Rate per 1,000",4.3,"per 1,000 children"
+Wilson,37195,Total,Investigated,2021,"Rate per 1,000",48.5,"per 1,000 children"
+Wilson,37195,Total,Substantiated,2021,"Rate per 1,000",5.3,"per 1,000 children"
+Wilson,37195,Total,Investigated,2022,"Rate per 1,000",58.9,"per 1,000 children"
+Wilson,37195,Total,Substantiated,2022,"Rate per 1,000",6.6,"per 1,000 children"
+Wilson,37195,Total,Investigated,2023,"Rate per 1,000",60.8,"per 1,000 children"
+Wilson,37195,Total,Substantiated,2023,"Rate per 1,000",7.4,"per 1,000 children"
+Wilson,37195,Total,Investigated,2018,Number,834,
+Wilson,37195,Total,Substantiated,2018,Number,74,
+Wilson,37195,Total,Investigated,2019,Number,1168,
+Wilson,37195,Total,Substantiated,2019,Number,115,
+Wilson,37195,Total,Investigated,2020,Number,873,
+Wilson,37195,Total,Substantiated,2020,Number,89,
+Wilson,37195,Total,Investigated,2021,Number,970,
+Wilson,37195,Total,Substantiated,2021,Number,106,
+Wilson,37195,Total,Investigated,2022,Number,1155,
+Wilson,37195,Total,Substantiated,2022,Number,129,
+Wilson,37195,Total,Investigated,2023,Number,1189,
+Wilson,37195,Total,Substantiated,2023,Number,144,
+Yadkin,37197,Total,Investigated,2018,"Rate per 1,000",41.2,"per 1,000 children"
+Yadkin,37197,Total,Substantiated,2018,"Rate per 1,000",10.5,"per 1,000 children"
+Yadkin,37197,Total,Investigated,2019,"Rate per 1,000",40.7,"per 1,000 children"
+Yadkin,37197,Total,Substantiated,2019,"Rate per 1,000",7.3,"per 1,000 children"
+Yadkin,37197,Total,Investigated,2020,"Rate per 1,000",35.1,"per 1,000 children"
+Yadkin,37197,Total,Substantiated,2020,"Rate per 1,000",5.5,"per 1,000 children"
+Yadkin,37197,Total,Investigated,2021,"Rate per 1,000",45.1,"per 1,000 children"
+Yadkin,37197,Total,Substantiated,2021,"Rate per 1,000",7.2,"per 1,000 children"
+Yadkin,37197,Total,Investigated,2022,"Rate per 1,000",35.9,"per 1,000 children"
+Yadkin,37197,Total,Substantiated,2022,"Rate per 1,000",7.1,"per 1,000 children"
+Yadkin,37197,Total,Investigated,2023,"Rate per 1,000",35.3,"per 1,000 children"
+Yadkin,37197,Total,Substantiated,2023,"Rate per 1,000",4.5,"per 1,000 children"
+Yadkin,37197,Total,Investigated,2018,Number,360,
+Yadkin,37197,Total,Substantiated,2018,Number,92,
+Yadkin,37197,Total,Investigated,2019,Number,350,
+Yadkin,37197,Total,Substantiated,2019,Number,63,
+Yadkin,37197,Total,Investigated,2020,Number,302,
+Yadkin,37197,Total,Substantiated,2020,Number,47,
+Yadkin,37197,Total,Investigated,2021,Number,382,
+Yadkin,37197,Total,Substantiated,2021,Number,61,
+Yadkin,37197,Total,Investigated,2022,Number,300,
+Yadkin,37197,Total,Substantiated,2022,Number,59,
+Yadkin,37197,Total,Investigated,2023,Number,293,
+Yadkin,37197,Total,Substantiated,2023,Number,37,
+Yancey,37199,Total,Investigated,2018,"Rate per 1,000",65.3,"per 1,000 children"
+Yancey,37199,Total,Substantiated,2018,"Rate per 1,000",26.1,"per 1,000 children"
+Yancey,37199,Total,Investigated,2019,"Rate per 1,000",52.2,"per 1,000 children"
+Yancey,37199,Total,Substantiated,2019,"Rate per 1,000",17,"per 1,000 children"
+Yancey,37199,Total,Investigated,2020,"Rate per 1,000",65.4,"per 1,000 children"
+Yancey,37199,Total,Substantiated,2020,"Rate per 1,000",15.9,"per 1,000 children"
+Yancey,37199,Total,Investigated,2021,"Rate per 1,000",62.8,"per 1,000 children"
+Yancey,37199,Total,Substantiated,2021,"Rate per 1,000",19.4,"per 1,000 children"
+Yancey,37199,Total,Investigated,2022,"Rate per 1,000",56.4,"per 1,000 children"
+Yancey,37199,Total,Substantiated,2022,"Rate per 1,000",19.9,"per 1,000 children"
+Yancey,37199,Total,Investigated,2023,"Rate per 1,000",47.5,"per 1,000 children"
+Yancey,37199,Total,Substantiated,2023,"Rate per 1,000",14.6,"per 1,000 children"
+Yancey,37199,Total,Investigated,2018,Number,235,
+Yancey,37199,Total,Substantiated,2018,Number,94,
+Yancey,37199,Total,Investigated,2019,Number,190,
+Yancey,37199,Total,Substantiated,2019,Number,62,
+Yancey,37199,Total,Investigated,2020,Number,238,
+Yancey,37199,Total,Substantiated,2020,Number,58,
+Yancey,37199,Total,Investigated,2021,Number,233,
+Yancey,37199,Total,Substantiated,2021,Number,72,
+Yancey,37199,Total,Investigated,2022,Number,210,
+Yancey,37199,Total,Substantiated,2022,Number,74,
+Yancey,37199,Total,Investigated,2023,Number,173,
+Yancey,37199,Total,Substantiated,2023,Number,53,

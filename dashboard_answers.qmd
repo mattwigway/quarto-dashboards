@@ -1,0 +1,309 @@
+---
+title: NC Child Dashboard
+format: dashboard
+execute:
+    echo: false
+out-width: 100%
+fig-width: 7
+fig-height: 3
+# this will render plots as "vector", meaning they will be sharper
+fig-format: svg
+---
+
+```{r}
+#| include: false
+# ^ this means that any output from this code "chunk" will not be included in 
+# the dashboard
+
+# tidyverse is an R package for data manipulation and plotting
+library(tidyverse)
+
+# gt is a package for making tables
+library(gt)
+
+# tigris is a package for downloading US GIS data
+library(tigris)
+
+# ggspatial is a package for making maps
+library(ggspatial)
+
+# this will make future "renders" faster by caching map data
+options(tigris_use_cache = T)
+```
+
+```{r}
+#| include: false
+# We will make a map of counties in several places, so download GIS data on NC counties once
+counties = tigris::counties(state="nc")
+```
+
+<!-- Level 1 headings (lines starting with one # sign) become tabs in the navigation bar -->
+# Overview {orientation=columns}
+
+<!-- Level 2 headings become columns. The title is not used. -->
+## Introduction {width=60%}
+
+This is a reproduction of the [NC Child Data Center](https://ncchild.org/data-center/) in a [Quarto dashboard](https://quarto.org/docs/dashboards/).
+
+## Statewide statistics {width=40%}
+
+### Live births
+
+```{r}
+#| content: valuebox
+# ^ valuebox will display this as a number in a box
+
+# these data are from https://datacenter.aecf.org/data/tables/2294-live-births#detailed/2/any/false/1096,2545,1095,2048,574,1729,37,871,870,573/any/4792
+births = read_csv("data/live_births.csv")
+
+most_recent_year = births |>
+    # filter to statewide
+    filter(Location == "North Carolina") |>
+    # get the row with the largest (most recent) year
+    slice_max(TimeFrame, n = 1)
+
+list(
+    # the title will include the year, so if we update the data
+    # the dashboard will stay correct
+    title = paste("# live births,", most_recent_year$TimeFrame),
+    # scales::comma adds commas after the thousands, millions, etc.
+    value = scales::comma(most_recent_year$Data)
+)
+```
+
+### Total children
+
+```{r}
+#| content: valuebox
+# ^ valuebox will display this as a number in a box
+
+# these data are from the American Community Survey
+ages = read_csv("data/ages.csv") |>
+    # filter to most recent year
+    filter(year == max(year))
+
+children = ages |>
+    # filter to most recent year
+    filter(age_to < 18) |>
+    summarize(count=sum(count), year=first(year))
+
+list(
+    # the title will include the year, so if we update the data
+    # the dashboard will stay correct
+    title = paste("# of children in NC,", children$year),
+    # scales::comma adds commas after the thousands, millions, etc.
+    value = scales::comma(children$count)
+)
+```
+
+### Children under 5
+
+```{r}
+#| content: valuebox
+under5 = ages |>
+    filter(age_to < 5) |>
+    summarize(count = sum(count), year=first(year))
+
+children = ages |>
+    # filter to most recent year
+    filter(age_to < 18) |>
+    summarize(count=sum(count), year=first(year))
+
+list(
+    # the title will include the year, so if we update the data
+    # the dashboard will stay correct
+    title = paste("% of children under 5,", under5$year),
+    # scales::comma adds commas after the thousands, millions, etc.
+    value = scales::percent(under5$count / children$count)
+)
+```
+
+# Placement instability
+
+<!-- because we did not specify an orientation, this will be row-oriented -->
+
+## Introduction
+
+This page shows how many placements children go through in their first year of care. More placements lead to less stability for children.
+
+## {.tabset}
+
+```{r}
+#| title: Trends
+#| fig-alt: Bar plot showing the number of placements children go through in their first year of care, showing that 25-20% have only one, and 30-40% have four or more, though this reduced in 2023.
+
+# fig-alt specifies text to be shown or read when the image is not available or accessible. This will most often be used
+# by users with visual impairments who use screen reading software. This is a requirement for most public sector websites.
+
+placement_counts = read_csv("data/placement_count_by_year.csv") |>
+    filter(Location == "North Carolina") |>
+    # this instructs R to display the number of placements data in this order
+    mutate(DataGroups = ordered(DataGroups, levels=c("One", "Two", "Three", "Four or More")))
+
+# The NC Child dashboard displays this as four lines on a line plot, but it is hard to see overall trends
+# that way. I am going to display this as a stacked bar chart instead.
+placement_counts |>
+    # ggplot is (imho) the best plotting library out there. gg stands for the "grammar of graphics" -
+    # you map aspects of your data onto aspects of your plot; these are known as "aesthetics" (aes for short)
+    ggplot(aes(x=TimeFrame, y=Data, fill=DataGroups)) +
+        # geoms are what actually display your data - here, a stacked column plot
+        # position_fill is a stacked column plot where the bars are scaled to fill the y axis
+        # our data roughly total 100%, but aren't perfect due to rounding
+        geom_col(position = position_fill(reverse=TRUE)) +
+        scale_y_continuous(labels = scales::percent) +
+        xlab("Year") +
+        ylab("") +
+        labs(fill = "Number of Placements") +
+        theme(legend.position = "bottom")
+```
+
+```{r}
+#| title: Table
+# The NC Child Portal only displays the most recent year, so we'll do that as well.
+# because we converted to an ordered factor above, we'll get the rows in order, unlike
+# the NC Child dashboard
+
+placement_counts |>
+    filter(TimeFrame == max(TimeFrame)) |>
+    # this selects just the two columns we want in our table
+    select(DataGroups, Data) |>
+    # This adds a percentage sign
+    mutate(Data = paste0(Data, "%")) |>
+    # This turns the data into an HTML table
+    gt() |>
+        cols_label(
+        DataGroups ~ "Number of Placements",
+        Data ~ "Percent of Children"
+        )
+```
+
+##
+
+_Source: NC Child/NC Department of Health and Human Services (DHHS) in partnership with the UNC Jordan Institute for Families_
+
+# Time in system
+
+The goal of the foster care system is to place children in permanent, safe homes as quickly as possible. This page shows trends in placement speed.
+
+## {.tabset}
+
+```{r}
+#| title: Trends
+#| fig-alt: Plot of number of children still in the foster care system two years after entering it. It shows a slightly increasing trend, from about 27% in 2011 to about 40% in 2023.
+
+
+# Setting LocationID = col_character will read the location ID as text, instead of as a number
+# which will be important for joining with other data.
+two_years = read_csv("data/in_system_two_years.csv", col_types=cols(LocationID=col_character()))
+
+two_years |>
+    filter(Location == "North Carolina") |>
+    ggplot(aes(x = TimeFrame, y = Data)) +
+        geom_line() +
+        xlab("Year") +
+        # \n will become a line break
+        ylab("Percent of children still in\nfoster system after two years") +
+        ylim(0, 40)
+```
+
+```{r}
+#| title: Table
+
+two_years |>
+    filter(Location == "North Carolina") |>
+    select(TimeFrame, Data) |>
+    mutate(Data = paste0(Data, "%")) |>
+    gt() |>
+        cols_label(
+            TimeFrame ~ "Year",
+            Data ~ "Percent of children still in foster system after two years"
+        )
+```
+
+```{r}
+#| title: Map
+#| fig-width: 8
+#| fig-height: 3
+#| fig-alt: Map of two-year retention, showing retention in lowest in the central parts of the state and highest in the western part.
+#| fig-format: png
+
+# I set custom fig-height and fig-width attributes above to make the map more readable. This is a trial and error
+# situation, and counterintuitively making the numbers smaller can often make things more readable, because
+# the smaller image is then scaled up. For some reason fig-format: svg does not work with maps, so we change it to png.
+
+# we need to join the county level data for the most recent year with the spatial data so we can map it
+two_years_spatial = two_years |>
+    filter(TimeFrame == max(TimeFrame)) |>
+    # match the percent of children data to the counties data, matching the LocationID column
+    # in the children data to the GEOID column in the counties data
+    inner_join(counties, by=c("LocationID"="GEOID"))
+
+ggplot() +
+    layer_spatial(two_years_spatial, aes(fill=Data), linewidth=0) +
+    labs(fill = "Percent of children still in\nfoster system after two years") +
+    # this just removes all plot elements except the map
+    theme_void()
+```
+
+##
+
+_Source: NC Child/NC Department of Health and Human Services (DHHS) in partnership with the UNC Jordan Institute for Families_
+
+# Permanency
+
+## Introduction
+
+The goal is to place children into permanent, stable living situations. This measures how many children are placed into permanent situations within one year of entering care
+
+## {.tabset}
+
+```{r}
+#| title: Trends
+#| fig-alt: Line plot of number of children placed in permanent homes within one year of entering foster care, showing a relatively flat trend hovering around 30%
+
+permanency = read_csv("data/permanency_rate.csv", col_types=cols(LocationID=col_character()))
+
+permanency |>
+    filter(Location == "North Carolina") |>
+    ggplot(aes(x = TimeFrame, y = Data)) +
+        geom_line() +
+        xlab("Year") +
+        # \n will become a line break
+        ylab("Percent of children placed in\npermanent homes within one year") +
+        ylim(0, 40)
+```
+
+```{r}
+#| title: Table
+
+permanency |>
+    filter(Location == "North Carolina") |>
+    select(TimeFrame, Data) |>
+    mutate(Data = paste0(Data, "%")) |>
+    gt() |>
+        cols_label(
+            TimeFrame ~ "Year",
+            Data ~ "Percent of children still in foster system after two years"
+        )
+```
+
+```{r}
+#| title: Map
+#| fig-width: 8
+#| fig-height: 3
+#| fig-alt: Map of percent of children placed in permanent homes within one year. It is highest in Eastern North Carolina.
+#| fig-format: png
+
+permanency_spatial = permanency |>
+    filter(TimeFrame == max(TimeFrame)) |>
+    inner_join(counties, by=c("LocationID"="GEOID"))
+
+ggplot() +
+    layer_spatial(permanency_spatial, aes(fill=Data), linewidth=0) +
+    labs(fill = "Percent of children placed in\npermanent homes within one year") +
+    theme_void()
+```
+
+##
+
+_Source: NC Child/NC Department of Health and Human Services (DHHS) in partnership with the UNC Jordan Institute for Families_

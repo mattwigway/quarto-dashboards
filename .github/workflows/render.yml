@@ -1,0 +1,52 @@
+
+on:
+  push:
+    branches:
+      - main # Triggers the workflow on pushes to the main branch
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+            use_public_rspm: true
+      - name: Install R dependencies
+        run: sudo apt install cmake gdal-bin libcurl4-openssl-dev libfontconfig1-dev libfreetype6-dev libgdal-dev libnode-dev libudunits2-dev libx11-dev pandoc
+      - name: Install R packages
+        run: Rscript -e 'install.packages(c("tidyverse", "ggspatial", "tigris", "gt")'
+      - name: Rename to index
+        run: mv dashboard_answers.qmd index.qmd
+      - name: Render Quarto
+        uses: quarto-dev/quarto-actions/render@v2
+        with:
+          path: index.qmd
+      - name: Prepare deployment
+        run: mkdir web & mv index.html index_files web
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          # Directory containing the static assets to deploy (e.g., './dist', './public')
+          path: './web'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
