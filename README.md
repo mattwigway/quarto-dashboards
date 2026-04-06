@@ -4,7 +4,7 @@ This repository contains code and data to support building a Quarto dashboard th
 
 ## Usage in RStudio
 
-Download this repository by clicking the green "Code" button above and choosing "Download ZIP." Unzip it and open `nc-child-quarto.Rproj` in RStudio, and open `dashboard_exercise.qmd` in the files pane to get started.
+Download this repository by clicking the green "Code" button above and choosing "Download ZIP." Unzip it. Open `nc-child-quarto.Rproj` in RStudio. Open `dashboard_exercise.qmd` in the files pane to get started.
 
 ## Usage on Posit Cloud
 
